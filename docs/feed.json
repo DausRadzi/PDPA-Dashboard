@@ -1,4 +1,341 @@
-{"generated":"2026-09-30T00:00:00+00:00","items":[
-{"id":"seed000001","title":"Malaysian Government: Johor's Tanjung Pelepas Port under cyberattack, launches system clean-up","url":"https://blog.rankiteo.com/mal1789468527-malaysian-government-cyber-attack-september-2026/","source":"Rankiteo (aggregator)","type":"News","trust":"Unverified","date":"2026-09-14T00:00:00+00:00","first_seen":"2026-09-30T00:00:00+00:00","snippet":"Sample seed item. Aggregator text mixes dates; verify against NST/NACSA.","score":8,"reasons":["mentions Malaysia","Malaysian regulator/law"],"lang":"EN","story":"seed000001"},
-{"id":"seed000002","title":"Malaysian Nuclear Agency listed by TheGentlemen ransomware group","url":"https://www.breachsense.com/breaches/malaysian-nuclear-agency-data-breach/","source":"Breachsense","type":"Tracker","trust":"Actor claim","date":"2026-07-30T00:00:00+00:00","first_seen":"2026-09-30T00:00:00+00:00","snippet":"Sample seed item. Leak size unknown; threat-actor claim only.","score":6,"reasons":["Country = MY per tracker"],"lang":"EN","story":"seed000002"}
-],"health":[]}
+{
+ "generated": "2026-09-30T07:47:42.775638+00:00",
+ "items": [
+  {
+   "id": "540f5c0f5bf0",
+   "title": "M*** P**** M*** listed by netrunner ransomware group",
+   "url": "https://www.ransomware.live/group/netrunner",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-28T23:34:34.191580+00:00",
+   "snippet": "",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "92864f896f17"
+  },
+  {
+   "id": "seed000001",
+   "title": "Malaysian Government: Johor's Tanjung Pelepas Port under cyberattack, launches system clean-up",
+   "url": "https://blog.rankiteo.com/mal1789468527-malaysian-government-cyber-attack-september-2026/",
+   "source": "Rankiteo (aggregator)",
+   "type": "News",
+   "trust": "Unverified",
+   "date": "2026-09-14T00:00:00+00:00",
+   "first_seen": "2026-09-30T00:00:00+00:00",
+   "snippet": "Sample seed item. Aggregator text mixes dates; verify against NST/NACSA.",
+   "score": 8,
+   "reasons": [
+    "mentions Malaysia",
+    "Malaysian regulator/law"
+   ],
+   "lang": "EN",
+   "story": "seed000001"
+  },
+  {
+   "id": "32012c147667",
+   "title": "Port of Tanjung Pelepas listed by direwolf ransomware group",
+   "url": "https://www.ransomware.live/group/direwolf",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-11T15:54:58.991295+00:00",
+   "snippet": "Marine Shipping & Transportation",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "32012c147667"
+  },
+  {
+   "id": "70a9af340913",
+   "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
+   "url": "https://www.ransomware.live/group/majinahanashi",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-25T09:22:11.312472+00:00",
+   "snippet": "PUBLICATION SCHEDULED. [LEAK / 1844 FILES]",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "92864f896f17"
+  },
+  {
+   "id": "f9ae859a69d7",
+   "title": "SD Associates Sdn Bhd listed by incransom ransomware group",
+   "url": "https://www.ransomware.live/group/incransom",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-18T00:26:41.009418+00:00",
+   "snippet": "SD Associates (SDA) is a globally expanding company that prides itself in providing quality service to every client. We provide comprehensive professional project management and engineering consultancy services in divers",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "92864f896f17"
+  },
+  {
+   "id": "seed000002",
+   "title": "Malaysian Nuclear Agency listed by TheGentlemen ransomware group",
+   "url": "https://www.breachsense.com/breaches/malaysian-nuclear-agency-data-breach/",
+   "source": "Breachsense",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-30T00:00:00+00:00",
+   "first_seen": "2026-09-30T00:00:00+00:00",
+   "snippet": "Sample seed item. Leak size unknown; threat-actor claim only.",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "story": "63a637b32245"
+  },
+  {
+   "id": "41687f80fb0c",
+   "title": "Tong Kong E & E Sdn Bhd (95907X) listed by Black X ransomware group",
+   "url": "https://www.ransomware.live/group/Black%20X",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-29T16:17:29.112839+00:00",
+   "snippet": "It contains sensitive data, including customers and banking records.",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "41687f80fb0c"
+  },
+  {
+   "id": "a3e6e720a3b6",
+   "title": "Weilhotel listed by gunra ransomware group",
+   "url": "https://www.ransomware.live/group/gunra",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-29T04:24:37.577820+00:00",
+   "snippet": "Sector: Hotel | Revenue: US$ 5,000,000",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "92864f896f17"
+  },
+  {
+   "id": "2e833b924c20",
+   "title": "Furama Bukit Bintang listed by nightspire ransomware group",
+   "url": "https://www.ransomware.live/group/nightspire",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-27T17:56:12.229846+00:00",
+   "snippet": "- Executive Data- HR Data and Documents- Data for IT Department",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "2e833b924c20"
+  },
+  {
+   "id": "e90919f60987",
+   "title": "Sunway Berhad listed by qilin ransomware group",
+   "url": "https://www.ransomware.live/group/qilin",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-23T04:28:45.174350+00:00",
+   "snippet": "N/A",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "e90919f60987"
+  },
+  {
+   "id": "3fdb56545ebd",
+   "title": "Perpustam listed by arcusmedia ransomware group",
+   "url": "https://www.ransomware.live/group/arcusmedia",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-14T20:12:59.978260+00:00",
+   "snippet": "Perpustam.gov.myPERPUSTAM stands for the Malacca Public Library Corporation, which is the Deadline: 2026-07-21 18:51:00.000000",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "92864f896f17"
+  },
+  {
+   "id": "63a637b32245",
+   "title": "Quanterm Logistics Sdn Bhd listed by thegentlemen ransomware group",
+   "url": "https://www.ransomware.live/group/thegentlemen",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-07T18:34:23.975916+00:00",
+   "snippet": "***.com zoominfo.com/c/quanterm-logistics-sdn-bhd/346750206 Quanterm Logistics, founded in 1992 and headquartered in Malaysia, is a leading freight forwarding and total logistics provider in the Asia Pacific region.Start",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "63a637b32245"
+  },
+  {
+   "id": "92864f896f17",
+   "title": "majuhome.com.my listed by krybit ransomware group",
+   "url": "https://www.ransomware.live/group/krybit",
+   "source": "ransomware.live (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-03T09:54:38.036607+00:00",
+   "snippet": "MAJUHOME Concept (Maju Home Furnishing Sdn. Bhd.) is a Malaysian leading one-stop mega furniture mall and lifestyle bran...",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "92864f896f17"
+  }
+ ],
+ "health": [
+  {
+   "name": "Google News (EN)",
+   "type": "News",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable",
+   "last_ok": ""
+  },
+  {
+   "name": "Google News (BM)",
+   "type": "News",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable",
+   "last_ok": ""
+  },
+  {
+   "name": "Google News (PDPA)",
+   "type": "News",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 503: Service Unavailable",
+   "last_ok": ""
+  },
+  {
+   "name": "Lowyat.NET",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "SoyaCincau",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "Reddit r/malaysia",
+   "type": "Reddit",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "Reddit r/MalaysianPF",
+   "type": "Reddit",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 429: Too Many Requests",
+   "last_ok": ""
+  },
+  {
+   "name": "Reddit r/cybersecurity",
+   "type": "Reddit",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 429: Too Many Requests",
+   "last_ok": ""
+  },
+  {
+   "name": "BleepingComputer",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "The Record",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "SecurityWeek",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "The Hacker News",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "DataBreaches.net",
+   "type": "News",
+   "ok": true,
+   "count": 0,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  },
+  {
+   "name": "ransomware.live (MY)",
+   "type": "Tracker",
+   "ok": true,
+   "count": 20,
+   "error": "",
+   "last_ok": "2026-09-30T07:47:42.775638+00:00"
+  }
+ ]
+}
