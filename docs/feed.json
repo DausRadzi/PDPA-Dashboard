@@ -1,6 +1,41 @@
 {
- "generated": "2026-09-30T09:32:10.863883+00:00",
+ "generated": "2026-09-30T14:56:11.087468+00:00",
  "items": [
+  {
+   "id": "f79d5eade39e",
+   "title": "Samsung Officially Unveils Galaxy Tab S12 Series",
+   "url": "https://www.lowyat.net/2026/405932/samsung-galaxy-tab-s12-series/",
+   "source": "Lowyat.NET",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-30T12:00:55+00:00",
+   "snippet": "After a fairly considerable number of leaks, the latest generation of Samsung flagship tablets has officially launched. As expected, the new lineup comprises two models, namely the Galaxy Tab S12+ and the Galaxy Tab S12 ",
+   "score": 2,
+   "reasons": [
+    "Malaysia-focused source"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T14:56:11.087468+00:00",
+   "story": "f79d5eade39e"
+  },
+  {
+   "id": "b365390f5aa2",
+   "title": "Singapore sees first data breach linked to AI use, ST reports - The Edge Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWnhQT2RDdUdwUXA1NnJuNHFhRGU1S1BlN3pIRV80aVpJOTF0WEJXZ0hxVXlYaENoOGhxdmhVZFRPQ3N0MTY0V0lqQ2lxZjlt?oc=5",
+   "source": "The Edge Malaysia (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-30T11:56:12+00:00",
+   "snippet": "Singapore sees first data breach linked to AI use, ST reports The Edge Malaysia",
+   "score": 5,
+   "reasons": [
+    "Malaysia-focused source",
+    "mentions Malaysia"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-09-30T14:56:11.087468+00:00",
+   "story": "b365390f5aa2"
+  },
   {
    "id": "fcbaf9ac98d7",
    "title": "Huawei To Launch Mate 90 Series In China On 1 October; Alleged Specs, Renders Leaked",
@@ -38,22 +73,23 @@
   },
   {
    "id": "4378b0671288",
-   "title": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts - MYC! Malaysian Youth Community",
+   "title": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts - MYC.my",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVBUbnBJSmYxWE9wUHgxZ28tenRzdkJ4ZnpUUDMxLVppUFdSdy1oS2lsRzY5RjBzbURTd3FNRUZyM04tdThmWjlqV1dNZlR2Z1I2dXJUUzlHVF9SNk0zMnFGWDRsNE9pYS1jY01naEpQMkZabGFDU29zSFZ4NkVEVGNfSlF4V1d0R3VLYUR2OERXVW9rbXl2YjNQaVlUeHA2d3l0eXcwb3BxcE0?oc=5",
-   "source": "MYC! Malaysian Youth Community (Google News)",
+   "source": "MYC.my (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-29T03:20:24+00:00",
-   "snippet": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts MYC! Malaysian Youth Community",
-   "score": 8,
+   "snippet": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts MYC.my",
+   "score": 10,
    "reasons": [
     "Malaysia-focused source",
     "mentions Malaysia",
+    ".my domain",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "4fb872687643"
+   "story": "74fbe695e25c"
   },
   {
    "id": "540f5c0f5bf0",
@@ -74,13 +110,13 @@
   },
   {
    "id": "aea55439c2fb",
-   "title": "AI agents hacked Australia’s national healthcare database - Thred Website",
+   "title": "AI agents hacked Australia’s national healthcare database - thred.com",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxnT1R2VmdsTUtEY3VETDN5ckh1S194M0swMk1kSzZ4RDdLc1M5NWE0ZEh4SkhFb01mNk5WUUVWbWxkelVzTEZFVXZxUE5KMUl5MnNObmlhYWhNNExOQWlrTjFQZXgxTWhEam1JX2FEZmZyV0VjSGJab3BfWUYyV0gzSy1fbEU?oc=5",
-   "source": "Thred Website (Google News)",
+   "source": "thred.com (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T13:08:05+00:00",
-   "snippet": "AI agents hacked Australia’s national healthcare database Thred Website",
+   "snippet": "AI agents hacked Australia’s national healthcare database thred.com",
    "score": 2,
    "reasons": [
     "Malaysia-focused source"
@@ -733,17 +769,17 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -751,15 +787,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -767,7 +803,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -775,15 +811,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Lowyat.NET",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -791,7 +827,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -799,7 +835,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -815,7 +851,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -823,7 +859,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "The Record",
@@ -831,7 +867,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -839,7 +875,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "The Hacker News",
@@ -847,7 +883,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -855,7 +891,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   },
   {
    "name": "ransomware.live (MY)",
@@ -863,7 +899,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-09-30T09:32:10.863883+00:00"
+   "last_ok": "2026-09-30T14:56:11.087468+00:00"
   }
  ]
 }
