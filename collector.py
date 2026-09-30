@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """PDPA Breach Watch collector (stdlib only).
 Stores only title, link, source, date and a short snippet -- never full text or leaked data."""
-import hashlib, json, re, urllib.parse, urllib.request
+import hashlib, json, re, time, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -27,7 +27,6 @@ SOURCES = [
     {"name": "Google News (EN)", "type": "News", "my": True, "url": gn('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked) when:7d')},
     {"name": "Google News (BM)", "type": "News", "my": True, "url": gn('kebocoran data OR "data bocor" OR digodam OR "serangan siber" when:7d', "ms")},
     {"name": "Google News (PDPA)", "type": "News", "my": True, "url": gn('PDPA OR JPDP OR NACSA "data breach" when:30d')},
-    {"name": "FMT data breach tag", "type": "News", "my": True, "url": "https://www.freemalaysiatoday.com/category/tag/data-breach/feed/"},
     {"name": "Lowyat.NET", "type": "News", "my": True, "url": "https://www.lowyat.net/feed/"},
     {"name": "SoyaCincau", "type": "News", "my": True, "url": "https://soyacincau.com/feed/"},
     {"name": "Reddit r/malaysia", "type": "Reddit", "my": True, "url": rd("malaysia", "data breach OR leak OR bocor OR hacked")},
@@ -199,10 +198,12 @@ def main():
         except Exception as ex:
             h["ok"], h["error"] = False, str(ex)[:120]
         health.append(h)
+        time.sleep(3)
         print(("OK  " if h["ok"] else "FAIL"), s["name"], h["count"], h["error"])
     lst = list(items.values())
     cluster(lst)
     lst.sort(key=lambda i: i["date"], reverse=True)
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"generated": now.isoformat(), "items": lst, "health": health}, ensure_ascii=False, indent=1))
 
 
