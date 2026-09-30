@@ -1,6 +1,24 @@
 {
- "generated": "2026-09-30T20:01:34.819358+00:00",
+ "generated": "2026-09-30T23:49:44.359809+00:00",
  "items": [
+  {
+   "id": "aadafee92c0c",
+   "title": "Risiko kebocoran data peribadi daripada trend penciptaan foto AI \"80-an\". - Vietnam.vn",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFhlUjRuTGlEYnRhcFZSV1BtdFZCY1hCeVlvX2RBOUJvMzNRY3ppUjBVRDJQX2YyWWhnelg4QU41TnhxbW81RXQ0S3VXS2pOZ2lKUEctRDBNeXJWUzBXTWFDNkw1VVZ6X0ExR3ZWaDlFQ0tLTFRoaXNRTVNmNlBVb09OcG1lU1dNaE5xUEVuTDNCUQ?oc=5",
+   "source": "Vietnam.vn (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-30T12:35:43+00:00",
+   "snippet": "Risiko kebocoran data peribadi daripada trend penciptaan foto AI \"80-an\". Vietnam.vn",
+   "score": 4,
+   "reasons": [
+    "Malaysia-focused source",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-09-30T23:49:44.359809+00:00",
+   "story": "ce16b3b98df3"
+  },
   {
    "id": "f79d5eade39e",
    "title": "Samsung Officially Unveils Galaxy Tab S12 Series",
@@ -415,13 +433,13 @@
   },
   {
    "id": "fc27c192a0f8",
-   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - mlex.com",
+   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3ZTX0w0MklMZFlfY0lRbkhBRE40R1d1NkpaQ3FscEFDcktLRGVnRXpOQ0N3LWF1TXhaV0I0TE53R2VuenFTTno2NU1OU2dHVzRxa19LVHF1Z2ZhMlBDVWFZSWJ0WjVMcUNLemZmUTlvMkRIR1NDVzZ5RUUwdmZsbTk2TlplRFpXeC1leDNfb2w2SFBzcHF2Ui13Y0dvZWNRUk9mc0FlZTItMXFwaDVPdXRSOGhYRGFhLXlIdWUzelZfdGFYNW5QQ1JQU1U1SzR5WkNOb2JPTlJvaUNrNGfSAVpBVV95cUxPRlZvZTZ2WFpQSjRnSnNwQ281V0FDbE9JSFp2SGNqTVp6bm1qUUxBeXpJeWM0NDFLSEEyR0p5ZUpXNTgwVWJHdnFHdVB4X25CM1Fzem16RV81U1E?oc=5",
-   "source": "mlex.com (Google News)",
+   "source": "MLex (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T02:42:25+00:00",
-   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts mlex.com",
+   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
    "score": 5,
    "reasons": [
     "Malaysia-focused source",
@@ -433,13 +451,13 @@
   },
   {
    "id": "14ad9899bfc5",
-   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - mlex.com",
+   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GVm9lNnZYWlBKNGdKc3BDbzVXQUNsT0lIWnZIY2pNWnpubWpRTEF5ekl5YzQ0MUtIQTJHSnllSlc1ODBVYkd2cUd1UHhfbkIzUXN6bXpFXzVTUdIBWkFVX3lxTE9GVm9lNnZYWlBKNGdKc3BDbzVXQUNsT0lIWnZIY2pNWnpubWpRTEF5ekl5YzQ0MUtIQTJHSnllSlc1ODBVYkd2cUd1UHhfbkIzUXN6bXpFXzVTUQ?oc=5",
-   "source": "mlex.com (Google News)",
+   "source": "MLex (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T02:42:00+00:00",
-   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts mlex.com",
+   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
    "score": 5,
    "reasons": [
     "Malaysia-focused source",
@@ -787,9 +805,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -797,7 +815,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -805,7 +823,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -813,15 +831,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": false,
-   "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-09-30T14:56:11.087468+00:00"
+   "ok": true,
+   "count": 1,
+   "error": "",
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -829,7 +847,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -837,7 +855,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -845,7 +863,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -853,7 +871,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -877,7 +895,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "The Record",
@@ -885,7 +903,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -893,7 +911,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "The Hacker News",
@@ -901,7 +919,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -909,7 +927,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   },
   {
    "name": "ransomware.live (MY)",
@@ -917,7 +935,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-09-30T20:01:34.819358+00:00"
+   "last_ok": "2026-09-30T23:49:44.359809+00:00"
   }
  ]
 }
