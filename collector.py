@@ -21,12 +21,26 @@ def gn(q, lang="en"):
 def rd(sub, q):
     return f"https://www.reddit.com/r/{sub}/search.rss?q={urllib.parse.quote(q)}&restrict_sr=1&sort=new&t=month"
 
+def bing(q, mkt="en-MY"):
+    return f"https://www.bing.com/news/search?q={urllib.parse.quote(q)}&format=rss&setmkt={mkt}"
+
+
+def unwrap(link):
+    # Bing wraps article links in a redirect; extract the real URL
+    if "bing.com/news/apiclick" in link:
+        u = urllib.parse.parse_qs(urllib.parse.urlsplit(link).query).get("url")
+        if u:
+            return u[0]
+    return link
 
 # my=True -> Malaysia-focused source (adds relevance). EDIT THIS LIST to add or remove sources.
 SOURCES = [
     {"name": "Google News (EN)", "type": "News", "my": True, "url": gn('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked) when:7d')},
     {"name": "Google News (BM)", "type": "News", "my": True, "url": gn('kebocoran data OR "data bocor" OR digodam OR "serangan siber" when:7d', "ms")},
     {"name": "Google News (PDPA)", "type": "News", "my": True, "url": gn('PDPA OR JPDP OR NACSA "data breach" when:30d')},
+    {"name": "Bing News (EN)", "type": "News", "my": True, "url": bing('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked)')},
+    {"name": "Bing News (BM)", "type": "News", "my": True, "url": bing('Malaysia (kebocoran data OR "data bocor" OR digodam OR "serangan siber")', "ms-MY")},
+    {"name": "Bing News (PDPA)", "type": "News", "my": True, "url": bing('(PDPA OR JPDP OR NACSA) "data breach" Malaysia')},
     {"name": "Lowyat.NET", "type": "News", "my": True, "url": "https://www.lowyat.net/feed/"},
     {"name": "SoyaCincau", "type": "News", "my": True, "url": "https://soyacincau.com/feed/"},
     {"name": "Reddit r/malaysia", "type": "Reddit", "my": True, "url": rd("malaysia", "data breach OR leak OR bocor OR hacked")},
@@ -71,8 +85,14 @@ def score(text, my_source):
 
 
 def fetch(url):
-    with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=25) as r:
-        return r.read()
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=25) as r:
+                return r.read()
+        except Exception:
+            if attempt == 2:
+                raise
+            time.sleep(5 * (attempt + 1))
 
 
 def ln(tag):
@@ -132,7 +152,7 @@ def make(s, title, link, snip, d, sc, why, source=None):
 def from_feed(s, cutoff):
     out = []
     for e in parse_feed(fetch(s["url"])):
-        title, link = clean(e.get("title"), 200), e.get("link", "")
+        title, link = clean(e.get("title"), 200), unwrap(e.get("link", ""))
         d = pdate(e.get("pubDate") or e.get("published") or e.get("updated"))
         if not title or not link.startswith("http") or not d or d < cutoff:
             continue
@@ -163,6 +183,9 @@ def toks(t):
 def cluster(items):
     reps = []
     for it in sorted(items, key=lambda i: i["date"]):
+        if it["type"] == "Tracker":
+            it["story"] = it["id"]
+            continue
         t, sid = toks(it["title"]), None
         for s, rt in reps:
             if t and rt and len(t & rt) / len(t | rt) >= 0.4:
