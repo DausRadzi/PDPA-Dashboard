@@ -1,6 +1,23 @@
 {
- "generated": "2026-09-30T23:49:44.359809+00:00",
+ "generated": "2026-10-01T05:54:32.361308+00:00",
  "items": [
+  {
+   "id": "8d3dc9f93f66",
+   "title": "Bee Cheng Hiang data breach exposes 95,364 customer email addresses after AI-assisted script error - The Online Citizen",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ1hhdWdmaTg5Nks1b0pUQ004czRlc0hULTVidEw3djEtYUxoY2tOazNkNUp0aXROYkpncW1ETUJhRFoyNkdKMXdyWU5CazZpaXJKY2dEZ3dNZi1CclNoeFdUUXM0bl9qSVAwWVlwNjFYMUdkclQyNVZEclBPVm1EQmdyaTZLUlhWZFFzRHRhdWMwYUh3QXZYVzNzRFhaZUowRTNfR2JJSEh5ejV1NGx5dmtEU1lVMEc4WlNqZ0JNdlRGZnpjc1U0T0FuaU9iVnlZMHJpTkl1MW4zRXM?oc=5",
+   "source": "The Online Citizen (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-01T02:14:45+00:00",
+   "snippet": "Bee Cheng Hiang data breach exposes 95,364 customer email addresses after AI-assisted script error The Online Citizen",
+   "score": 2,
+   "reasons": [
+    "Malaysia-focused source"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-01T05:54:32.361308+00:00",
+   "story": "8d3dc9f93f66"
+  },
   {
    "id": "aadafee92c0c",
    "title": "Risiko kebocoran data peribadi daripada trend penciptaan foto AI \"80-an\". - Vietnam.vn",
@@ -38,17 +55,16 @@
   },
   {
    "id": "b365390f5aa2",
-   "title": "Singapore sees first data breach linked to AI use, ST reports - The Edge Malaysia",
+   "title": "Singapore sees first data breach linked to AI use, ST reports - theedgemalaysia.com",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWnhQT2RDdUdwUXA1NnJuNHFhRGU1S1BlN3pIRV80aVpJOTF0WEJXZ0hxVXlYaENoOGhxdmhVZFRPQ3N0MTY0V0lqQ2lxZjlt?oc=5",
-   "source": "The Edge Malaysia (Google News)",
+   "source": "theedgemalaysia.com (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-30T11:56:12+00:00",
-   "snippet": "Singapore sees first data breach linked to AI use, ST reports The Edge Malaysia",
-   "score": 5,
+   "snippet": "Singapore sees first data breach linked to AI use, ST reports theedgemalaysia.com",
+   "score": 2,
    "reasons": [
-    "Malaysia-focused source",
-    "mentions Malaysia"
+    "Malaysia-focused source"
    ],
    "lang": "EN",
    "first_seen": "2026-09-30T14:56:11.087468+00:00",
@@ -234,6 +250,24 @@
    "story": "74fbe695e25c"
   },
   {
+   "id": "fc2b6acfaa4b",
+   "title": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts - NST Online",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOXzZDazd6TFFLNWJfX21QXzJubHFtQ0hpZW41X010UWR5T2QxT2k3TFpoVWp0bVktU2N3ZUhjbzI1b2JhbXlzT3l4WF90SmNCa1ZhcFRLZU91UmNDTnM3U3BvMmFkZWpBemgyMEM5b1ZWdFctWU05eS15WW04MWtWaGhvMUcxejlLdXU3dU1zOEFHczl2OFRLU2JtdkpGVWZVVEtRb0d1YXJWOUdqSEVGNUEtYTJzY1RQN0lxTGY3WQ?oc=5",
+   "source": "NST Online (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-28T03:37:32+00:00",
+   "snippet": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts NST Online",
+   "score": 5,
+   "reasons": [
+    "Malaysia-focused source",
+    "Malaysian regulator/law"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-01T05:54:32.361308+00:00",
+   "story": "74fbe695e25c"
+  },
+  {
    "id": "d95051607e59",
    "title": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42dDBNTm5Ra0V1STNEbVBIYUUyNDh6UkRoM0NWNm1FYnZ2a1haVEU4X0FFRERWLVd3dUUxcllYMnh2TTNkUlhSN3g4U0M0bUVOR0J5MEFmMkhHLVBHNGQ1VjJWQ3pxSk9RTjJ1NXV4SXlYTG1fbEwxYjdyYnRUQQ?oc=5",
@@ -288,17 +322,17 @@
   },
   {
    "id": "4fb872687643",
-   "title": "MCMC Meeting Meta Over Hacked, Blocked WhatsApp Accounts, Deputy Minister - BusinessToday Malaysia",
+   "title": "MCMC Meeting Meta Over Hacked, Blocked WhatsApp Accounts, Deputy Minister - businesstoday.com.my",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVZmZEw3azJqaEdtc3V2R3FabUpUTXNMU014RXhCMnk0TUE1Y2ZGVExXWE9KdnZHblpCWlZLZlFWaFFYdG9TSElrUGhwLVRSY3FSbEo4QlZCeUlTNFRseVN4cHVHMnQtT2MzU0dRSFVkWkpzcXhqSGpfR3JWRXg0VmdGUDNTRC1MMDZVbTNNM0ZydEFfNUtGQ2ppbzZOVnZsU005WkctQzFNUFVqTDc3Z3lRUkN1aEk?oc=5",
-   "source": "BusinessToday Malaysia (Google News)",
+   "source": "businesstoday.com.my (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-27T12:01:01+00:00",
-   "snippet": "MCMC Meeting Meta Over Hacked, Blocked WhatsApp Accounts, Deputy Minister BusinessToday Malaysia",
-   "score": 8,
+   "snippet": "MCMC Meeting Meta Over Hacked, Blocked WhatsApp Accounts, Deputy Minister businesstoday.com.my",
+   "score": 7,
    "reasons": [
     "Malaysia-focused source",
-    "mentions Malaysia",
+    ".my domain",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -362,13 +396,13 @@
   },
   {
    "id": "7f11a2d29f58",
-   "title": "Penggodam dakwa curi rekod perubatan ribuan ejen khas FBI - Astro Awani",
+   "title": "Penggodam dakwa curi rekod perubatan ribuan ejen khas FBI - astroawani.com",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkpHb1BMVldXWERtU0NhMkVJMERDQmxrUXVZYzV0Y0lsSTBNQVY4TjBacTFDdUNNMFJoRTBpNE9pRFNJM2Zka2U4dk5yVFVQRXRXeE9ZbTFnRUVLZzRpUENpQ2t6aEZYQmhNVHhkUmxfU00yRjk5UzBkazRPZEhWYXdXSnB4a3JkNzBNWGhPaW1wSjUwdHlESHhXcF9nZw?oc=5",
-   "source": "Astro Awani (Google News)",
+   "source": "astroawani.com (Google News)",
    "type": "News",
    "trust": "Media report",
-   "date": "2026-09-25T22:58:41+00:00",
-   "snippet": "Penggodam dakwa curi rekod perubatan ribuan ejen khas FBI Astro Awani",
+   "date": "2026-09-25T23:00:00+00:00",
+   "snippet": "Penggodam dakwa curi rekod perubatan ribuan ejen khas FBI astroawani.com",
    "score": 4,
    "reasons": [
     "Malaysia-focused source",
@@ -450,6 +484,24 @@
    "story": "14ad9899bfc5"
   },
   {
+   "id": "6a357bd5cd26",
+   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2pBd0lhWnloN1pmWmtXcGgtZ3lMMTlvV3NqeUlvTnhGSHBYaHJOeUhNQUNQTWRBcmlHTTJRMGFZUHg2XzFMZnA1dUNvSXM3bWRkeXNLUTh4V0xCWkpFOFJGX0phZktyOHhkNnZPaFRUdUJMcVM4ZF9VNkM1NEstUUtKZGZKaGdyODNlaEY3QmpYcEw3NzJiS1FhNlI1OVlpczUxYnNSdUU2bkd1eDNDT2JnV0xTNWR5QW4xWXFWUErSAVpBVV95cUxPRlZvZTZ2WFpQSjRnSnNwQ281V0FDbE9JSFp2SGNqTVp6bm1qUUxBeXpJeWM0NDFLSEEyR0p5ZUpXNTgwVWJHdnFHdVB4X25CM1Fzem16RV81U1E?oc=5",
+   "source": "MLex (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-25T02:42:25+00:00",
+   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
+   "score": 5,
+   "reasons": [
+    "Malaysia-focused source",
+    "mentions Malaysia"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-01T05:54:32.361308+00:00",
+   "story": "14ad9899bfc5"
+  },
+  {
    "id": "14ad9899bfc5",
    "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GVm9lNnZYWlBKNGdKc3BDbzVXQUNsT0lIWnZIY2pNWnpubWpRTEF5ekl5YzQ0MUtIQTJHSnllSlc1ODBVYkd2cUd1UHhfbkIzUXN6bXpFXzVTUdIBWkFVX3lxTE9GVm9lNnZYWlBKNGdKc3BDbzVXQUNsT0lIWnZIY2pNWnpubWpRTEF5ekl5YzQ0MUtIQTJHSnllSlc1ODBVYkd2cUd1UHhfbkIzUXN6bXpFXzVTUQ?oc=5",
@@ -466,6 +518,23 @@
    "lang": "EN",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
    "story": "14ad9899bfc5"
+  },
+  {
+   "id": "681d1a9ae50d",
+   "title": "Australia says OpenAI agent hacked government website - Awani International",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVNRc0ltakFwRl9henEwSFhQbHZFY2xmXzB0QVNHMWE5NW04clFaT25KRTFXTUo0NElTUlRGQmxfcVVYZjlacFM1dDgxbHhhdmJVLTNoWmZGTWNwN1JmLUVja3hGREs0OU56d0hKaFJEODNjTGxzc2pIaWhvRmtXYW9NX3BxMTFzLU5tR0NpcnhRNjlPbHRlUFRaYWY?oc=5",
+   "source": "Awani International (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-24T14:06:38+00:00",
+   "snippet": "Australia says OpenAI agent hacked government website Awani International",
+   "score": 2,
+   "reasons": [
+    "Malaysia-focused source"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-01T05:54:32.361308+00:00",
+   "story": "fd3c432cf5c4"
   },
   {
    "id": "593a4ce57da1",
@@ -805,25 +874,25 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 13,
+   "count": 12,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Google News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -831,15 +900,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -847,15 +916,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Lowyat.NET",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -863,7 +932,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -871,15 +940,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": ""
+   "error": "",
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -895,7 +964,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "The Record",
@@ -903,7 +972,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -911,7 +980,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "The Hacker News",
@@ -919,7 +988,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -927,7 +996,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   },
   {
    "name": "ransomware.live (MY)",
@@ -935,7 +1004,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-09-30T23:49:44.359809+00:00"
+   "last_ok": "2026-10-01T05:54:32.361308+00:00"
   }
  ]
 }
