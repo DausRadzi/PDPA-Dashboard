@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T13:15:22.561795+00:00",
+ "generated": "2026-10-01T19:32:09.125814+00:00",
  "items": [
   {
    "id": "6103f174444e",
@@ -16,6 +16,23 @@
    ],
    "lang": "EN",
    "first_seen": "2026-10-01T13:15:22.561795+00:00",
+   "story": "6103f174444e"
+  },
+  {
+   "id": "f1fb66c25768",
+   "title": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach - AsiaOne",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KMW1pSXcybk1oajF0cUxjRU5fNzZQOVdpRG80cXRSSnlzQ1paWTlHbHc5bmhRdGVtR21DTUhnR2ZBUlNrMmUzUVo3SnQ0TkRFcTZYSnRqc01MOVUycXM0cTFseC04aWlkN0lueHhKUGV1dDlVUlNOY1ctcw?oc=5",
+   "source": "AsiaOne (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-01T04:45:40+00:00",
+   "snippet": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach AsiaOne",
+   "score": 2,
+   "reasons": [
+    "Malaysia-focused source"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-01T19:32:09.125814+00:00",
    "story": "6103f174444e"
   },
   {
@@ -143,23 +160,22 @@
   },
   {
    "id": "4378b0671288",
-   "title": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts - MYC.my",
+   "title": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts - MYC! Malaysian Youth Community",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVBUbnBJSmYxWE9wUHgxZ28tenRzdkJ4ZnpUUDMxLVppUFdSdy1oS2lsRzY5RjBzbURTd3FNRUZyM04tdThmWjlqV1dNZlR2Z1I2dXJUUzlHVF9SNk0zMnFGWDRsNE9pYS1jY01naEpQMkZabGFDU29zSFZ4NkVEVGNfSlF4V1d0R3VLYUR2OERXVW9rbXl2YjNQaVlUeHA2d3l0eXcwb3BxcE0?oc=5",
-   "source": "MYC.my (Google News)",
+   "source": "MYC! Malaysian Youth Community (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-29T03:20:24+00:00",
-   "snippet": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts MYC.my",
-   "score": 10,
+   "snippet": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts MYC! Malaysian Youth Community",
+   "score": 8,
    "reasons": [
     "Malaysia-focused source",
     "mentions Malaysia",
-    ".my domain",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "74fbe695e25c"
+   "story": "4fb872687643"
   },
   {
    "id": "540f5c0f5bf0",
@@ -287,13 +303,13 @@
   },
   {
    "id": "c492cf566a7b",
-   "title": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts - klsescreener.com",
+   "title": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts - KLSE Screener",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmdsMjFqVVhwZkt6VzUtWENEeWpheTllX2Y0bHUwNHlGbk9vZWtEejA0UVEyM2w3UHNzSDc5bE1LUmtjQ1VJamc4Q2l1SHhkOUZTc2RETmJaa0tIM3hhRTYtN3N6MDBkWFRXazNvRnRHRWFjNlpaWGpmbjFFT3c2cm5JNU1lbmxKcFliMWJJcVJLRDFWZ1NDSTA4b0w2YWFSX1FMdU9IRFJ4REtvVnZoTnRZQ0pBVXU1S2VwNWdzRHdzZw?oc=5",
-   "source": "klsescreener.com (Google News)",
+   "source": "KLSE Screener (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts klsescreener.com",
+   "snippet": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts KLSE Screener",
    "score": 5,
    "reasons": [
     "Malaysia-focused source",
@@ -305,17 +321,16 @@
   },
   {
    "id": "d95051607e59",
-   "title": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating - malaysia.news.yahoo.com",
+   "title": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating - Yahoo",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42dDBNTm5Ra0V1STNEbVBIYUUyNDh6UkRoM0NWNm1FYnZ2a1haVEU4X0FFRERWLVd3dUUxcllYMnh2TTNkUlhSN3g4U0M0bUVOR0J5MEFmMkhHLVBHNGQ1VjJWQ3pxSk9RTjJ1NXV4SXlYTG1fbEwxYjdyYnRUQQ?oc=5",
-   "source": "malaysia.news.yahoo.com (Google News)",
+   "source": "Yahoo (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T01:59:00+00:00",
-   "snippet": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating malaysia.news.yahoo.com",
-   "score": 8,
+   "snippet": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating Yahoo",
+   "score": 5,
    "reasons": [
     "Malaysia-focused source",
-    "mentions Malaysia",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -324,13 +339,13 @@
   },
   {
    "id": "204f91fcd156",
-   "title": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News - asiaone.com",
+   "title": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News - AsiaOne",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HcW1sZ2ZET3JDYklwNTNHaFEyVFJWTmQyQW1SakdjZ1VaS2xMYm1BNS1PWjB2ME9TTTd6V2YtUU5lWEZveThzS0hiUFctYXFxYjRCeWUxZXZnWnRPOWFzWUZYV3RaTVhPMl9CbkppdHg0a1d3ckZlelFJa3A?oc=5",
-   "source": "asiaone.com (Google News)",
+   "source": "AsiaOne (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T00:59:13+00:00",
-   "snippet": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News asiaone.com",
+   "snippet": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News AsiaOne",
    "score": 2,
    "reasons": [
     "Malaysia-focused source"
@@ -468,13 +483,13 @@
   },
   {
    "id": "204700608192",
-   "title": "MCMC probes complaints on WhatsApp accounts being hacked and blocked - thevibes.com",
+   "title": "MCMC probes complaints on WhatsApp accounts being hacked and blocked - The Vibes",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzBqREZWck5yekxmR04tN2VqdHhNRlNWdEIwbklyVERSTTJ1cE5qalViVjFidzZaczFiMVR3R2trZVd2Y2IwVHJZeUJWcUxTQWRhLVlNc2x0QUFNTGtDN2l6Tk43cVNlNnhUY2k2cDdqNnZTLW9saFN0TDI3ZWJWVDFIeU9TQjdaWmhvMGhCUG5oRXlqRTRuUGF0OWZnc21WTHNwOWtPUGhwUGZsNW0zTk1OLU8?oc=5",
-   "source": "thevibes.com (Google News)",
+   "source": "The Vibes (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T03:14:00+00:00",
-   "snippet": "MCMC probes complaints on WhatsApp accounts being hacked and blocked thevibes.com",
+   "snippet": "MCMC probes complaints on WhatsApp accounts being hacked and blocked The Vibes",
    "score": 5,
    "reasons": [
     "Malaysia-focused source",
@@ -911,17 +926,17 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -929,15 +944,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
-   "ok": false,
-   "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-01T05:54:32.361308+00:00"
+   "ok": true,
+   "count": 2,
+   "error": "",
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -945,15 +960,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-01T05:54:32.361308+00:00"
+   "error": "",
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -961,7 +976,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -969,7 +984,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -977,23 +992,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-01T13:15:22.561795+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-09-30T14:56:11.087468+00:00"
+   "error": "",
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1001,7 +1016,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "The Record",
@@ -1009,7 +1024,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1017,7 +1032,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1025,7 +1040,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1033,7 +1048,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
    "name": "ransomware.live (MY)",
@@ -1041,7 +1056,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "last_ok": "2026-10-01T19:32:09.125814+00:00"
   }
  ]
 }
