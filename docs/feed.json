@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T19:32:09.125814+00:00",
+ "generated": "2026-10-01T23:52:46.782771+00:00",
  "items": [
   {
    "id": "6103f174444e",
@@ -20,13 +20,13 @@
   },
   {
    "id": "f1fb66c25768",
-   "title": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach - AsiaOne",
+   "title": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach - asiaone.com",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KMW1pSXcybk1oajF0cUxjRU5fNzZQOVdpRG80cXRSSnlzQ1paWTlHbHc5bmhRdGVtR21DTUhnR2ZBUlNrMmUzUVo3SnQ0TkRFcTZYSnRqc01MOVUycXM0cTFseC04aWlkN0lueHhKUGV1dDlVUlNOY1ctcw?oc=5",
-   "source": "AsiaOne (Google News)",
+   "source": "asiaone.com (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-10-01T04:45:40+00:00",
-   "snippet": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach AsiaOne",
+   "snippet": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach asiaone.com",
    "score": 2,
    "reasons": [
     "Malaysia-focused source"
@@ -89,17 +89,16 @@
   },
   {
    "id": "b365390f5aa2",
-   "title": "Singapore sees first data breach linked to AI use, ST reports - The Edge Malaysia",
+   "title": "Singapore sees first data breach linked to AI use, ST reports - theedgemalaysia.com",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWnhQT2RDdUdwUXA1NnJuNHFhRGU1S1BlN3pIRV80aVpJOTF0WEJXZ0hxVXlYaENoOGhxdmhVZFRPQ3N0MTY0V0lqQ2lxZjlt?oc=5",
-   "source": "The Edge Malaysia (Google News)",
+   "source": "theedgemalaysia.com (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-30T11:56:12+00:00",
-   "snippet": "Singapore sees first data breach linked to AI use, ST reports The Edge Malaysia",
-   "score": 5,
+   "snippet": "Singapore sees first data breach linked to AI use, ST reports theedgemalaysia.com",
+   "score": 2,
    "reasons": [
-    "Malaysia-focused source",
-    "mentions Malaysia"
+    "Malaysia-focused source"
    ],
    "lang": "EN",
    "first_seen": "2026-09-30T14:56:11.087468+00:00",
@@ -339,13 +338,13 @@
   },
   {
    "id": "204f91fcd156",
-   "title": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News - AsiaOne",
+   "title": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News - asiaone.com",
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HcW1sZ2ZET3JDYklwNTNHaFEyVFJWTmQyQW1SakdjZ1VaS2xMYm1BNS1PWjB2ME9TTTd6V2YtUU5lWEZveThzS0hiUFctYXFxYjRCeWUxZXZnWnRPOWFzWUZYV3RaTVhPMl9CbkppdHg0a1d3ckZlelFJa3A?oc=5",
-   "source": "AsiaOne (Google News)",
+   "source": "asiaone.com (Google News)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T00:59:13+00:00",
-   "snippet": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News AsiaOne",
+   "snippet": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News asiaone.com",
    "score": 2,
    "reasons": [
     "Malaysia-focused source"
@@ -480,6 +479,25 @@
    "lang": "EN",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
    "story": "e4ff1a4e534d"
+  },
+  {
+   "id": "46760ce9bdf6",
+   "title": "MCMC steps in after complaints of hacked and blocked WhatsApp accounts - scoop.my",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2cwdFlod3dpRHQzTkR2NDRlRWVOLWZROW1hckVUM1ZHSVcydmw1ZzExNU0xYkJ5azY4SVNFS2FxTEVIRmVpME9hb2pzRnNQTnJJRVp2VWhmSk1iQnlTRU0ybmxPZTZoWDFoa1VGcVhOMFdIMTBHX1RMelE2XzB5dnppS2pYZm16YUZjWGtCczhtdUotRXZoRlQ4VHZDX2FES2xNS3c2MA?oc=5",
+   "source": "scoop.my (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-25T05:18:11+00:00",
+   "snippet": "MCMC steps in after complaints of hacked and blocked WhatsApp accounts scoop.my",
+   "score": 7,
+   "reasons": [
+    "Malaysia-focused source",
+    ".my domain",
+    "Malaysian regulator/law"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-01T23:52:46.782771+00:00",
+   "story": "14ad9899bfc5"
   },
   {
    "id": "204700608192",
@@ -926,9 +944,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 11,
+   "count": 13,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -936,7 +954,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -944,7 +962,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -952,7 +970,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -960,7 +978,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -968,7 +986,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -976,7 +994,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -984,7 +1002,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -992,7 +1010,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1005,9 +1023,9 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-01T19:32:09.125814+00:00"
   },
   {
@@ -1016,7 +1034,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "The Record",
@@ -1024,7 +1042,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1032,7 +1050,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1040,7 +1058,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1048,7 +1066,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   },
   {
    "name": "ransomware.live (MY)",
@@ -1056,7 +1074,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "last_ok": "2026-10-01T23:52:46.782771+00:00"
   }
  ]
 }
