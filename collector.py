@@ -53,6 +53,9 @@ SOURCES = [
     {"name": "SecurityWeek", "type": "News", "url": "https://feeds.feedburner.com/securityweek"},
     {"name": "The Hacker News", "type": "News", "url": "https://feeds.feedburner.com/TheHackersNews"},
     {"name": "DataBreaches.net", "type": "News", "url": "https://databreaches.net/feed/"},
+    {"name": "SOCRadar ransomware (MY)", "type": "Tracker", "kind": "socradar", "url": "https://socradar.io/free-tools/ransomware-intelligence/countries/malaysia"},
+    {"name": "RansomLook (MY filter)", "type": "Tracker", "kind": "ransomlook", "url": "https://www.ransomlook.io/api/posts?days=90"},
+    {"name": "CTI.FYI (MY filter)", "type": "Tracker", "kind": "ctifyi", "url": "https://cti.fyi/api/v1/posts"},
     {"name": "ransomware.live victims (MY)", "type": "Tracker", "kind": "country", "url": RL + "/countryvictims/MY"},
     {"name": "ransomware.live cyberattacks (MY)", "type": "Cyberattack log", "kind": "cyber", "url": RL + "/countrycyberattacks/MY"},
     {"name": "ransomware.live search: sdn bhd", "type": "Tracker", "kind": "search", "url": RL + "/searchvictims/sdn%20bhd"},
@@ -69,11 +72,11 @@ MY = [
     (r"\.(com\.|gov\.|edu\.|org\.)?my\b", 3, ".my domain", True),
     (r"\bmykad\b|\bmy ?kad\b|mydigital id", 3, "MyKad / MyDigital ID", True),
     (r"\bpdpa\b|\bjpdp\b|\bnacsa\b|\bmycert\b|\bmcmc\b|cybersecurity malaysia", 3, "Malaysian regulator/law", True),
-    (r"maybank|cimb|public bank|\brhb\b|hong leong|petronas|\btnb\b|telekom malaysia|\baxiata\b|\bcelcom\b|\bmaxis\b|\bsocso\b|\bperkeso\b|\bkwsp\b|\blhdn\b|malindo|batik air|airasia|touch ?n ?go|\bsdn\.? bhd\b|\bberhad\b", 3, "Malaysian organisation", True),
+    (r"maybank|cimb|public bank|\brhb\b|hong leong|petronas|\btnb\b|telekom malaysia|\baxiata\b|\bcelcom\b|\bmaxis\b|\bsocso\b|\bperkeso\b|\bkwsp\b|\blhdn\b|malindo|batik air|airasia|touch ?n ?go|\bsdn\.? bhd\b|\bberhad\b|\bbhd\b", 3, "Malaysian organisation", True),
     (r"\bbursa\b|\bringgit\b|\brm ?\d", 1, "Malaysian finance term", False),
     (r"kebocoran|\bbocor\b|\bpenggodam\b|serangan siber|\bdigodam\b", 1, "Bahasa Malaysia breach terms", False),
 ]
-BREACH = re.compile(r"data breach|data leak|leaked (data|database|records|personal|customer|credential)|breach(ed|es)?\b|ransomware|stolen data|data theft|exposed (data|records|database)|data exposed|kebocoran data|data bocor|dark ?web|infostealer|hacked|\bdigodam\b|penggodam|serangan siber|cyber ?attack", re.I)
+BREACH = re.compile(r"data breach|security breach|cyber ?breach|system breach|network breach|data leak|leaked (data|database|records|personal|customer|credential)|ransomware|stolen data|data theft|exposed (data|records|database)|data exposed|kebocoran data|data bocor|dark ?web|infostealer|hackers?|hacking (of|into)|hacked (into|database|server|system|network|website|site|data)|(server|system|database|network|website)s? (was |were |got )?hacked|digodam|penggodam|serangan siber|cyber ?attack", re.I)
 STRONG = re.compile(r"data breach|data leak|ransomware|kebocoran|\bbocor\b|leaked", re.I)
 SCAM = re.compile(r"scam|phishing|penipuan|scammer|macau", re.I)
 STOP = set("the and with from after over says said malaysia malaysian data breach leak cyber attack hackers hacked this that have been will into about".split())
@@ -150,8 +153,8 @@ def lang(t):
     return "BM" if len(re.findall(r"\b(dan|yang|di|untuk|dengan|kebocoran|bocor|siber|akan|pada)\b", t.lower())) >= 2 else "EN"
 
 
-def make(s, title, link, snip, d, sc, why, source=None, **extra):
-    it = {"id": hashlib.sha1(norm(link).encode()).hexdigest()[:12], "title": title, "url": link,
+def make(s, title, link, snip, d, sc, why, source=None, uid=None, **extra):
+    it = {"id": hashlib.sha1((uid or norm(link)).encode()).hexdigest()[:12], "title": title, "url": link,
           "source": source or s["name"], "type": s["type"], "trust": TRUST[s["type"]],
           "date": d.isoformat(), "snippet": snip, "score": sc, "reasons": why, "lang": lang(title + " " + snip)}
     it.update(extra)
@@ -181,7 +184,79 @@ def g(v, *keys):
     return ""
 
 
+def from_socradar(s, cutoff):
+    html = fetch(s["url"]).decode("utf-8", "ignore")
+    ms = list(re.finditer(r'<a[^>]+href="([^"]*ransomware-intelligence/victims/([^"/?#]+))"[^>]*>(.*?)</a>', html, re.S))
+    now, out = datetime.now(timezone.utc), []
+    for i, m in enumerate(ms):
+        chunk = html[m.end(): ms[i + 1].start() if i + 1 < len(ms) else m.end() + 1500]
+        name = clean(m.group(3), 120)
+        gm = re.search(r'<a[^>]+groups/[^"]+"[^>]*>(.*?)</a>', chunk, re.S)
+        grp = clean(gm.group(1), 40) if gm else ""
+        text = re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", " ", chunk))).strip()
+        if not name or not grp:
+            continue
+        sm = re.search(r"Malaysia\s+(.*?)\s+" + re.escape(grp), text, re.I)
+        dm = re.search(r"(\d+)\s*days? ago", text) or re.search(r"(\d+)\s*w\b", text) or re.search(r"(\d+)\s*months? ago", text) or re.search(r"(\d+)\s*h\b", text)
+        dom = re.match(r"\s*([a-z0-9.-]+\.[a-z]{2,})", text, re.I)
+        n = int(dm.group(1)) if dm else 0
+        days = n if "day" in dm.group(0) else n * 7 if dm and dm.group(0).endswith("w") else n * 30 if dm and "month" in dm.group(0) else 0
+        d = now - timedelta(days=days)
+        if d < cutoff:
+            continue
+        out.append(make(s, f"{name} listed by {grp} ransomware group", urllib.parse.urljoin(s["url"], m.group(1)),
+                        "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).", d, 6,
+                        ["Country = MY per SOCRadar"], uid="sr|" + m.group(2), group=re.sub(r"\s+", "", grp.lower()), victim=name,
+                        sector=sm.group(1) if sm else "", site=dom.group(1) if dom else "", approx=True, v=2))
+    return out
+
+
+def my_hit(text):
+    return [label for pat, w, label, h in MY if h and re.search(pat, text, re.I)]
+
+
+def from_global(s, cutoff):
+    """Worldwide leak-site feeds with no country field: keep only posts with a Malaysian signal."""
+    if s["kind"] == "ctifyi":
+        data, off = [], 0
+        for _ in range(8):
+            r = json.loads(fetch(f'{s["url"]}?since={cutoff.date().isoformat()}&limit=500&offset={off}'))
+            res = r.get("results", []) if isinstance(r, dict) else r
+            data += res
+            if len(res) < 500:
+                break
+            off += 500
+            time.sleep(2)
+        page = "https://cti.fyi/"
+    else:
+        data = json.loads(fetch(s["url"]))
+        if isinstance(data, dict):
+            data = data.get("results") or data.get("posts") or []
+        page = None
+    out = []
+    for v in data:
+        name, grp = clean(g(v, "post_title", "victim", "title"), 120), g(v, "group_name", "group")
+        d = pdate(g(v, "discovered", "published", "date", "discovered_at"))
+        if not name or not d or d < cutoff:
+            continue
+        site = g(v, "website", "domain").lower()
+        why = my_hit(name + " " + site + " " + clean(g(v, "description"), 500))
+        if not why:
+            continue
+        if not site and re.fullmatch(r"[a-z0-9.-]+\.[a-z]{2,}", name.lower()):
+            site = name.lower()
+        link = page or "https://www.ransomlook.io/group/" + urllib.parse.quote(grp)  # never store leak-site links
+        out.append(make(s, f"{name} listed by {grp} ransomware group", link, clean(g(v, "description")), d, 4, why,
+                        uid=f'{s["kind"]}|{grp}|{name}|{d.date()}'.lower(), group=re.sub(r"\s+", "", grp.lower()),
+                        victim=name, site=site, sector="", v=2))
+    return out
+
+
 def from_tracker(s, cutoff):
+    if s["kind"] in ("ransomlook", "ctifyi"):
+        return from_global(s, cutoff)
+    if s["kind"] == "socradar":
+        return from_socradar(s, cutoff)
     data = json.loads(fetch(s["url"]))
     if isinstance(data, dict):
         data = data.get("victims") or data.get("results") or data.get("attacks") or []
@@ -197,7 +272,7 @@ def from_tracker(s, cutoff):
                 continue
             if not title:
                 continue
-            out.append(make(s, title, link, clean(g(v, "summary", "description")), d, 6, ["Country = MY per ransomware.live"], group="", sector=g(v, "sector", "activity")))
+            out.append(make(s, title, link, clean(g(v, "summary", "description")), d, 6, ["Country = MY per ransomware.live"], group="", sector=g(v, "sector", "activity"), v=2))
             continue
         name, grp = g(v, "victim", "post_title"), g(v, "group", "group_name")
         if not name:
@@ -211,7 +286,8 @@ def from_tracker(s, cutoff):
             why = ["Country = MY per tracker"]
         link = "https://www.ransomware.live/group/" + urllib.parse.quote(grp)  # never store leak-site links
         out.append(make(s, f"{name} listed by {grp} ransomware group", link, clean(g(v, "description")), d, 6, why,
-                        group=grp, sector=g(v, "activity", "sector")))
+                        uid=f"rl|{grp}|{name}|{d.date()}".lower(), group=re.sub(r"\s+", "", grp.lower()), victim=name, site=site,
+                        sector=g(v, "activity", "sector"), v=2))
     return out
 
 
@@ -230,11 +306,29 @@ def toks(t):
     return {w for w in re.findall(r"[a-z0-9]{4,}", t.lower()) if w not in STOP}
 
 
+def tkeys(it):
+    """Keys that identify the same victim across trackers (domain, full name, or group+name)."""
+    nm = re.sub(r"[^a-z0-9]", "", it.get("victim", "").lower())
+    dom = re.sub(r"^https?://|^www\.|/.*$", "", (it.get("site") or "").lower())
+    ks = []
+    if "." in dom:
+        ks.append("d:" + dom)
+    if nm and "*" not in it.get("victim", ""):
+        ks.append(f'g:{it.get("group", "")}|{nm}')
+        if len(nm) >= 8:
+            ks.append("n:" + nm[:30])
+    return ks
+
+
 def cluster(items):
-    reps = []
+    reps, seen = [], {}
     for it in sorted(items, key=lambda i: i["date"]):
         if it["type"] in TRACKERS:
-            it["story"] = it["id"]
+            ks = tkeys(it)
+            sid = next((seen[k] for k in ks if k in seen), it["id"])
+            for k in ks:
+                seen.setdefault(k, sid)
+            it["story"] = sid
             continue
         t, sid = toks(it["title"]), None
         for s, rt in reps:
@@ -257,7 +351,7 @@ def main():
         oldh = {h["name"]: h for h in prev.get("health", [])}
     except Exception:
         pass
-    items = {k: v for k, v in old.items() if pdate(v["date"]) and pdate(v["date"]) >= cutoff and still_ok(v)}
+    items = {k: v for k, v in old.items() if pdate(v["date"]) and pdate(v["date"]) >= cutoff and still_ok(v) and (v["type"] not in TRACKERS or v.get("v") == 2)}
     health = []
     for s in SOURCES:
         h = {"name": s["name"], "type": s["type"], "ok": True, "count": 0, "error": "",
@@ -266,6 +360,8 @@ def main():
             got = from_tracker(s, cutoff) if s["type"] in TRACKERS else from_feed(s, cutoff)
             for it in got:
                 it["first_seen"] = items.get(it["id"], {}).get("first_seen", now.isoformat())
+                if it.get("approx") and it["id"] in items:
+                    it["date"] = items[it["id"]]["date"]
                 items[it["id"]] = it
             h["count"], h["last_ok"] = len(got), now.isoformat()
         except Exception as ex:
