@@ -22,6 +22,7 @@ input,select,button{font:inherit;color:var(--tx);background:var(--card);border:1
 .star{float:right;cursor:pointer;border:0;background:none;font-size:18px;color:var(--mu)}.star.on{color:var(--amb)}
 details{font-size:12px;margin-top:4px}details a{display:block;margin:2px 0}
 table{width:100%;border-collapse:collapse;font-size:12px}td{padding:4px 2px;border-bottom:1px solid var(--bd)}
+.bar{display:flex;align-items:center;gap:8px;margin:4px 0;font-size:12px}.bar i{display:block;height:10px;border-radius:5px;background:var(--ac)}.bar em{width:110px;font-style:normal;color:var(--mu);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .note{font-size:12px;color:var(--mu);margin-top:12px}
 </style></head><body>
 <h1>PDPA Breach Watch – Malaysia</h1>
@@ -37,7 +38,7 @@ table{width:100%;border-collapse:collapse;font-size:12px}td{padding:4px 2px;bord
 <label><input type="checkbox" id="nw" onchange="draw()"> New only</label>
 <label><input type="checkbox" id="sr" onchange="draw()"> Starred</label></div>
 <div id="list"></div></div>
-<div class="card"><h2>Source health</h2><table id="hl"></table></div></div>
+<div><div class="card" style="margin-bottom:12px"><h2>Ransomware – Malaysia</h2><div id="rw"></div></div><div class="card"><h2>Source health</h2><table id="hl"></table></div></div></div>
 <p class="note">Stories group articles about the same event. Trust level: Official (regulator/CERT), Media report, Actor claim (ransomware group listing, not confirmed), Unverified (social/forum). Only titles, links and short snippets are stored; no leaked personal data. Stars and "new" markers are kept in this browser only.</p>
 <script>
 var F={items:[],health:[]},T="All",last=0,stars={},RK={"Official":4,"Media report":3,"Actor claim":2,"Unverified":1};
@@ -53,7 +54,9 @@ return{id:k,items:a,top:top,latest:a[0].date,first:a.reduce(function(p,c){return
 function init(){$("gen").textContent="Last collected "+new Date(F.generated).toLocaleString()+" · updates hourly";
 var ty=["All"].concat(F.items.map(function(i){return i.type}).filter(function(v,i,s){return s.indexOf(v)==i}));
 $("tabs").innerHTML=ty.map(function(t){return'<button class="tab'+(t==T?" on":"")+'" onclick="T=\''+t+'\';init()">'+t+"</button>"}).join("");
-$("hl").innerHTML=F.health.map(function(h){return"<tr><td>"+esc(h.name)+'</td><td class="'+(h.ok?"ok":"bad")+'" title="'+esc(h.error)+'">'+(h.ok?"OK":"Failed")+"</td><td>"+h.count+"</td><td>"+ago(h.last_ok)+"</td></tr>"}).join("");draw()}
+$("hl").innerHTML=F.health.map(function(h){return"<tr><td>"+esc(h.name)+'</td><td class="'+(h.ok?"ok":"bad")+'" title="'+esc(h.error)+'">'+(h.ok?"OK":"Failed")+"</td><td>"+h.count+"</td><td>"+ago(h.last_ok)+"</td></tr>"}).join("");rw();draw()}
+function bars(a,f){var c={};a.forEach(function(i){if(i[f])c[i[f]]=(c[i[f]]||0)+1});var k=Object.keys(c).sort(function(x,y){return c[y]-c[x]}).slice(0,6),m=c[k[0]]||1;return k.map(function(x){return'<div class="bar"><em title="'+esc(x)+'">'+esc(x)+'</em><i style="width:'+c[x]/m*100+'%"></i>'+c[x]+"</div>"}).join("")}
+function rw(){var a=F.items.filter(function(i){return i.type=="Tracker"}),d=a.filter(function(i){return Date.now()-Date.parse(i.date)<2592e6}).length;$("rw").innerHTML='<div class="m">'+a.length+" victims listed (90 days), "+d+" in the last 30 days</div><div class='m' style='margin-top:8px'>By group</div>"+bars(a,"group")+(a.some(function(i){return i.sector})?"<div class='m' style='margin-top:8px'>By sector</div>"+bars(a,"sector"):"")}
 function draw(){var q=$("q").value.toLowerCase(),rg=+$("rg").value,tr=$("tr").value,mr=+$("mr").value,cut=Date.now()-rg*864e5;
 var S=stories().filter(function(s){return(T=="All"||s.types.indexOf(T)>-1)&&Date.parse(s.latest)>=cut&&(!tr||s.trust==tr)&&s.top.score>=mr&&(!$("nw").checked||Date.parse(s.first)>last)&&(!$("sr").checked||stars[s.id])&&(!q||JSON.stringify(s.items).toLowerCase().indexOf(q)>-1)});
 var mc=S.reduce(function(p,s){return p+s.items.length},0),nw=S.filter(function(s){return Date.parse(s.first)>last}).length,ok=F.health.filter(function(h){return h.ok}).length;
