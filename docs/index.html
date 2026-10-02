@@ -2,66 +2,99 @@
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>PDPA Breach Watch – Malaysia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#f5f6f8;--card:#fff;--tx:#1a1f2b;--mu:#667085;--bd:#e3e6eb;--ac:#1d4ed8;--red:#c62828;--amb:#b26a00;--grn:#2e7d32}
-@media (prefers-color-scheme:dark){:root{--bg:#0f131a;--card:#171c26;--tx:#e6e9ef;--mu:#9aa3b2;--bd:#2a3140;--ac:#6ea0ff;--red:#ef7a7a;--amb:#f0b155;--grn:#7bd08a}}
-*{box-sizing:border-box}body{margin:0 auto;max-width:1200px;padding:16px;background:var(--bg);color:var(--tx);font:14px/1.45 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-h1{font-size:20px;margin:0}h2{font-size:14px;margin:0 0 10px}.sub{color:var(--mu);font-size:12px}a{color:var(--ac)}
-.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin:14px 0}
-.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:12px}
-.kpi b{display:block;font-size:24px}.kpi span{color:var(--mu);font-size:12px}
-.grid{display:grid;grid-template-columns:2.2fr 1fr;gap:12px}@media(max-width:850px){.grid{grid-template-columns:1fr}}
-.tools{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px;align-items:center}
-input,select,button{font:inherit;color:var(--tx);background:var(--card);border:1px solid var(--bd);border-radius:6px;padding:6px 8px}
-.tab{cursor:pointer}.tab.on{background:var(--ac);color:#fff;border-color:var(--ac)}
-.st{padding:10px 0;border-bottom:1px solid var(--bd)}.st:last-child{border:0}
-.st h3{font-size:14px;margin:0 0 3px}.m{font-size:12px;color:var(--mu)}
-.b{display:inline-block;padding:0 7px;border-radius:9px;font-size:11px;border:1px solid var(--bd);margin-right:4px}
-.Official,.ok{color:var(--grn)}.Mediareport{color:var(--ac)}.Actorclaim,.warn{color:var(--amb)}.Unverified,.bad{color:var(--red)}
-.new{background:var(--red);color:#fff;border-color:var(--red)}
-.star{float:right;cursor:pointer;border:0;background:none;font-size:18px;color:var(--mu)}.star.on{color:var(--amb)}
-details{font-size:12px;margin-top:4px}details a{display:block;margin:2px 0}
-table{width:100%;border-collapse:collapse;font-size:12px}td{padding:4px 2px;border-bottom:1px solid var(--bd)}
-.bar{display:flex;align-items:center;gap:8px;margin:4px 0;font-size:12px}.bar i{display:block;height:10px;border-radius:5px;background:var(--ac)}.bar em{width:110px;font-style:normal;color:var(--mu);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.note{font-size:12px;color:var(--mu);margin-top:12px}
+:root{--paper:#eef2f6;--surf:#fff;--ink:#162033;--mut:#5b6679;--line:#d9e0e8;--bar:#13315c;--gold:#f0b429;--off:#1f5fbf;--med:#1b7f79;--claim:#b86e00;--unv:#a63d40;--ok:#1b7f4b;--sans:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--serif:"Source Serif 4",Georgia,"Times New Roman",serif}
+@media (prefers-color-scheme:dark){:root{--paper:#0e1522;--surf:#151d2d;--ink:#e8edf5;--mut:#9aa7bb;--line:#26324a;--bar:#7fa8ee;--off:#6aa2ff;--med:#4cc2ba;--claim:#f0b455;--unv:#ef8a8c;--ok:#5fd08e}}
+*{box-sizing:border-box}html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.5 var(--sans);padding-bottom:env(safe-area-inset-bottom,0px)}
+a{color:inherit}:focus-visible{outline:2px solid var(--off);outline-offset:2px;border-radius:3px}
+.top{background:#13315c;color:#fff;border-bottom:3px solid var(--gold);padding:calc(10px + env(safe-area-inset-top,0px)) 20px 10px}
+.top div{max-width:1180px;margin:auto;display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.brand{font-weight:700;font-size:16px;display:flex;align-items:center;gap:10px}.brand i{width:14px;height:14px;background:var(--gold);display:block;border-radius:2px 8px 2px 8px}
+.live{font-size:12.5px;color:#c9d6ee;display:flex;align-items:center;gap:7px}.live b{width:8px;height:8px;border-radius:50%;background:#52d68a}
+.wrap{max-width:1180px;margin:auto;padding:0 20px}
+.hero{padding:30px 0 16px}.hero h1{font:600 clamp(26px,4.2vw,40px)/1.15 var(--serif);margin:0 0 8px;max-width:20ch;letter-spacing:-.01em}
+.lead{margin:0;color:var(--mut);max-width:62ch}
+.pulse{margin:22px 0 6px}.pulse-h{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:12.5px;color:var(--mut);margin-bottom:8px}
+.key{display:flex;gap:14px}.key span::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;vertical-align:-1px;background:var(--bar)}.key .g::before{background:var(--gold)}
+.strip{display:flex;align-items:flex-end;gap:2px;height:60px}.d{flex:1;min-width:2px;display:flex;flex-direction:column-reverse;background:var(--line);transform-origin:bottom;animation:grow .6s ease-out both;animation-delay:calc(var(--i)*7ms)}
+.d i{display:block;background:var(--bar)}.d i.r{background:var(--gold)}
+@keyframes grow{from{transform:scaleY(.05);opacity:.3}}@media (prefers-reduced-motion:reduce){.d{animation:none}}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:32px;padding:18px 0 40px}@media(max-width:920px){.cols{grid-template-columns:1fr;gap:12px}}
+.tabs{display:inline-flex;flex-wrap:wrap;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surf);margin-bottom:12px}
+.tabs button{font:inherit;font-weight:500;border:0;background:none;color:var(--mut);padding:7px 14px;cursor:pointer;border-right:1px solid var(--line)}.tabs button:last-child{border:0}.tabs button[aria-pressed=true]{background:var(--bar);color:var(--paper)}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:6px}
+input[type=search],select{font:inherit;font-size:14px;color:var(--ink);background:var(--surf);border:1px solid var(--line);border-radius:8px;padding:7px 10px}input[type=search]{flex:1;min-width:150px}
+.chip{display:inline-flex;align-items:center;border:1px solid var(--line);background:var(--surf);border-radius:20px;padding:6px 12px;font-size:13.5px;cursor:pointer;user-select:none}.chip input{position:absolute;opacity:0;pointer-events:none}.chip:has(input:checked){background:var(--ink);color:var(--paper);border-color:var(--ink)}.chip:has(input:focus-visible){outline:2px solid var(--off);outline-offset:2px}
+.count{font-size:13px;color:var(--mut);margin:10px 0 2px}
+.st{background:var(--surf);border-left:4px solid var(--tc);border-bottom:1px solid var(--line);padding:14px 16px 12px 16px;margin-top:8px;border-radius:0 6px 6px 0}
+.st.off{--tc:var(--off)}.st.med{--tc:var(--med)}.st.claim{--tc:var(--claim)}.st.unv{--tc:var(--unv)}
+.st h3{font:600 18px/1.3 var(--serif);margin:0;padding-right:30px}.st h3 a{text-decoration:none}.st h3 a:hover{text-decoration:underline}
+.st{position:relative}.star{position:absolute;right:10px;top:10px;border:0;background:none;font-size:20px;line-height:1;color:var(--line);cursor:pointer;padding:4px}.star[aria-pressed=true]{color:var(--gold)}
+.meta{display:flex;gap:4px 14px;flex-wrap:wrap;margin:6px 0 0;font-size:13px;color:var(--mut)}.meta .tr{color:var(--tc);font-weight:600}
+.new{color:var(--ink);font-weight:600}.new::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:#e5484d;margin-right:5px}
+.why{display:flex;align-items:center;gap:9px;margin:8px 0 0;font-size:13px;color:var(--mut)}
+.meter{display:inline-flex;gap:2px}.meter u{width:5px;height:11px;background:var(--line);border-radius:1px;text-decoration:none}.meter u.on{background:var(--tc)}
+.snip{margin:6px 0 0;font-size:13.5px;color:var(--mut)}
+details{margin-top:8px;font-size:13px}summary{cursor:pointer;color:var(--off);font-weight:500}details a{display:block;padding:4px 0;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--line)}details a:hover{text-decoration:underline}
+.empty{background:var(--surf);border:1px dashed var(--line);border-radius:8px;padding:28px;margin-top:10px;color:var(--mut)}
+aside section{margin-bottom:28px}aside h2{font:600 17px/1.3 var(--serif);margin:0 0 4px}.sub{font-size:13px;color:var(--mut);margin:0 0 10px}
+.b{display:grid;grid-template-columns:96px 1fr 22px;gap:8px;align-items:center;font-size:13px;margin:5px 0}.b em{font-style:normal;color:var(--mut);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.b s{display:block;height:8px;border-radius:4px;background:var(--gold);text-decoration:none}.b span{text-align:right}
+.src{display:grid;grid-template-columns:12px 1fr auto;gap:8px;align-items:center;padding:5px 0;border-bottom:1px solid var(--line);font-size:13px}.src i{width:8px;height:8px;border-radius:50%;background:var(--ok)}.src.f i{background:#e5484d}.src.f{color:var(--unv)}.src small{color:var(--mut)}
+.note{font-size:12.5px;color:var(--mut);border-top:1px solid var(--line);padding:16px 0 30px;max-width:80ch}
 </style></head><body>
-<h1>PDPA Breach Watch – Malaysia</h1>
-<div class="sub" id="gen">Loading…</div>
-<div class="kpis" id="kpis"></div>
-<div class="grid">
-<div class="card"><h2>Story feed</h2>
-<div class="tools" id="tabs"></div>
-<div class="tools"><input id="q" placeholder="Search…" oninput="draw()">
-<select id="rg" onchange="draw()"><option value="1">Last 24h</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option></select>
-<select id="tr" onchange="draw()"><option value="">Any trust level</option><option>Official</option><option>Media report</option><option>Actor claim</option><option>Unverified</option></select>
-<select id="mr" onchange="draw()"><option value="0">Any relevance</option><option value="4">Relevance 4+</option><option value="6">Relevance 6+</option></select>
-<label><input type="checkbox" id="nw" onchange="draw()"> New only</label>
-<label><input type="checkbox" id="sr" onchange="draw()"> Starred</label></div>
-<div id="list"></div></div>
-<div><div class="card" style="margin-bottom:12px"><h2>Ransomware – Malaysia</h2><div id="rw"></div></div><div class="card"><h2>Source health</h2><table id="hl"></table></div></div></div>
-<p class="note">Stories group articles about the same event. Trust level: Official (regulator/CERT), Media report, Actor claim (ransomware group listing, not confirmed), Unverified (social/forum). Only titles, links and short snippets are stored; no leaked personal data. Stars and "new" markers are kept in this browser only.</p>
+<header class="top"><div><span class="brand"><i></i>PDPA Breach Watch</span><span class="live"><b></b><span id="gen">Loading</span></span></div></header>
+<main class="wrap">
+<section class="hero" id="hero"><h1>Loading the latest stories</h1></section>
+<section class="pulse" aria-label="Stories per day over the last 90 days"><div class="pulse-h"><span>Stories per day, last 90 days</span><span class="key"><span>News and reports</span><span class="g">Ransomware listings</span></span></div><div class="strip" id="strip"></div></section>
+<div class="cols"><section>
+<div class="tabs" id="tabs" role="group" aria-label="Source type"></div>
+<div class="bar"><input type="search" id="q" placeholder="Search company, group or keyword" aria-label="Search"><select id="rg" aria-label="Date range"><option value="1">Last 24 hours</option><option value="7" selected>Last 7 days</option><option value="30">Last 30 days</option><option value="90">Last 90 days</option></select>
+<select id="tr" aria-label="Trust level"><option value="">Any trust level</option><option>Official</option><option>Media report</option><option>Actor claim</option><option>Unverified</option></select>
+<select id="mr" aria-label="Minimum relevance"><option value="0">Any relevance</option><option value="4">Relevance 4 and up</option><option value="6">Relevance 6 and up</option></select>
+<label class="chip"><input type="checkbox" id="nw">New only</label><label class="chip"><input type="checkbox" id="sr">Starred</label></div>
+<p class="count" id="cnt"></p><div id="list"></div></section>
+<aside><section><h2>Ransomware in Malaysia</h2><p class="sub" id="rws"></p><div id="rw"></div></section>
+<section><h2>Source health</h2><p class="sub" id="hs"></p><div id="hl"></div></section></aside></div>
+<p class="note">Trust levels: Official means a regulator or CERT; Media report means a news outlet; Actor claim is a ransomware group's own listing and is not confirmed; Unverified is social media or forum content. Relevance counts how strongly a story points to Malaysia. The colour stripe on each story shows its trust level. Only titles, links and short snippets are stored, never leaked personal data. Stars and the New marker are saved in this browser only.</p>
+</main>
 <script>
-var F={items:[],health:[]},T="All",last=0,stars={},RK={"Official":4,"Media report":3,"Actor claim":2,"Unverified":1};
+const $=i=>document.getElementById(i),TR={"Official":["off",4],"Media report":["med",3],"Actor claim":["claim",2],"Unverified":["unv",1]},TRK=["Tracker","Cyberattack log"];
+let F={items:[],health:[]},T="All",last=0,stars={};
 try{last=+localStorage.getItem("pbw_last")||0;stars=JSON.parse(localStorage.getItem("pbw_stars")||"{}")}catch(e){}
-var $=function(i){return document.getElementById(i)};
-function esc(x){return String(x==null?"":x).replace(/[&<>"']/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]})}
-function safe(u){return/^https?:\/\//.test(u)?esc(u):"#"}
-function ago(s){if(!s)return"never";var h=(Date.now()-Date.parse(s))/36e5;return h<1?"<1h ago":h<48?Math.round(h)+"h ago":Math.round(h/24)+"d ago"}
-fetch("feed.json?"+Date.now()).then(function(r){return r.json()}).then(function(j){F=j;init()}).catch(function(){$("gen").textContent="Could not load feed.json"});
-function stories(){var m={};F.items.forEach(function(i){(m[i.story]=m[i.story]||[]).push(i)});
-return Object.keys(m).map(function(k){var a=m[k].sort(function(x,y){return y.date.localeCompare(x.date)}),top=a.slice().sort(function(x,y){return y.score-x.score})[0],tr=a.reduce(function(p,c){return RK[c.trust]>RK[p]?c.trust:p},a[0].trust);
-return{id:k,items:a,top:top,latest:a[0].date,first:a.reduce(function(p,c){return c.first_seen<p?c.first_seen:p},a[0].first_seen),types:a.map(function(i){return i.type}).filter(function(v,i,s){return s.indexOf(v)==i}),n:a.map(function(i){return i.source}).filter(function(v,i,s){return s.indexOf(v)==i}).length,trust:tr}}).sort(function(x,y){return y.latest.localeCompare(x.latest)})}
-function init(){$("gen").textContent="Last collected "+new Date(F.generated).toLocaleString()+" · updates hourly";
-var ty=["All"].concat(F.items.map(function(i){return i.type}).filter(function(v,i,s){return s.indexOf(v)==i}));
-$("tabs").innerHTML=ty.map(function(t){return'<button class="tab'+(t==T?" on":"")+'" onclick="T=\''+t+'\';init()">'+t+"</button>"}).join("");
-$("hl").innerHTML=F.health.map(function(h){return"<tr><td>"+esc(h.name)+'</td><td class="'+(h.ok?"ok":"bad")+'" title="'+esc(h.error)+'">'+(h.ok?"OK":"Failed")+"</td><td>"+h.count+"</td><td>"+ago(h.last_ok)+"</td></tr>"}).join("");rw();draw()}
-function bars(a,f){var c={};a.forEach(function(i){if(i[f])c[i[f]]=(c[i[f]]||0)+1});var k=Object.keys(c).sort(function(x,y){return c[y]-c[x]}).slice(0,6),m=c[k[0]]||1;return k.map(function(x){return'<div class="bar"><em title="'+esc(x)+'">'+esc(x)+'</em><i style="width:'+c[x]/m*100+'%"></i>'+c[x]+"</div>"}).join("")}
-function rw(){var a=F.items.filter(function(i){return i.type=="Tracker"}),d=a.filter(function(i){return Date.now()-Date.parse(i.date)<2592e6}).length;$("rw").innerHTML='<div class="m">'+a.length+" victims listed (90 days), "+d+" in the last 30 days</div><div class='m' style='margin-top:8px'>By group</div>"+bars(a,"group")+(a.some(function(i){return i.sector})?"<div class='m' style='margin-top:8px'>By sector</div>"+bars(a,"sector"):"")}
-function draw(){var q=$("q").value.toLowerCase(),rg=+$("rg").value,tr=$("tr").value,mr=+$("mr").value,cut=Date.now()-rg*864e5;
-var S=stories().filter(function(s){return(T=="All"||s.types.indexOf(T)>-1)&&Date.parse(s.latest)>=cut&&(!tr||s.trust==tr)&&s.top.score>=mr&&(!$("nw").checked||Date.parse(s.first)>last)&&(!$("sr").checked||stars[s.id])&&(!q||JSON.stringify(s.items).toLowerCase().indexOf(q)>-1)});
-var mc=S.reduce(function(p,s){return p+s.items.length},0),nw=S.filter(function(s){return Date.parse(s.first)>last}).length,ok=F.health.filter(function(h){return h.ok}).length;
-$("kpis").innerHTML=[["Stories",S.length],["Mentions",mc],["New since last visit",nw],["Sources OK",ok+"/"+F.health.length]].map(function(k){return'<div class="card kpi"><b>'+k[1]+"</b><span>"+k[0]+"</span></div>"}).join("");
-$("list").innerHTML=S.map(function(s){var t=s.top;return'<div class="st"><button class="star'+(stars[s.id]?" on":"")+'" onclick="star(\''+s.id+'\')">★</button><h3><a href="'+safe(t.url)+'" target="_blank" rel="noopener">'+esc(t.title)+"</a></h3><div class='m'>"+(Date.parse(s.first)>last?'<span class="b new">NEW</span>':"")+'<span class="b '+s.trust.replace(/ /g,"")+'">'+esc(s.trust)+"</span>"+s.types.map(function(x){return'<span class="b">'+esc(x)+"</span>"}).join("")+new Date(s.latest).toLocaleDateString()+" · "+s.n+" source"+(s.n>1?"s":"")+" · "+s.items.length+" mention"+(s.items.length>1?"s":"")+" · "+t.lang+"</div><div class='m'>Relevance "+t.score+": "+esc(t.reasons.join(", "))+"</div>"+(t.snippet?"<div class='m'>"+esc(t.snippet)+"</div>":"")+(s.items.length>1?"<details><summary>All mentions</summary>"+s.items.map(function(i){return'<a href="'+safe(i.url)+'" target="_blank" rel="noopener">'+esc(i.source)+" – "+esc(i.title)+"</a>"}).join("")+"</details>":"")+"</div>"}).join("")||'<div class="m">No stories match these filters.</div>'}
-function star(id){if(stars[id])delete stars[id];else stars[id]=1;try{localStorage.setItem("pbw_stars",JSON.stringify(stars))}catch(e){}draw()}
-window.addEventListener("pagehide",function(){try{localStorage.setItem("pbw_last",Date.now())}catch(e){}});
+const esc=x=>String(x??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safe=u=>/^https?:\/\//.test(u)?esc(u):"#";
+const ago=s=>{if(!s)return"never";const h=(Date.now()-Date.parse(s))/36e5;return h<1?"just now":h<24?Math.round(h)+"h ago":h<48?"yesterday":Math.round(h/24)+" days ago"};
+const uniq=a=>a.filter((v,i,s)=>s.indexOf(v)==i);
+fetch("feed.json?"+Date.now()).then(r=>r.json()).then(j=>{F=j;init()}).catch(()=>{$("hero").innerHTML="<h1>The feed did not load</h1><p class='lead'>feed.json could not be read. Run the Collect feeds workflow in GitHub Actions, wait for the green tick, then refresh this page.</p>"});
+function stories(){const m={};F.items.forEach(i=>(m[i.story]=m[i.story]||[]).push(i));
+return Object.values(m).map(a=>{a.sort((x,y)=>y.date.localeCompare(x.date));const top=[...a].sort((x,y)=>y.score-x.score)[0],tr=a.reduce((p,c)=>TR[c.trust][1]>TR[p][1]?c.trust:p,a[0].trust);
+return{id:a[0].story,items:a,top,latest:a[0].date,first:a.reduce((p,c)=>c.first_seen<p?c.first_seen:p,a[0].first_seen),types:uniq(a.map(i=>i.type)),n:uniq(a.map(i=>i.source)).length,trust:tr,rw:TRK.includes(top.type)}}).sort((x,y)=>y.latest.localeCompare(x.latest))}
+function init(){$("gen").textContent="Collected "+ago(F.generated)+", refreshes hourly";
+const ty=["All",...uniq(F.items.map(i=>i.type))];$("tabs").innerHTML=ty.map(t=>`<button data-t="${esc(t)}" aria-pressed="${t==T}">${esc(t)}</button>`).join("");
+const ok=F.health.filter(h=>h.ok).length;$("hs").textContent=`${ok} of ${F.health.length} sources working`;
+$("hl").innerHTML=[...F.health].sort((a,b)=>a.ok-b.ok).map(h=>`<div class="src${h.ok?"":" f"}" title="${esc(h.error)}"><i></i><span>${esc(h.name)}</span><small>${h.ok?h.count+" found":"failed"}</small></div>`).join("");
+const S=stories(),nw=S.filter(s=>Date.parse(s.first)>last).length,r30=S.filter(s=>s.rw&&Date.now()-Date.parse(s.latest)<2592e6).length,m7=S.filter(s=>Date.now()-Date.parse(s.latest)<6048e5).length;
+$("hero").innerHTML=`<h1>${last?(nw?nw+(nw>1?" new stories":" new story")+" since your last visit":"No new stories since your last visit"):S.length+" stories collected so far"}</h1><p class="lead">${m7} stories in the last 7 days, and ${r30} ransomware ${r30==1?"victim":"victims"} listed in the last 30 days.</p>`;
+strip(S);rw(S);draw()}
+function strip(S){const d={},n=90,now=Date.now();S.forEach(s=>{const k=Math.floor((now-Date.parse(s.latest))/864e5);if(k<n){d[k]=d[k]||[0,0];d[k][s.rw?1:0]++}});
+const mx=Math.max(1,...Object.values(d).map(v=>v[0]+v[1]));let h="";for(let k=n-1;k>=0;k--){const v=d[k]||[0,0],t=v[0]+v[1],dt=new Date(now-k*864e5).toLocaleDateString(undefined,{day:"numeric",month:"short"});
+h+=`<div class="d" style="--i:${n-k};height:${t?Math.max(10,t/mx*100):4}%" title="${dt}: ${v[0]} news, ${v[1]} ransomware"><i style="flex:${v[0]}"></i><i class="r" style="flex:${v[1]}"></i></div>`}$("strip").innerHTML=h}
+function rw(S){const a=S.filter(s=>s.rw).map(s=>s.top);$("rws").textContent=`${a.length} victims listed in 90 days`;
+const bars=(f,t)=>{const c={};a.forEach(i=>i[f]&&(c[i[f]]=(c[i[f]]||0)+1));const k=Object.keys(c).sort((x,y)=>c[y]-c[x]).slice(0,6),m=c[k[0]]||1;return k.length?`<p class="sub" style="margin:12px 0 4px">${t}</p>`+k.map(x=>`<div class="b"><em title="${esc(x)}">${esc(x)}</em><s style="width:${c[x]/m*100}%"></s><span>${c[x]}</span></div>`).join(""):""};
+$("rw").innerHTML=bars("group","By group")+bars("sector","By sector")||"<p class='sub'>No ransomware listings yet.</p>"}
+function draw(){const q=$("q").value.toLowerCase(),cut=Date.now()-$("rg").value*864e5,tr=$("tr").value,mr=+$("mr").value;
+const S=stories().filter(s=>(T=="All"||s.types.includes(T))&&Date.parse(s.latest)>=cut&&(!tr||s.trust==tr)&&s.top.score>=mr&&(!$("nw").checked||Date.parse(s.first)>last)&&(!$("sr").checked||stars[s.id])&&(!q||JSON.stringify(s.items).toLowerCase().includes(q)));
+$("cnt").textContent=`Showing ${S.length} ${S.length==1?"story":"stories"}`;
+$("list").innerHTML=S.map(s=>{const t=s.top,c=TR[s.trust][0],isNew=Date.parse(s.first)>last,sc=Math.min(5,Math.max(1,Math.round(t.score/2)));
+return`<article class="st ${c}"><button class="star" data-s="${esc(s.id)}" aria-pressed="${!!stars[s.id]}" aria-label="Star this story">★</button><h3><a href="${safe(t.url)}" target="_blank" rel="noopener">${esc(t.title)}</a></h3>
+<p class="meta">${isNew?'<span class="new">New</span>':""}<span class="tr">${esc(s.trust)}</span><span>${esc(s.types.join(", "))}</span><span>${ago(s.latest)}</span><span>${s.n} ${s.n>1?"sources":"source"}</span><span>${esc(t.lang)}</span></p>
+<p class="why"><span class="meter" title="Relevance score ${t.score}">${[1,2,3,4,5].map(i=>`<u class="${i<=sc?"on":""}"></u>`).join("")}</span><span>Matched on ${esc(t.reasons.join(", "))}</span></p>${t.snippet?`<p class="snip">${esc(t.snippet)}</p>`:""}
+${s.items.length>1?`<details><summary>${s.items.length} mentions</summary>${s.items.map(i=>`<a href="${safe(i.url)}" target="_blank" rel="noopener">${esc(i.source)}: ${esc(i.title)}</a>`).join("")}</details>`:""}</article>`}).join("")||'<div class="empty"><b>No stories match these filters.</b><br>Widen the date range or clear the search to see more.</div>'}
+$("tabs").addEventListener("click",e=>{const b=e.target.closest("button");if(b){T=b.dataset.t;document.querySelectorAll("#tabs button").forEach(x=>x.setAttribute("aria-pressed",x==b));draw()}});
+$("list").addEventListener("click",e=>{const b=e.target.closest(".star");if(!b)return;const id=b.dataset.s;stars[id]?delete stars[id]:stars[id]=1;try{localStorage.setItem("pbw_stars",JSON.stringify(stars))}catch(x){}draw()});
+["q","rg","tr","mr","nw","sr"].forEach(i=>$(i).addEventListener("input",draw));
+addEventListener("pagehide",()=>{try{localStorage.setItem("pbw_last",Date.now())}catch(e){}});
 </script></body></html>
