@@ -10,7 +10,8 @@ from pathlib import Path
 
 OUT = Path(__file__).parent / "docs" / "feed.json"
 UA = "Mozilla/5.0 (compatible; PDPA-BreachWatch/1.0; regulatory monitoring)"
-KEEP_DAYS, MIN_SCORE = 90, 2
+KEEP_DAYS, MIN_SCORE = 90, 3
+RL = "https://api.ransomware.live/v2"
 
 
 def gn(q, lang="en"):
@@ -21,67 +22,73 @@ def gn(q, lang="en"):
 def rd(sub, q):
     return f"https://www.reddit.com/r/{sub}/search.rss?q={urllib.parse.quote(q)}&restrict_sr=1&sort=new&t=month"
 
+
 def bing(q, mkt="en-MY"):
     return f"https://www.bing.com/news/search?q={urllib.parse.quote(q)}&format=rss&setmkt={mkt}"
 
 
 def unwrap(link):
-    # Bing wraps article links in a redirect; extract the real URL
     if "bing.com/news/apiclick" in link:
         u = urllib.parse.parse_qs(urllib.parse.urlsplit(link).query).get("url")
         if u:
             return u[0]
     return link
 
-# my=True -> Malaysia-focused source (adds relevance). EDIT THIS LIST to add or remove sources.
-SOURCES = [
-    {"name": "Google News (EN)", "type": "News", "my": True, "url": gn('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked) when:7d')},
-    {"name": "Google News (BM)", "type": "News", "my": True, "url": gn('kebocoran data OR "data bocor" OR digodam OR "serangan siber" when:7d', "ms")},
-    {"name": "Google News (PDPA)", "type": "News", "my": True, "url": gn('PDPA OR JPDP OR NACSA "data breach" when:30d')},
-    {"name": "Bing News (EN)", "type": "News", "my": True, "url": bing('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked)')},
-    {"name": "Bing News (BM)", "type": "News", "my": True, "url": bing('Malaysia (kebocoran data OR "data bocor" OR digodam OR "serangan siber")', "ms-MY")},
-    {"name": "Bing News (PDPA)", "type": "News", "my": True, "url": bing('(PDPA OR JPDP OR NACSA) "data breach" Malaysia')},
-    {"name": "Lowyat.NET", "type": "News", "my": True, "url": "https://www.lowyat.net/feed/"},
-    {"name": "SoyaCincau", "type": "News", "my": True, "url": "https://soyacincau.com/feed/"},
-    {"name": "Reddit r/malaysia", "type": "Reddit", "my": True, "url": rd("malaysia", "data breach OR leak OR bocor OR hacked")},
-    {"name": "Reddit r/MalaysianPF", "type": "Reddit", "my": True, "url": rd("MalaysianPF", "data breach OR leak OR hacked")},
-    {"name": "Reddit r/cybersecurity", "type": "Reddit", "my": False, "url": rd("cybersecurity", "Malaysia")},
-    {"name": "BleepingComputer", "type": "News", "my": False, "url": "https://www.bleepingcomputer.com/feed/"},
-    {"name": "The Record", "type": "News", "my": False, "url": "https://therecord.media/feed"},
-    {"name": "SecurityWeek", "type": "News", "my": False, "url": "https://feeds.feedburner.com/securityweek"},
-    {"name": "The Hacker News", "type": "News", "my": False, "url": "https://feeds.feedburner.com/TheHackersNews"},
-    {"name": "DataBreaches.net", "type": "News", "my": False, "url": "https://databreaches.net/feed/"},
-    {"name": "ransomware.live (MY)", "type": "Tracker", "my": True, "url": "https://api.ransomware.live/v2/countryvictims/MY"},
-]
-TRUST = {"News": "Media report", "Reddit": "Unverified", "Tracker": "Actor claim", "Advisory": "Official"}
 
-MY = [
-    (r"\bmalaysia(n|ns)?\b", 3, "mentions Malaysia"),
-    (r"\bkuala lumpur\b|\bselangor\b|\bjohor\b|\bpenang\b|\bsabah\b|\bsarawak\b|\bputrajaya\b|\bcyberjaya\b", 2, "Malaysian place"),
-    (r"\.(com\.|gov\.|edu\.|org\.)?my\b", 2, ".my domain"),
-    (r"\bmykad\b|\bmy ?kad\b|mydigital id", 3, "MyKad / MyDigital ID"),
-    (r"\bpdpa\b|\bjpdp\b|\bnacsa\b|\bmycert\b|\bmcmc\b|cybersecurity malaysia|personal data protection", 3, "Malaysian regulator/law"),
-    (r"\bbursa\b|\bringgit\b|\brm ?\d", 1, "Malaysian finance term"),
-    (r"maybank|cimb|public bank|\brhb\b|hong leong|petronas|\btnb\b|telekom malaysia|\baxiata\b|\bcelcom\b|\bmaxis\b|\bsocso\b|\bperkeso\b|\bkwsp\b|\blhdn\b|malindo|batik air|airasia|touch ?n ?go", 2, "Malaysian organisation"),
-    (r"kebocoran|\bbocor\b|\bpenggodam\b|serangan siber|\bdigodam\b", 2, "Bahasa Malaysia breach terms"),
+# EDIT THIS LIST to add or remove sources. kind = how a Tracker endpoint is read.
+SOURCES = [
+    {"name": "Google News (EN)", "type": "News", "url": gn('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked) when:7d')},
+    {"name": "Google News (BM)", "type": "News", "url": gn('kebocoran data OR "data bocor" OR digodam OR "serangan siber" Malaysia when:7d', "ms")},
+    {"name": "Google News (PDPA)", "type": "News", "url": gn('PDPA OR JPDP OR NACSA "data breach" when:30d')},
+    {"name": "Bing News (EN)", "type": "News", "url": bing('Malaysia ("data breach" OR "data leak" OR ransomware OR hacked)')},
+    {"name": "Bing News (BM)", "type": "News", "url": bing('Malaysia (kebocoran data OR "data bocor" OR digodam OR "serangan siber")', "ms-MY")},
+    {"name": "Bing News (PDPA)", "type": "News", "url": bing('(PDPA OR JPDP OR NACSA) "data breach" Malaysia')},
+    {"name": "Lowyat.NET", "type": "News", "url": "https://www.lowyat.net/feed/"},
+    {"name": "SoyaCincau", "type": "News", "url": "https://soyacincau.com/feed/"},
+    {"name": "Reddit r/malaysia", "type": "Reddit", "url": rd("malaysia", "data breach OR leak OR bocor OR hacked")},
+    {"name": "Reddit r/MalaysianPF", "type": "Reddit", "url": rd("MalaysianPF", "data breach OR leak OR hacked")},
+    {"name": "Reddit r/cybersecurity", "type": "Reddit", "url": rd("cybersecurity", "Malaysia")},
+    {"name": "BleepingComputer", "type": "News", "url": "https://www.bleepingcomputer.com/feed/"},
+    {"name": "The Record", "type": "News", "url": "https://therecord.media/feed"},
+    {"name": "SecurityWeek", "type": "News", "url": "https://feeds.feedburner.com/securityweek"},
+    {"name": "The Hacker News", "type": "News", "url": "https://feeds.feedburner.com/TheHackersNews"},
+    {"name": "DataBreaches.net", "type": "News", "url": "https://databreaches.net/feed/"},
+    {"name": "ransomware.live victims (MY)", "type": "Tracker", "kind": "country", "url": RL + "/countryvictims/MY"},
+    {"name": "ransomware.live cyberattacks (MY)", "type": "Cyberattack log", "kind": "cyber", "url": RL + "/countrycyberattacks/MY"},
+    {"name": "ransomware.live search: sdn bhd", "type": "Tracker", "kind": "search", "url": RL + "/searchvictims/sdn%20bhd"},
+    {"name": "ransomware.live search: berhad", "type": "Tracker", "kind": "search", "url": RL + "/searchvictims/berhad"},
+    {"name": "ransomware.live search: malaysia", "type": "Tracker", "kind": "search", "url": RL + "/searchvictims/malaysia"},
 ]
-BREACH = re.compile(r"data breach|data leak|leak(ed|s)?\b|breach(ed|es)?\b|ransomware|stolen data|data theft|exposed|kebocoran|\bbocor\b|dark ?web|infostealer|hacked|\bdigodam\b|penggodam|serangan siber|cyber ?attack", re.I)
+TRUST = {"News": "Media report", "Reddit": "Unverified", "Tracker": "Actor claim", "Cyberattack log": "Media report", "Advisory": "Official"}
+TRACKERS = ("Tracker", "Cyberattack log")
+
+# (pattern, weight, label, hard). A story needs at least one HARD Malaysia signal.
+MY = [
+    (r"\bmalaysia(n|ns)?\b", 3, "mentions Malaysia", True),
+    (r"\bkuala lumpur\b|\bselangor\b|\bjohor\b|\bpenang\b|\bsabah\b|\bsarawak\b|\bputrajaya\b|\bcyberjaya\b", 3, "Malaysian place", True),
+    (r"\.(com\.|gov\.|edu\.|org\.)?my\b", 3, ".my domain", True),
+    (r"\bmykad\b|\bmy ?kad\b|mydigital id", 3, "MyKad / MyDigital ID", True),
+    (r"\bpdpa\b|\bjpdp\b|\bnacsa\b|\bmycert\b|\bmcmc\b|cybersecurity malaysia", 3, "Malaysian regulator/law", True),
+    (r"maybank|cimb|public bank|\brhb\b|hong leong|petronas|\btnb\b|telekom malaysia|\baxiata\b|\bcelcom\b|\bmaxis\b|\bsocso\b|\bperkeso\b|\bkwsp\b|\blhdn\b|malindo|batik air|airasia|touch ?n ?go|\bsdn\.? bhd\b|\bberhad\b", 3, "Malaysian organisation", True),
+    (r"\bbursa\b|\bringgit\b|\brm ?\d", 1, "Malaysian finance term", False),
+    (r"kebocoran|\bbocor\b|\bpenggodam\b|serangan siber|\bdigodam\b", 1, "Bahasa Malaysia breach terms", False),
+]
+BREACH = re.compile(r"data breach|data leak|leaked (data|database|records|personal|customer|credential)|breach(ed|es)?\b|ransomware|stolen data|data theft|exposed (data|records|database)|data exposed|kebocoran data|data bocor|dark ?web|infostealer|hacked|\bdigodam\b|penggodam|serangan siber|cyber ?attack", re.I)
 STRONG = re.compile(r"data breach|data leak|ransomware|kebocoran|\bbocor\b|leaked", re.I)
 SCAM = re.compile(r"scam|phishing|penipuan|scammer|macau", re.I)
 STOP = set("the and with from after over says said malaysia malaysian data breach leak cyber attack hackers hacked this that have been will into about".split())
 
 
-def score(text, my_source):
+def score(text):
     if not BREACH.search(text) or (SCAM.search(text) and not STRONG.search(text)):
         return 0, []
-    s, why = 0, []
-    if my_source:
-        s, why = 2, ["Malaysia-focused source"]
-    for pat, w, label in MY:
+    s, why, hard = 0, [], False
+    for pat, w, label, h in MY:
         if re.search(pat, text, re.I):
             s += w
             why.append(label)
-    return s, why
+            hard = hard or h
+    return (s, why) if hard else (0, [])
 
 
 def fetch(url):
@@ -143,37 +150,80 @@ def lang(t):
     return "BM" if len(re.findall(r"\b(dan|yang|di|untuk|dengan|kebocoran|bocor|siber|akan|pada)\b", t.lower())) >= 2 else "EN"
 
 
-def make(s, title, link, snip, d, sc, why, source=None):
-    return {"id": hashlib.sha1(norm(link).encode()).hexdigest()[:12], "title": title, "url": link,
-            "source": source or s["name"], "type": s["type"], "trust": TRUST[s["type"]],
-            "date": d.isoformat(), "snippet": snip, "score": sc, "reasons": why, "lang": lang(title + " " + snip)}
+def make(s, title, link, snip, d, sc, why, source=None, **extra):
+    it = {"id": hashlib.sha1(norm(link).encode()).hexdigest()[:12], "title": title, "url": link,
+          "source": source or s["name"], "type": s["type"], "trust": TRUST[s["type"]],
+          "date": d.isoformat(), "snippet": snip, "score": sc, "reasons": why, "lang": lang(title + " " + snip)}
+    it.update(extra)
+    return it
 
 
 def from_feed(s, cutoff):
-    out = []
+    out, google = [], s["name"].startswith("Google")
     for e in parse_feed(fetch(s["url"])):
         title, link = clean(e.get("title"), 200), unwrap(e.get("link", ""))
         d = pdate(e.get("pubDate") or e.get("published") or e.get("updated"))
         if not title or not link.startswith("http") or not d or d < cutoff:
             continue
-        snip = clean(e.get("description") or e.get("summary") or e.get("content"))
-        sc, why = score(title + " " + snip, s["my"])
+        snip = "" if google else clean(e.get("description") or e.get("summary") or e.get("content"))
+        text = (title.rsplit(" - ", 1)[0] if google else title) + " " + snip  # ignore outlet name
+        sc, why = score(text)
         if sc >= MIN_SCORE:
             outlet = clean(e.get("source"), 60)
             out.append(make(s, title, link, snip, d, sc, why, f"{outlet} (Google News)" if outlet else None))
     return out
 
 
+def g(v, *keys):
+    for k in keys:
+        if v.get(k):
+            return str(v[k])
+    return ""
+
+
 def from_tracker(s, cutoff):
+    data = json.loads(fetch(s["url"]))
+    if isinstance(data, dict):
+        data = data.get("victims") or data.get("results") or data.get("attacks") or []
     out = []
-    for v in json.loads(fetch(s["url"])):
-        name, grp = v.get("victim") or v.get("post_title") or "", v.get("group") or v.get("group_name") or ""
-        d = pdate(v.get("discovered") or v.get("attackdate") or "")
-        if not name or not d or d < cutoff:
+    for v in data:
+        d = pdate(g(v, "discovered", "published", "date", "attackdate"))
+        if not d or d < cutoff:
             continue
+        if s["kind"] == "cyber":
+            title = clean(g(v, "title", "victim", "name"), 200)
+            link = g(v, "url", "link", "source")
+            if not link.startswith("http"):
+                continue
+            if not title:
+                continue
+            out.append(make(s, title, link, clean(g(v, "summary", "description")), d, 6, ["Country = MY per ransomware.live"], group="", sector=g(v, "sector", "activity")))
+            continue
+        name, grp = g(v, "victim", "post_title"), g(v, "group", "group_name")
+        if not name:
+            continue
+        site = g(v, "website", "domain").lower()
+        if s["kind"] == "search":
+            if not (g(v, "country").upper() == "MY" or site.endswith(".my") or re.search(r"\b(sdn\.? bhd|berhad)\b", name, re.I)):
+                continue
+            why = ["Malaysian company name or .my domain"]
+        else:
+            why = ["Country = MY per tracker"]
         link = "https://www.ransomware.live/group/" + urllib.parse.quote(grp)  # never store leak-site links
-        out.append(make(s, f"{name} listed by {grp} ransomware group", link, clean(v.get("description")), d, 6, ["Country = MY per tracker"]))
+        out.append(make(s, f"{name} listed by {grp} ransomware group", link, clean(g(v, "description")), d, 6, why,
+                        group=grp, sector=g(v, "activity", "sector")))
     return out
+
+
+def still_ok(it):
+    """Re-check retained items against the current rules so old noise is purged."""
+    if it["type"] in TRACKERS:
+        return True
+    google = it["source"].startswith("Google") or it["source"].endswith("(Google News)")
+    t = it["title"].rsplit(" - ", 1)[0] if google else it["title"]
+    sc, why = score(t + " " + ("" if google else it.get("snippet", "")))
+    it["score"], it["reasons"] = sc, why
+    return sc >= MIN_SCORE
 
 
 def toks(t):
@@ -183,7 +233,7 @@ def toks(t):
 def cluster(items):
     reps = []
     for it in sorted(items, key=lambda i: i["date"]):
-        if it["type"] == "Tracker":
+        if it["type"] in TRACKERS:
             it["story"] = it["id"]
             continue
         t, sid = toks(it["title"]), None
@@ -207,13 +257,13 @@ def main():
         oldh = {h["name"]: h for h in prev.get("health", [])}
     except Exception:
         pass
-    items = {k: v for k, v in old.items() if pdate(v["date"]) and pdate(v["date"]) >= cutoff}
+    items = {k: v for k, v in old.items() if pdate(v["date"]) and pdate(v["date"]) >= cutoff and still_ok(v)}
     health = []
     for s in SOURCES:
         h = {"name": s["name"], "type": s["type"], "ok": True, "count": 0, "error": "",
              "last_ok": oldh.get(s["name"], {}).get("last_ok", "")}
         try:
-            got = from_tracker(s, cutoff) if s["type"] == "Tracker" else from_feed(s, cutoff)
+            got = from_tracker(s, cutoff) if s["type"] in TRACKERS else from_feed(s, cutoff)
             for it in got:
                 it["first_seen"] = items.get(it["id"], {}).get("first_seen", now.isoformat())
                 items[it["id"]] = it
@@ -221,8 +271,8 @@ def main():
         except Exception as ex:
             h["ok"], h["error"] = False, str(ex)[:120]
         health.append(h)
-        time.sleep(3)
         print(("OK  " if h["ok"] else "FAIL"), s["name"], h["count"], h["error"])
+        time.sleep(3)
     lst = list(items.values())
     cluster(lst)
     lst.sort(key=lambda i: i["date"], reverse=True)
