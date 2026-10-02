@@ -1,43 +1,30 @@
 {
- "generated": "2026-10-02T01:30:12.902494+00:00",
+ "generated": "2026-10-02T02:08:16.107722+00:00",
  "items": [
   {
-   "id": "e454cb747fec",
-   "title": "Father hacked daughter's alleged rapist to death, jailed 13 years in Malaysia, Malaysia News - AsiaOne",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElBY0F0d0R6LUxYX200NEFiWnkxQWFhODM0bjJSTXRqQWZHN0JQczBHM1ZGdmREYTdkeDR2OTY3VVFSelRiOHdXMDgzbWpBaXBhV3ZGalAyV3hydlBfc2NSVzUtWjZxa0Z1N2ZiMTVVbjhjdDBOcWRvZEFzUkc1emVaTm9FYjFxSDNBT1RpR284NjdvcVJpUDFsR0hweHJrR1E?oc=5",
-   "source": "AsiaOne (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-10-02T01:00:00+00:00",
+   "id": "cd4f966a4217",
+   "title": "PCA Group Sdn. Bhd. listed by Majinahanashi ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-30T00:12:20.024574+00:00",
    "snippet": "",
-   "score": 3,
+   "score": 4,
    "reasons": [
-    "mentions Malaysia"
+    "Malaysian organisation"
    ],
    "lang": "EN",
-   "first_seen": "2026-10-02T01:30:12.902494+00:00",
-   "story": "e454cb747fec"
+   "group": "majinahanashi",
+   "victim": "PCA Group Sdn. Bhd.",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "a423215b1936"
   },
   {
-   "id": "4378b0671288",
-   "title": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts - MYC! Malaysian Youth Community",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVBUbnBJSmYxWE9wUHgxZ28tenRzdkJ4ZnpUUDMxLVppUFdSdy1oS2lsRzY5RjBzbURTd3FNRUZyM04tdThmWjlqV1dNZlR2Z1I2dXJUUzlHVF9SNk0zMnFGWDRsNE9pYS1jY01naEpQMkZabGFDU29zSFZ4NkVEVGNfSlF4V1d0R3VLYUR2OERXVW9rbXl2YjNQaVlUeHA2d3l0eXcwb3BxcE0?oc=5",
-   "source": "MYC! Malaysian Youth Community (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-29T03:20:24+00:00",
-   "snippet": "",
-   "score": 6,
-   "reasons": [
-    "mentions Malaysia",
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "4fb872687643"
-  },
-  {
-   "id": "540f5c0f5bf0",
+   "id": "97e510ce8d4b",
    "title": "M*** P**** M*** listed by netrunner ransomware group",
    "url": "https://www.ransomware.live/group/netrunner",
    "source": "ransomware.live victims (MY)",
@@ -51,230 +38,12 @@
    ],
    "lang": "EN",
    "group": "netrunner",
+   "victim": "M*** P**** M***",
+   "site": "w**.m********.c**.m*",
    "sector": "Not Found",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "540f5c0f5bf0"
-  },
-  {
-   "id": "7951f22d5796",
-   "title": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts - NST Online",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWdJN0ZCU0FRNjFIQ0dYVXRidWZidTNQOTM1SlpxWWpySG83REd3YjRGcWs1cTZyV3ptOTZtLW5oX2RTY3poaDV6aWJ0Z01Qc3NqSFk0MWUtejRLUGdfdkNubm9qY0Z6UFFfV0dGY0tpczVQZjlvamUzcko4SGRkTTB5dzVucDFYRlF1UWo2OGFrQk5CWndfWGVYQUozejVMb3FtN2htRjhvTXphWS0xZ2FLdEpoYkZG?oc=5",
-   "source": "NST Online (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "74fbe695e25c"
-  },
-  {
-   "id": "25dc2f07d70c",
-   "title": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts - NST Online",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQmJkbXZpQmdKeEJHWHZmUWNrajVmNDlGeTdldVBpblNoU0hKMEhRTjJneFdGa1N4TkJuYkFGVUtOeFZ3NkFZR04xa0sxek03bHdZakMxRDQ3SHNDdmF3eW5uNzhMbWtyelVkRzl3bE03Q2F0Vk9USnQwdGhtc0RuRnRxWDVHNEVGMjdwbG9ZdVRjdEFxOThTQ1ZDdmVVRmdpV3BQemtwYUJkamk2ZjMyN2xWQ3RLeHlGT0h0Z2R0cmluMG5xTlBSRl9LTQ?oc=5",
-   "source": "NST Online (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts NST Online",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "74fbe695e25c"
-  },
-  {
-   "id": "0052c5686311",
-   "title": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts - NST Online",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOREJtQk9kWGxERDduWWttV1hFOXJHTzFBRjJQLUF5VldnZndIcUJUbmRDeVBNcVJ1V2NlYW9sQXJoMlo0aXo0ZGZGQnVIVGwwS2tmc0lSZzE2LXlKajZpdXlwWGItNk1ndzZiemlOa1l6b19JQnUzTHA0WjlkazJ5TTFHeThhci1xVFAzdmx2QzgtWGQ0cnZlZ2NEdGlob1ZYM1kwSGV5NVV6c3NEejRZMDRlOTdJckNWeXZnVGwyeUpxcFhI?oc=5",
-   "source": "NST Online (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts NST Online",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "74fbe695e25c"
-  },
-  {
-   "id": "fc2b6acfaa4b",
-   "title": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts - NST Online",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOXzZDazd6TFFLNWJfX21QXzJubHFtQ0hpZW41X010UWR5T2QxT2k3TFpoVWp0bVktU2N3ZUhjbzI1b2JhbXlzT3l4WF90SmNCa1ZhcFRLZU91UmNDTnM3U3BvMmFkZWpBemgyMEM5b1ZWdFctWU05eS15WW04MWtWaGhvMUcxejlLdXU3dU1zOEFHczl2OFRLU2JtdkpGVWZVVEtRb0d1YXJWOUdqSEVGNUEtYTJzY1RQN0lxTGY3WQ?oc=5",
-   "source": "NST Online (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts NST Online",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-01T05:54:32.361308+00:00",
-   "story": "74fbe695e25c"
-  },
-  {
-   "id": "c492cf566a7b",
-   "title": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts - KLSE Screener",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTmdsMjFqVVhwZkt6VzUtWENEeWpheTllX2Y0bHUwNHlGbk9vZWtEejA0UVEyM2w3UHNzSDc5bE1LUmtjQ1VJamc4Q2l1SHhkOUZTc2RETmJaa0tIM3hhRTYtN3N6MDBkWFRXazNvRnRHRWFjNlpaWGpmbjFFT3c2cm5JNU1lbmxKcFliMWJJcVJLRDFWZ1NDSTA4b0w2YWFSX1FMdU9IRFJ4REtvVnZoTnRZQ0pBVXU1S2VwNWdzRHdzZw?oc=5",
-   "source": "KLSE Screener (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-01T13:15:22.561795+00:00",
-   "story": "c492cf566a7b"
-  },
-  {
-   "id": "e619be711e3b",
-   "title": "WhatsApp, Not The Government, Is Blocking Malaysian Accounts – And Some Bans Are Final",
-   "url": "https://www.therakyatpost.com/news/2026/09/28/whatsapp-not-the-government-is-blocking-malaysian-accounts-and-some-bans-are-final/",
-   "source": "Bing News (EN)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-27T23:37:00+00:00",
-   "snippet": "Malaysian WhatsApp users who were hacked are being banned by the platform itself - not by the government - and in some cases, the ban is permanent with no option to appeal. The Malaysian ...",
-   "score": 3,
-   "reasons": [
-    "mentions Malaysia"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "e619be711e3b"
-  },
-  {
-   "id": "4fb872687643",
-   "title": "MCMC Meeting Meta Over Hacked, Blocked WhatsApp Accounts, Deputy Minister - BusinessToday Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVZmZEw3azJqaEdtc3V2R3FabUpUTXNMU014RXhCMnk0TUE1Y2ZGVExXWE9KdnZHblpCWlZLZlFWaFFYdG9TSElrUGhwLVRSY3FSbEo4QlZCeUlTNFRseVN4cHVHMnQtT2MzU0dRSFVkWkpzcXhqSGpfR3JWRXg0VmdGUDNTRC1MMDZVbTNNM0ZydEFfNUtGQ2ppbzZOVnZsU005WkctQzFNUFVqTDc3Z3lRUkN1aEk?oc=5",
-   "source": "BusinessToday Malaysia (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-27T12:01:01+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "4fb872687643"
-  },
-  {
-   "id": "46760ce9bdf6",
-   "title": "MCMC steps in after complaints of hacked and blocked WhatsApp accounts - scoop.my",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb2cwdFlod3dpRHQzTkR2NDRlRWVOLWZROW1hckVUM1ZHSVcydmw1ZzExNU0xYkJ5azY4SVNFS2FxTEVIRmVpME9hb2pzRnNQTnJJRVp2VWhmSk1iQnlTRU0ybmxPZTZoWDFoa1VGcVhOMFdIMTBHX1RMelE2XzB5dnppS2pYZm16YUZjWGtCczhtdUotRXZoRlQ4VHZDX2FES2xNS3c2MA?oc=5",
-   "source": "scoop.my (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T05:18:11+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-01T23:52:46.782771+00:00",
-   "story": "14ad9899bfc5"
-  },
-  {
-   "id": "204700608192",
-   "title": "MCMC probes complaints on WhatsApp accounts being hacked and blocked - The Vibes",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSzBqREZWck5yekxmR04tN2VqdHhNRlNWdEIwbklyVERSTTJ1cE5qalViVjFidzZaczFiMVR3R2trZVd2Y2IwVHJZeUJWcUxTQWRhLVlNc2x0QUFNTGtDN2l6Tk43cVNlNnhUY2k2cDdqNnZTLW9saFN0TDI3ZWJWVDFIeU9TQjdaWmhvMGhCUG5oRXlqRTRuUGF0OWZnc21WTHNwOWtPUGhwUGZsNW0zTk1OLU8?oc=5",
-   "source": "The Vibes (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T03:14:00+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "74fbe695e25c"
-  },
-  {
-   "id": "74fbe695e25c",
-   "title": "MCMC probing complaints on WhatsApp accounts being hacked and blocked - NST Online",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONGFlOFNSaFdFNGhjY2MtT1VyN09iWW13OHNvVTZqMjJGX1RoRXFyQ2hVV1lIRDhLVUxha0NEMUwtdTE1OXpSdWNuTE81akJCR3NUUUZRZzlDQlJfUWNUMHpvUjk0dWNvOElTSVRsQ1ZZbG8zNXNDZnJ4dmU4Q1NxcURfbEUzNlNQMC1aNzA3dGNIejA2S044U0dnVUM1eEI1TlNXS2hYSlJONjFUcXBHTXd3S29UTWRB?oc=5",
-   "source": "NST Online (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T02:52:51+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "74fbe695e25c"
-  },
-  {
-   "id": "fc27c192a0f8",
-   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3ZTX0w0MklMZFlfY0lRbkhBRE40R1d1NkpaQ3FscEFDcktLRGVnRXpOQ0N3LWF1TXhaV0I0TE53R2VuenFTTno2NU1OU2dHVzRxa19LVHF1Z2ZhMlBDVWFZSWJ0WjVMcUNLemZmUTlvMkRIR1NDVzZ5RUUwdmZsbTk2TlplRFpXeC1leDNfb2w2SFBzcHF2Ui13Y0dvZWNRUk9mc0FlZTItMXFwaDVPdXRSOGhYRGFhLXlIdWUzelZfdGFYNW5QQ1JQU1U1SzR5WkNOb2JPTlJvaUNrNGfSAVpBVV95cUxPRlZvZTZ2WFpQSjRnSnNwQ281V0FDbE9JSFp2SGNqTVp6bm1qUUxBeXpJeWM0NDFLSEEyR0p5ZUpXNTgwVWJHdnFHdVB4X25CM1Fzem16RV81U1E?oc=5",
-   "source": "MLex (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T02:42:25+00:00",
-   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
-   "score": 3,
-   "reasons": [
-    "mentions Malaysia"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "14ad9899bfc5"
-  },
-  {
-   "id": "6a357bd5cd26",
-   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY2pBd0lhWnloN1pmWmtXcGgtZ3lMMTlvV3NqeUlvTnhGSHBYaHJOeUhNQUNQTWRBcmlHTTJRMGFZUHg2XzFMZnA1dUNvSXM3bWRkeXNLUTh4V0xCWkpFOFJGX0phZktyOHhkNnZPaFRUdUJMcVM4ZF9VNkM1NEstUUtKZGZKaGdyODNlaEY3QmpYcEw3NzJiS1FhNlI1OVlpczUxYnNSdUU2bkd1eDNDT2JnV0xTNWR5QW4xWXFWUErSAVpBVV95cUxPRlZvZTZ2WFpQSjRnSnNwQ281V0FDbE9JSFp2SGNqTVp6bm1qUUxBeXpJeWM0NDFLSEEyR0p5ZUpXNTgwVWJHdnFHdVB4X25CM1Fzem16RV81U1E?oc=5",
-   "source": "MLex (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T02:42:25+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "mentions Malaysia"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-01T05:54:32.361308+00:00",
-   "story": "14ad9899bfc5"
-  },
-  {
-   "id": "14ad9899bfc5",
-   "title": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts - MLex",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GVm9lNnZYWlBKNGdKc3BDbzVXQUNsT0lIWnZIY2pNWnpubWpRTEF5ekl5YzQ0MUtIQTJHSnllSlc1ODBVYkd2cUd1UHhfbkIzUXN6bXpFXzVTUdIBWkFVX3lxTE9GVm9lNnZYWlBKNGdKc3BDbzVXQUNsT0lIWnZIY2pNWnpubWpRTEF5ekl5YzQ0MUtIQTJHSnllSlc1ODBVYkd2cUd1UHhfbkIzUXN6bXpFXzVTUQ?oc=5",
-   "source": "MLex (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T02:42:00+00:00",
-   "snippet": "",
-   "score": 3,
-   "reasons": [
-    "mentions Malaysia"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "14ad9899bfc5"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "97e510ce8d4b"
   },
   {
    "id": "7a16e6ac3fe8",
@@ -292,7 +61,8 @@
    "lang": "EN",
    "group": "",
    "sector": "",
-   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "7a16e6ac3fe8"
   },
   {
@@ -315,7 +85,30 @@
    "story": "seed000001"
   },
   {
-   "id": "32012c147667",
+   "id": "ed6a7e764250",
+   "title": "Port of Tanjung Pelepas listed by direwolf ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/port-of-tanjung-pelepas-direwolf-4f699272",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-12T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "direwolf",
+   "victim": "Port of Tanjung Pelepas",
+   "sector": "Transportation",
+   "site": "ptp.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "b2c26ff68e01"
+  },
+  {
+   "id": "b2c26ff68e01",
    "title": "Port of Tanjung Pelepas listed by direwolf ransomware group",
    "url": "https://www.ransomware.live/group/direwolf",
    "source": "ransomware.live victims (MY)",
@@ -329,9 +122,12 @@
    ],
    "lang": "EN",
    "group": "direwolf",
+   "victim": "Port of Tanjung Pelepas",
+   "site": "ptp.com.my",
    "sector": "Transportation",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "32012c147667"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "b2c26ff68e01"
   },
   {
    "id": "d302f5037ea2",
@@ -349,7 +145,8 @@
    "lang": "EN",
    "group": "",
    "sector": "",
-   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "d302f5037ea2"
   },
   {
@@ -368,11 +165,104 @@
    "lang": "EN",
    "group": "",
    "sector": "",
-   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "7334977e3c19"
   },
   {
-   "id": "f9ae859a69d7",
+   "id": "eac4c4cab667",
+   "title": "Global Travel and Giselle's Travel listed by INC Ransom ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/global-travel-and-giselle-s-travel-inc-ransom-9524c3c9",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-05T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "Global Travel and Giselle's Travel",
+   "sector": "Other",
+   "site": "myglobal.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "18b4ded9d89a"
+  },
+  {
+   "id": "9e5e1ee90a63",
+   "title": "Global Travel listed by INC Ransom ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/global-travel-inc-ransom-b4829ad7",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-05T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "Global Travel",
+   "sector": "Other",
+   "site": "myglobal.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "18b4ded9d89a"
+  },
+  {
+   "id": "98f3f14c2d64",
+   "title": "EP Manufacturing Bhd listed by thegentlemen ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/ep-manufacturing-bhd-thegentlemen-968768b0",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-04T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "EP Manufacturing Bhd",
+   "sector": "Manufacturing",
+   "site": "epmb.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "047abf4787c0"
+  },
+  {
+   "id": "41e21736403d",
+   "title": "CIMB Securities listed by INC Ransom ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/cimb-securities-inc-ransom-16b88106",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-04T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "CIMB Securities",
+   "sector": "Financial Services",
+   "site": "cimbsecurities.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "e67e31c7223b"
+  },
+  {
+   "id": "18b4ded9d89a",
    "title": "myglobal.com listed by incransom ransomware group",
    "url": "https://www.ransomware.live/group/incransom",
    "source": "ransomware.live search: malaysia",
@@ -386,12 +276,260 @@
    ],
    "lang": "EN",
    "group": "incransom",
+   "victim": "myglobal.com",
+   "site": "myglobal.com",
    "sector": "Other",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "f9ae859a69d7"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "18b4ded9d89a"
   },
   {
-   "id": "70a9af340913",
+   "id": "ac303f4291f7",
+   "title": "cimbsecurities.com listed by inc ransom ransomware group",
+   "url": "https://www.ransomlook.io/group/inc%20ransom",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-31T16:31:28.194477+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "cimbsecurities.com",
+   "site": "cimbsecurities.com",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "e67e31c7223b"
+  },
+  {
+   "id": "9560dc71eb1d",
+   "title": "EP Manufacturing Bhd listed by the gentlemen ransomware group",
+   "url": "https://www.ransomlook.io/group/the%20gentlemen",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-31T13:50:15.628428+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "EP Manufacturing Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "047abf4787c0"
+  },
+  {
+   "id": "047abf4787c0",
+   "title": "EP Manufacturing Bhd listed by thegentlemen ransomware group",
+   "url": "https://www.ransomware.live/group/thegentlemen",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-31T12:04:38.545752+00:00",
+   "snippet": "epmb.com.my zoominfo.com/c/ep-manufacturing-bhd/372140192 EPMB (7773, Bursa Malaysia) — Malaysian auto manufacturer, operating since 1982. Formerly made parts for Proton, Perodua, Honda, Toyota. Now assembles complete ca",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "EP Manufacturing Bhd",
+   "site": "epmb.com.my",
+   "sector": "Manufacturing",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "047abf4787c0"
+  },
+  {
+   "id": "18f865183b5f",
+   "title": "cimbsecurities.com listed by incransom ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-31T12:02:14.276882+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "cimbsecurities.com",
+   "site": "cimbsecurities.com",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "e67e31c7223b"
+  },
+  {
+   "id": "e67e31c7223b",
+   "title": "cimbsecurities.com listed by incransom ransomware group",
+   "url": "https://www.ransomware.live/group/incransom",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-31T12:01:56.658064+00:00",
+   "snippet": "Bank",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "cimbsecurities.com",
+   "site": "cimbsecurities.com",
+   "sector": "Financial Services",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "e67e31c7223b"
+  },
+  {
+   "id": "5e85bb9b8821",
+   "title": "CareClinics listed by qilin ransomware group",
+   "url": "https://www.ransomware.live/group/qilin",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-29T12:02:51.753069+00:00",
+   "snippet": "N/A",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "CareClinics",
+   "site": "www.careclinics.com.my",
+   "sector": "Healthcare",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "0cb5ae263390"
+  },
+  {
+   "id": "97762cca4767",
+   "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/pca-group-sdn-bhd-majinahanashi-a675d358",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-28T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "majinahanashi",
+   "victim": "PCA Group Sdn. Bhd.",
+   "sector": "Other",
+   "site": "pcagroup.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "a423215b1936"
+  },
+  {
+   "id": "0cb5ae263390",
+   "title": "Care Clinics Group listed by Qilin ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/care-clinics-group-qilin-ffaba8cb",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-28T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Care Clinics Group",
+   "sector": "Healthcare",
+   "site": "careclinics.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "0cb5ae263390"
+  },
+  {
+   "id": "23d354ced91c",
+   "title": "KenEp Resources (Asia) Sdn. Bhd. listed by Qilin ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/kenep-resources-asia-sdn-bhd-qilin-efbb0a87",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-28T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "KenEp Resources (Asia) Sdn. Bhd.",
+   "sector": "Energy & Utilities",
+   "site": "kenep.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "1b82231123cb"
+  },
+  {
+   "id": "1b82231123cb",
+   "title": "KenEp Resources listed by qilin ransomware group",
+   "url": "https://www.ransomware.live/group/qilin",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-26T18:57:05.704655+00:00",
+   "snippet": "N/A",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "KenEp Resources",
+   "site": "www.kenep.com.my",
+   "sector": "Energy & Utilities",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "1b82231123cb"
+  },
+  {
+   "id": "93470c2ce90c",
+   "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
+   "url": "https://www.ransomlook.io/group/majinahanashi",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-25T11:26:27.679167+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "majinahanashi",
+   "victim": "PCA Group Sdn. Bhd.",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "a423215b1936"
+  },
+  {
+   "id": "a423215b1936",
    "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
    "url": "https://www.ransomware.live/group/majinahanashi",
    "source": "ransomware.live victims (MY)",
@@ -405,29 +543,374 @@
    ],
    "lang": "EN",
    "group": "majinahanashi",
+   "victim": "PCA Group Sdn. Bhd.",
+   "site": "",
    "sector": "Other",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "70a9af340913"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "a423215b1936"
   },
   {
-   "id": "seed000002",
-   "title": "Malaysian Nuclear Agency listed by TheGentlemen ransomware group",
-   "url": "https://www.breachsense.com/breaches/malaysian-nuclear-agency-data-breach/",
-   "source": "Breachsense",
+   "id": "70e6eccda5f2",
+   "title": "Grand Ion Delemen Hotel listed by majinahanashi ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/grand-ion-delemen-hotel-majinahanashi-97698fa8",
+   "source": "SOCRadar ransomware (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
-   "date": "2026-07-30T00:00:00+00:00",
-   "first_seen": "2026-09-30T00:00:00+00:00",
-   "snippet": "Sample seed item. Leak size unknown; threat-actor claim only.",
+   "date": "2026-08-21T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
    "score": 6,
    "reasons": [
-    "Country = MY per tracker"
+    "Country = MY per SOCRadar"
    ],
    "lang": "EN",
-   "story": "seed000002"
+   "group": "majinahanashi",
+   "victim": "Grand Ion Delemen Hotel",
+   "sector": "Hospitality",
+   "site": "grandiondelemen.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "70e6eccda5f2"
   },
   {
-   "id": "41687f80fb0c",
+   "id": "ee090a546568",
+   "title": "SD Associates Sdn Bhd listed by INC Ransom ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/sd-associates-sdn-bhd-inc-ransom-b201aeca",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-21T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "SD Associates Sdn Bhd",
+   "sector": "Other",
+   "site": "sda-my.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "31fca24734cb"
+  },
+  {
+   "id": "f14d8770f812",
+   "title": "SD Associates Sdn Bhd listed by inc ransom ransomware group",
+   "url": "https://www.ransomlook.io/group/inc%20ransom",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-18T15:30:17.102762+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "SD Associates Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "31fca24734cb"
+  },
+  {
+   "id": "e03bcd24ef8a",
+   "title": "SD Associates Sdn Bhd listed by incransom ransomware group",
+   "url": "https://www.ransomware.live/group/incransom",
+   "source": "ransomware.live search: sdn bhd",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-18T00:26:41.009418+00:00",
+   "snippet": "SD Associates (SDA) is a globally expanding company that prides itself in providing quality service to every client. We provide comprehensive professional project management and engineering consultancy services in divers",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "SD Associates Sdn Bhd",
+   "site": "sda-my.com",
+   "sector": "Not Found",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "31fca24734cb"
+  },
+  {
+   "id": "31fca24734cb",
+   "title": "SD Associates Sdn Bhd listed by incransom ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-18T00:02:21.763244+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "SD Associates Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "31fca24734cb"
+  },
+  {
+   "id": "98cda62dc4e3",
+   "title": "Desatera Sdn Bhd listed by qilin ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-16T18:04:52.738303+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Desatera Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "133366ba0117"
+  },
+  {
+   "id": "3954a41236b3",
+   "title": "Desatera Sdn Bhd listed by qilin ransomware group",
+   "url": "https://www.ransomlook.io/group/qilin",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-16T14:41:07.495043+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Desatera Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "133366ba0117"
+  },
+  {
+   "id": "ec5ea8177b7e",
+   "title": "Desatera Sdn Bhd listed by qilin ransomware group",
+   "url": "https://www.ransomware.live/group/qilin",
+   "source": "ransomware.live search: sdn bhd",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-16T11:31:50.873374+00:00",
+   "snippet": "N/A",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Desatera Sdn Bhd",
+   "site": "www.desatera.com.my",
+   "sector": "Not Found",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "133366ba0117"
+  },
+  {
+   "id": "1acd2ea731f3",
+   "title": "The Coffee Bean listed by thegentlemen ransomware group",
+   "url": "https://www.ransomware.live/group/thegentlemen",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-14T05:58:30.837659+00:00",
+   "snippet": "coffeebean.com.my zoominfo.com/c/the-coffee-bean/425047768 The Coffee Bean & Tea Leaf Malaysia is the official digital portal for the popular cafe chain, which currently operates over 150 locations across the country. Th",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "The Coffee Bean",
+   "site": "coffeebean.com.my",
+   "sector": "Retail & E-Commerce",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "76fb3f24c4c0"
+  },
+  {
+   "id": "133366ba0117",
+   "title": "DSB listed by Qilin ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/dsb-qilin-28a33512",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-14T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "DSB",
+   "sector": "Hospitality",
+   "site": "desatera.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "133366ba0117"
+  },
+  {
+   "id": "76fb3f24c4c0",
+   "title": "The Coffee Bean listed by thegentlemen ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/the-coffee-bean-thegentlemen-35b7cf43",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-08-14T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "The Coffee Bean",
+   "sector": "Hospitality",
+   "site": "coffeebean.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "76fb3f24c4c0"
+  },
+  {
+   "id": "e5b26655350e",
+   "title": "Agensi Nuklear Malaysia listed by thegentlemen ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/agensi-nuklear-malaysia-thegentlemen-1bf283a2",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-31T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "Agensi Nuklear Malaysia",
+   "sector": "Energy & Utilities",
+   "site": "nuclearmalaysia.gov.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "aa725a65f537"
+  },
+  {
+   "id": "76d6f957483f",
+   "title": "Weilhotel listed by gunra ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/weilhotel-gunra-9c137792",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-31T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "gunra",
+   "victim": "Weilhotel",
+   "sector": "Hospitality",
+   "site": "weilhotel.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "0ec76716a885"
+  },
+  {
+   "id": "6147d7627074",
+   "title": "WhatsApp listed by black x ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/whatsapp-black-x-fdfe54b1",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-31T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "blackx",
+   "victim": "WhatsApp",
+   "sector": "Manufacturing",
+   "site": "wa.me",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "228fd8fd9e10"
+  },
+  {
+   "id": "08a3242c61a1",
+   "title": "Malaysian Nuclear Agency listed by thegentlemen ransomware group",
+   "url": "https://www.ransomware.live/group/thegentlemen",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-30T06:50:16.669381+00:00",
+   "snippet": "nuclearmalaysia.gov.my zoominfo.com/c/malaysian-nuclear-agency/459120141 The Malaysian Nuclear Agency (Nuklear Malaysia) is the leading government research and development organization in nuclear science and technology. ",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "Malaysian Nuclear Agency",
+   "site": "nuclearmalaysia.gov.my",
+   "sector": "Government & Defense",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "aa725a65f537"
+  },
+  {
+   "id": "aa725a65f537",
+   "title": "Malaysian Nuclear Agency listed by the gentlemen ransomware group",
+   "url": "https://www.ransomlook.io/group/the%20gentlemen",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-29T21:28:00.619915+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "Malaysian Nuclear Agency",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "aa725a65f537"
+  },
+  {
+   "id": "3cd0d479078d",
    "title": "Tong Kong E & E Sdn Bhd (95907X) listed by Black X ransomware group",
    "url": "https://www.ransomware.live/group/Black%20X",
    "source": "ransomware.live search: sdn bhd",
@@ -440,13 +923,38 @@
     "Malaysian company name or .my domain"
    ],
    "lang": "EN",
-   "group": "Black X",
+   "group": "blackx",
+   "victim": "Tong Kong E & E Sdn Bhd (95907X)",
+   "site": "https://wa.me/tongkong",
    "sector": "Manufacturing",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "41687f80fb0c"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "228fd8fd9e10"
   },
   {
-   "id": "a3e6e720a3b6",
+   "id": "228fd8fd9e10",
+   "title": "Tong Kong E & E Sdn Bhd (95907X) listed by black x ransomware group",
+   "url": "https://www.ransomlook.io/group/black%20x",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-29T14:57:16.567346+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "blackx",
+   "victim": "Tong Kong E & E Sdn Bhd (95907X)",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "228fd8fd9e10"
+  },
+  {
+   "id": "0ec76716a885",
    "title": "Weilhotel listed by gunra ransomware group",
    "url": "https://www.ransomware.live/group/gunra",
    "source": "ransomware.live victims (MY)",
@@ -460,12 +968,15 @@
    ],
    "lang": "EN",
    "group": "gunra",
+   "victim": "Weilhotel",
+   "site": "weilhotel.com",
    "sector": "Hospitality",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "a3e6e720a3b6"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "0ec76716a885"
   },
   {
-   "id": "2e833b924c20",
+   "id": "b22be778aac8",
    "title": "Furama Bukit Bintang listed by nightspire ransomware group",
    "url": "https://www.ransomware.live/group/nightspire",
    "source": "ransomware.live victims (MY)",
@@ -479,12 +990,104 @@
    ],
    "lang": "EN",
    "group": "nightspire",
+   "victim": "Furama Bukit Bintang",
+   "site": "www.furama.com/bukitbintang",
    "sector": "Hospitality",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "2e833b924c20"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "b22be778aac8"
   },
   {
-   "id": "e90919f60987",
+   "id": "c52b4a8faa0b",
+   "title": "majuhome.com.my listed by krybit ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-25T18:08:56.451288+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    ".my domain"
+   ],
+   "lang": "EN",
+   "group": "krybit",
+   "victim": "majuhome.com.my",
+   "site": "majuhome.com.my",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "c52b4a8faa0b"
+  },
+  {
+   "id": "7967725b1d49",
+   "title": "Sunway Berhad listed by qilin ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-24T18:06:07.196430+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Sunway Berhad",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "8134323bc351"
+  },
+  {
+   "id": "fb32e4cc5ad2",
+   "title": "Sunway Group listed by qilin ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/sunway-group-qilin-13c1ae50",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-24T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Sunway Group",
+   "sector": "Hospitality",
+   "site": "sunway.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "8134323bc351"
+  },
+  {
+   "id": "00d508487536",
+   "title": "Sunway Berhad listed by qilin ransomware group",
+   "url": "https://www.ransomlook.io/group/qilin",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-23T06:56:38.463590+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Sunway Berhad",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "8134323bc351"
+  },
+  {
+   "id": "8134323bc351",
    "title": "Sunway Berhad listed by qilin ransomware group",
    "url": "https://www.ransomware.live/group/qilin",
    "source": "ransomware.live search: berhad",
@@ -498,9 +1101,12 @@
    ],
    "lang": "EN",
    "group": "qilin",
+   "victim": "Sunway Berhad",
+   "site": "www.sunway.com.my",
    "sector": "Hospitality",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "e90919f60987"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "8134323bc351"
   },
   {
    "id": "d54282466cc3",
@@ -522,7 +1128,53 @@
    "story": "d54282466cc3"
   },
   {
-   "id": "92864f896f17",
+   "id": "ccb8e195e399",
+   "title": "Pusat Rehabilitasi PERKESO listed by krybit ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/pusat-rehabilitasi-perkeso-krybit-5ffd906b",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-17T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "krybit",
+   "victim": "Pusat Rehabilitasi PERKESO",
+   "sector": "Healthcare",
+   "site": "rehabmalaysia.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "e88178a492eb"
+  },
+  {
+   "id": "0b20ef3e9014",
+   "title": "Perbadanan Perpustakaan Awam Melaka (PERPUSTAM) listed by arcusmedia ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/perbadanan-perpustakaan-awam-melaka-perpustam-arcusmedia-4f67c768",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-17T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "arcusmedia",
+   "victim": "Perbadanan Perpustakaan Awam Melaka (PERPUSTAM)",
+   "sector": "Government & Defense",
+   "site": "perpustam.gov.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "24e9f2e5f368"
+  },
+  {
+   "id": "e88178a492eb",
    "title": "rehabmalaysia.com listed by krybit ransomware group",
    "url": "https://www.ransomware.live/group/krybit",
    "source": "ransomware.live search: malaysia",
@@ -536,12 +1188,15 @@
    ],
    "lang": "EN",
    "group": "krybit",
+   "victim": "rehabmalaysia.com",
+   "site": "rehabmalaysia.com",
    "sector": "Healthcare",
-   "first_seen": "2026-10-01T13:15:22.561795+00:00",
-   "story": "92864f896f17"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "e88178a492eb"
   },
   {
-   "id": "3fdb56545ebd",
+   "id": "24e9f2e5f368",
    "title": "Perpustam listed by arcusmedia ransomware group",
    "url": "https://www.ransomware.live/group/arcusmedia",
    "source": "ransomware.live victims (MY)",
@@ -555,12 +1210,38 @@
    ],
    "lang": "EN",
    "group": "arcusmedia",
+   "victim": "Perpustam",
+   "site": "perpustam.gov.my",
    "sector": "Government & Defense",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "3fdb56545ebd"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "24e9f2e5f368"
   },
   {
-   "id": "63a637b32245",
+   "id": "125768d80dba",
+   "title": "Quanterm Logistics listed by the gentlemen ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/quanterm-logistics-the-gentlemen-198d7bee",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-10T02:09:40.020560+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "Quanterm Logistics",
+   "sector": "Transportation",
+   "site": "quanterm.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "21e82d3eaff5"
+  },
+  {
+   "id": "cb0b24beecbf",
    "title": "Quanterm Logistics Sdn Bhd listed by thegentlemen ransomware group",
    "url": "https://www.ransomware.live/group/thegentlemen",
    "source": "ransomware.live search: malaysia",
@@ -574,9 +1255,34 @@
    ],
    "lang": "EN",
    "group": "thegentlemen",
+   "victim": "Quanterm Logistics Sdn Bhd",
+   "site": "quanterm.com",
    "sector": "Transportation",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "63a637b32245"
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "21e82d3eaff5"
+  },
+  {
+   "id": "21e82d3eaff5",
+   "title": "Quanterm Logistics Sdn Bhd listed by the gentlemen ransomware group",
+   "url": "https://www.ransomlook.io/group/the%20gentlemen",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-06T03:02:06.136148+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "Quanterm Logistics Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-02T02:08:16.107722+00:00",
+   "story": "21e82d3eaff5"
   }
  ],
  "health": [
@@ -584,9 +1290,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 10,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -594,7 +1300,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -602,15 +1308,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -618,7 +1324,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -626,7 +1332,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -634,7 +1340,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -642,7 +1348,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -650,22 +1356,22 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-01T13:15:22.561795+00:00"
+   "error": "",
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
@@ -674,7 +1380,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "The Record",
@@ -682,7 +1388,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -690,7 +1396,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "The Hacker News",
@@ -698,7 +1404,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -706,7 +1412,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
+  },
+  {
+   "name": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "ok": true,
+   "count": 19,
+   "error": "",
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
+  },
+  {
+   "name": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "ok": true,
+   "count": 9,
+   "error": "",
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
+  },
+  {
+   "name": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "ok": true,
+   "count": 6,
+   "error": "",
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -714,7 +1444,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -722,7 +1452,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -730,7 +1460,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -738,7 +1468,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -746,7 +1476,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+   "last_ok": "2026-10-02T02:08:16.107722+00:00"
   }
  ]
 }
