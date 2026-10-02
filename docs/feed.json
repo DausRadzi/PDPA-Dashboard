@@ -1,161 +1,22 @@
 {
- "generated": "2026-10-01T23:52:46.782771+00:00",
+ "generated": "2026-10-02T01:30:12.902494+00:00",
  "items": [
   {
-   "id": "6103f174444e",
-   "title": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach - asiaone.com",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVJLajFneEtaQUNmNm16ZW1BQXVfV3lHZnZrZEo4RzB6clRJNTNkMWIzcFMtemh1dy1ISGhjVGp1RWVVWXUwWWd5ci1mU21DUlM0cVd2VDBNaWhwNm1vbzh0R21ybjY5Z1BhR2FIelc1OHh5bV9WcXUzZlVqS3B6R1FTeml2VzhIdlJhWVdMaGtnSUdxVDZ1aU5XTGZPOGlWcHdXQWp6amRrUnVj?oc=5",
-   "source": "asiaone.com (Google News)",
+   "id": "e454cb747fec",
+   "title": "Father hacked daughter's alleged rapist to death, jailed 13 years in Malaysia, Malaysia News - AsiaOne",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcElBY0F0d0R6LUxYX200NEFiWnkxQWFhODM0bjJSTXRqQWZHN0JQczBHM1ZGdmREYTdkeDR2OTY3VVFSelRiOHdXMDgzbWpBaXBhV3ZGalAyV3hydlBfc2NSVzUtWjZxa0Z1N2ZiMTVVbjhjdDBOcWRvZEFzUkc1emVaTm9FYjFxSDNBT1RpR284NjdvcVJpUDFsR0hweHJrR1E?oc=5",
+   "source": "AsiaOne (Google News)",
    "type": "News",
    "trust": "Media report",
-   "date": "2026-10-01T04:45:40+00:00",
-   "snippet": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach asiaone.com",
-   "score": 2,
+   "date": "2026-10-02T01:00:00+00:00",
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source"
+    "mentions Malaysia"
    ],
    "lang": "EN",
-   "first_seen": "2026-10-01T13:15:22.561795+00:00",
-   "story": "6103f174444e"
-  },
-  {
-   "id": "f1fb66c25768",
-   "title": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach - asiaone.com",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KMW1pSXcybk1oajF0cUxjRU5fNzZQOVdpRG80cXRSSnlzQ1paWTlHbHc5bmhRdGVtR21DTUhnR2ZBUlNrMmUzUVo3SnQ0TkRFcTZYSnRqc01MOVUycXM0cTFseC04aWlkN0lueHhKUGV1dDlVUlNOY1ctcw?oc=5",
-   "source": "asiaone.com (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-10-01T04:45:40+00:00",
-   "snippet": "Nearly 100,000 affected as Bee Cheng Hiang suffers Singapore's first AI-related data breach asiaone.com",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-01T19:32:09.125814+00:00",
-   "story": "6103f174444e"
-  },
-  {
-   "id": "8d3dc9f93f66",
-   "title": "Bee Cheng Hiang data breach exposes 95,364 customer email addresses after AI-assisted script error - The Online Citizen",
-   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZ1hhdWdmaTg5Nks1b0pUQ004czRlc0hULTVidEw3djEtYUxoY2tOazNkNUp0aXROYkpncW1ETUJhRFoyNkdKMXdyWU5CazZpaXJKY2dEZ3dNZi1CclNoeFdUUXM0bl9qSVAwWVlwNjFYMUdkclQyNVZEclBPVm1EQmdyaTZLUlhWZFFzRHRhdWMwYUh3QXZYVzNzRFhaZUowRTNfR2JJSEh5ejV1NGx5dmtEU1lVMEc4WlNqZ0JNdlRGZnpjc1U0T0FuaU9iVnlZMHJpTkl1MW4zRXM?oc=5",
-   "source": "The Online Citizen (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-10-01T02:14:45+00:00",
-   "snippet": "Bee Cheng Hiang data breach exposes 95,364 customer email addresses after AI-assisted script error The Online Citizen",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-01T05:54:32.361308+00:00",
-   "story": "8d3dc9f93f66"
-  },
-  {
-   "id": "aadafee92c0c",
-   "title": "Risiko kebocoran data peribadi daripada trend penciptaan foto AI \"80-an\". - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWFhlUjRuTGlEYnRhcFZSV1BtdFZCY1hCeVlvX2RBOUJvMzNRY3ppUjBVRDJQX2YyWWhnelg4QU41TnhxbW81RXQ0S3VXS2pOZ2lKUEctRDBNeXJWUzBXTWFDNkw1VVZ6X0ExR3ZWaDlFQ0tLTFRoaXNRTVNmNlBVb09OcG1lU1dNaE5xUEVuTDNCUQ?oc=5",
-   "source": "Vietnam.vn (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-30T12:35:43+00:00",
-   "snippet": "Risiko kebocoran data peribadi daripada trend penciptaan foto AI \"80-an\". Vietnam.vn",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T23:49:44.359809+00:00",
-   "story": "ce16b3b98df3"
-  },
-  {
-   "id": "f79d5eade39e",
-   "title": "Samsung Officially Unveils Galaxy Tab S12 Series",
-   "url": "https://www.lowyat.net/2026/405932/samsung-galaxy-tab-s12-series/",
-   "source": "Lowyat.NET",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-30T12:00:55+00:00",
-   "snippet": "After a fairly considerable number of leaks, the latest generation of Samsung flagship tablets has officially launched. As expected, the new lineup comprises two models, namely the Galaxy Tab S12+ and the Galaxy Tab S12 ",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T14:56:11.087468+00:00",
-   "story": "f79d5eade39e"
-  },
-  {
-   "id": "b365390f5aa2",
-   "title": "Singapore sees first data breach linked to AI use, ST reports - theedgemalaysia.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlWnhQT2RDdUdwUXA1NnJuNHFhRGU1S1BlN3pIRV80aVpJOTF0WEJXZ0hxVXlYaENoOGhxdmhVZFRPQ3N0MTY0V0lqQ2lxZjlt?oc=5",
-   "source": "theedgemalaysia.com (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-30T11:56:12+00:00",
-   "snippet": "Singapore sees first data breach linked to AI use, ST reports theedgemalaysia.com",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T14:56:11.087468+00:00",
-   "story": "b365390f5aa2"
-  },
-  {
-   "id": "fcbaf9ac98d7",
-   "title": "Huawei To Launch Mate 90 Series In China On 1 October; Alleged Specs, Renders Leaked",
-   "url": "https://www.lowyat.net/2026/405931/huawei-mate-90-series-china-1-october/",
-   "source": "Lowyat.NET",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-30T08:19:54+00:00",
-   "snippet": "After several leaked images and rumours circulating online, Huawei has officially announced that it will be unveiling its latest flagship series, the Mate 90 series, in China on 1 October. The launch event is scheduled f",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "fcbaf9ac98d7"
-  },
-  {
-   "id": "1af106d1e706",
-   "title": "Kebocoran kod mendedahkan lima ciri mod siap sedia baharu untuk yang akan datang iPhone Duo - Letem světem Applem",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNU1KQjV1cEJ4VUFrZjJLemtUbmcxU1BSWTBtWVV6cWRKa3QwZjNETjlTSl9jV3ZwSGVSY2NET3lXMXJiQnRaS05pNHVPN1UxMFNQXzlKMmJlU3FqSFN0TXA0RFVYdEU1NHZWMldjOFYwWnJOeklXS3c2NnZsZXctWjlvYkpOTnhxQWJCSmllNlZJdG1qMnd5ckd1YWphYWR4a2ljVVAtWXVXdHRaNl9GNmdkRGhDR0VWMHJLYjV1MA?oc=5",
-   "source": "Letem světem Applem (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-29T19:02:22+00:00",
-   "snippet": "Kebocoran kod mendedahkan lima ciri mod siap sedia baharu untuk yang akan datang iPhone Duo Letem světem Applem",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T20:01:34.819358+00:00",
-   "story": "1af106d1e706"
-  },
-  {
-   "id": "ce16b3b98df3",
-   "title": "Amaran tentang risiko kebocoran data peribadi daripada trend penciptaan foto berkuasa AI yang mengingatkan pada \"1980-an\". - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGwtZ21xMzdJQXR1cG12Vk5KVmMzYjlOVEkyc2J0ckZ3RlRaTzRKUXdZSXlaRnVROWtVQTVOZC1yb2NyNS1aQkx0RWdQaVNYYTBCR2Y0QkRRS09tV1lfUV9FNWN4R0I2T1ZEeExja0QwNi1zMkU2Y2hsUlR3MS1LM3h6M0NSSjZwWmFmUVpVcDlpVkM1THlUdG9WSXRSM1FtNlRpcm1GUk1Sdw?oc=5",
-   "source": "Vietnam.vn (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-29T14:00:06+00:00",
-   "snippet": "Amaran tentang risiko kebocoran data peribadi daripada trend penciptaan foto berkuasa AI yang mengingatkan pada \"1980-an\". Vietnam.vn",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "ce16b3b98df3"
+   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "story": "e454cb747fec"
   },
   {
    "id": "4378b0671288",
@@ -165,10 +26,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-29T03:20:24+00:00",
-   "snippet": "WhatsApp Accounts In Malaysia: MCMC Meets Meta Over Hacked And Blocked Accounts MYC! Malaysian Youth Community",
-   "score": 8,
+   "snippet": "",
+   "score": 6,
    "reasons": [
-    "Malaysia-focused source",
     "mentions Malaysia",
     "Malaysian regulator/law"
    ],
@@ -180,7 +40,7 @@
    "id": "540f5c0f5bf0",
    "title": "M*** P**** M*** listed by netrunner ransomware group",
    "url": "https://www.ransomware.live/group/netrunner",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live victims (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-09-28T23:34:34.191580+00:00",
@@ -190,43 +50,10 @@
     "Country = MY per tracker"
    ],
    "lang": "EN",
+   "group": "netrunner",
+   "sector": "Not Found",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "540f5c0f5bf0"
-  },
-  {
-   "id": "aea55439c2fb",
-   "title": "AI agents hacked Australia’s national healthcare database - Thred Website",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTkxnT1R2VmdsTUtEY3VETDN5ckh1S194M0swMk1kSzZ4RDdLc1M5NWE0ZEh4SkhFb01mNk5WUUVWbWxkelVzTEZFVXZxUE5KMUl5MnNObmlhYWhNNExOQWlrTjFQZXgxTWhEam1JX2FEZmZyV0VjSGJab3BfWUYyV0gzSy1fbEU?oc=5",
-   "source": "Thred Website (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T13:08:05+00:00",
-   "snippet": "AI agents hacked Australia’s national healthcare database Thred Website",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "aea55439c2fb"
-  },
-  {
-   "id": "f46ae1729f89",
-   "title": "Korea Selatan menemui 107 kebocoran teknologi perindustrian. - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYXp1Y21YYU1yYmRuQTRhdHFXeHFHdDdTZm1CSEYxeWZXMWp1Z3pVZFpObkhVdTNnWTRQY2lrbUZuejNJTGRuVDdiTF95WUZtRi02LVlmOS0zeGV3YXVIUDV0ZG5NMWppZGNsQmo0V0NUR2ZianRzeGExend4U19oY2tIb3Rhdw?oc=5",
-   "source": "Vietnam.vn (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T03:41:56+00:00",
-   "snippet": "Korea Selatan menemui 107 kebocoran teknologi perindustrian. Vietnam.vn",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "f46ae1729f89"
   },
   {
    "id": "7951f22d5796",
@@ -236,10 +63,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts NST Online",
-   "score": 5,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -255,9 +81,8 @@
    "trust": "Media report",
    "date": "2026-09-28T03:37:32+00:00",
    "snippet": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts NST Online",
-   "score": 5,
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -273,9 +98,8 @@
    "trust": "Media report",
    "date": "2026-09-28T03:37:32+00:00",
    "snippet": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts NST Online",
-   "score": 5,
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -291,9 +115,8 @@
    "trust": "Media report",
    "date": "2026-09-28T03:37:32+00:00",
    "snippet": "WhatsApp crisis: MCMC puts Meta on the spot over hacked, blocked accounts NST Online",
-   "score": 5,
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -308,50 +131,14 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-28T03:37:32+00:00",
-   "snippet": "WhatsApp crisis: Meta to respond to MCMC today over hacked, blocked accounts KLSE Screener",
-   "score": 5,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
    "first_seen": "2026-10-01T13:15:22.561795+00:00",
    "story": "c492cf566a7b"
-  },
-  {
-   "id": "d95051607e59",
-   "title": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating - Yahoo",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42dDBNTm5Ra0V1STNEbVBIYUUyNDh6UkRoM0NWNm1FYnZ2a1haVEU4X0FFRERWLVd3dUUxcllYMnh2TTNkUlhSN3g4U0M0bUVOR0J5MEFmMkhHLVBHNGQ1VjJWQ3pxSk9RTjJ1NXV4SXlYTG1fbEwxYjdyYnRUQQ?oc=5",
-   "source": "Yahoo (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T01:59:00+00:00",
-   "snippet": "Data breach affects 23,549 customers of Singapore telco Simba, personal data protection commission investigating Yahoo",
-   "score": 5,
-   "reasons": [
-    "Malaysia-focused source",
-    "Malaysian regulator/law"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "d95051607e59"
-  },
-  {
-   "id": "204f91fcd156",
-   "title": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News - asiaone.com",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HcW1sZ2ZET3JDYklwNTNHaFEyVFJWTmQyQW1SakdjZ1VaS2xMYm1BNS1PWjB2ME9TTTd6V2YtUU5lWEZveThzS0hiUFctYXFxYjRCeWUxZXZnWnRPOWFzWUZYV3RaTVhPMl9CbkppdHg0a1d3ckZlelFJa3A?oc=5",
-   "source": "asiaone.com (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-28T00:59:13+00:00",
-   "snippet": "Simba data breach: Personal information of over 23,500 customers leaked, Singapore News asiaone.com",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "204f91fcd156"
   },
   {
    "id": "e619be711e3b",
@@ -362,9 +149,8 @@
    "trust": "Media report",
    "date": "2026-09-27T23:37:00+00:00",
    "snippet": "Malaysian WhatsApp users who were hacked are being banned by the platform itself - not by the government - and in some cases, the ban is permanent with no option to appeal. The Malaysian ...",
-   "score": 5,
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "mentions Malaysia"
    ],
    "lang": "EN",
@@ -379,106 +165,14 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-27T12:01:01+00:00",
-   "snippet": "MCMC Meeting Meta Over Hacked, Blocked WhatsApp Accounts, Deputy Minister BusinessToday Malaysia",
-   "score": 8,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
-    "mentions Malaysia",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
    "story": "4fb872687643"
-  },
-  {
-   "id": "eb8d11d42a2e",
-   "title": "Lebih 23,500 pelanggan Simba terjejas dek kebocoran data libatkan NRIC, tarikh lahir - BERITA Mediacorp",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOWh4SndxZ0NHSFJfUTdwbFlvOVpyd25XV25EQ3ZGaldGanBXMmwtRWtCTHYwTHMySUhUbEJ6V3owNWsxd0xWaG44bHZvR1BFai1MUjIxRVJRSkpHM2ZMb2xBdkVzRGh1Rl9ZZkFkYmhPYmpyWEZIMXhpQTBIWHA3azZINUc3VTNPc0ZCTk9Lc09LZjFYTlBia2V5VS14S0lCWVBLM2RZSlBMQUJkeENZcWRWak5IclI0bTRvcGt5NWNtMUxoTVBZ?oc=5",
-   "source": "BERITA Mediacorp (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-27T11:53:00+00:00",
-   "snippet": "Lebih 23,500 pelanggan Simba terjejas dek kebocoran data libatkan NRIC, tarikh lahir BERITA Mediacorp",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "eb8d11d42a2e"
-  },
-  {
-   "id": "b0553b9636c0",
-   "title": "Ejen AI OpenAI memuat naik foto pengguna ChatGPT dalam talian tanpa kebenaran, menimbulkan kebimbangan tentang potensi kebocoran. - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTGJYX3VQLXdzS08yd19jQlYwUDBrdDR1UFVFaU9TS3dteEUyczYtdkFETllDY2NqS09XY1M2V3BkTEdGWkpLNG5GQXhfZ0xlZGZ0XzZNSEZyQUlaZ3VYeU1oRDlaX01lODJ3bl9ZVlNqbmJXY2FFWmdnTE11RkN6Vmh2N1BFTlhpZXFWbjFVeWpXcFF3U1VGZGcyTDJJaUduRlZEb2JWeGVuLU9zMTlzUUVEZU9Hdw?oc=5",
-   "source": "Vietnam.vn (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-26T15:27:54+00:00",
-   "snippet": "Ejen AI OpenAI memuat naik foto pengguna ChatGPT dalam talian tanpa kebenaran, menimbulkan kebimbangan tentang potensi kebocoran. Vietnam.vn",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "b0553b9636c0"
-  },
-  {
-   "id": "893f53bb5779",
-   "title": "Pemecatan kakitangan agensi kerajaan Selangor bocor maklumat kepada Chegubard kekal",
-   "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/09/26/pemecatan-kakitangan-agensi-kerajaan-selangor-bocor-maklumat-kepada-chegubard-kekal",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-26T02:00:00+00:00",
-   "snippet": "Mahkamah Perusahaan mendapati draf dua kenyataan mengenai dakwaan rasuah dikeluarkan Chegubard, berasal daripada fail dalam simpanan Khairi Salleh.",
-   "score": 6,
-   "reasons": [
-    "Malaysia-focused source",
-    "Malaysian place",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "893f53bb5779"
-  },
-  {
-   "id": "7f11a2d29f58",
-   "title": "Penggodam dakwa curi rekod perubatan ribuan ejen khas FBI - Astro Awani",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkpHb1BMVldXWERtU0NhMkVJMERDQmxrUXVZYzV0Y0lsSTBNQVY4TjBacTFDdUNNMFJoRTBpNE9pRFNJM2Zka2U4dk5yVFVQRXRXeE9ZbTFnRUVLZzRpUENpQ2t6aEZYQmhNVHhkUmxfU00yRjk5UzBkazRPZEhWYXdXSnB4a3JkNzBNWGhPaW1wSjUwdHlESHhXcF9nZw?oc=5",
-   "source": "Astro Awani (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T23:00:00+00:00",
-   "snippet": "Penggodam dakwa curi rekod perubatan ribuan ejen khas FBI Astro Awani",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "7f11a2d29f58"
-  },
-  {
-   "id": "e4ff1a4e534d",
-   "title": "Data Breaches That Have Happened This Year (2026 Update) - tech.co",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QZkRBeUR5Y19DcGJvaGwxa3Z5MWdGTTlzSEhxcDdtNU1PZ0s0VDkxaW9KRnJTZWNUb295S0RqQmtSVGtwTUo2RlRLVlpFMkxZZmRaTkZnZGc0cVE?oc=5",
-   "source": "tech.co (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-25T11:21:46+00:00",
-   "snippet": "Data Breaches That Have Happened This Year (2026 Update) tech.co",
-   "score": 2,
-   "reasons": [
-    "Malaysia-focused source"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "e4ff1a4e534d"
   },
   {
    "id": "46760ce9bdf6",
@@ -488,11 +182,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T05:18:11+00:00",
-   "snippet": "MCMC steps in after complaints of hacked and blocked WhatsApp accounts scoop.my",
-   "score": 7,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
-    ".my domain",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -507,10 +199,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T03:14:00+00:00",
-   "snippet": "MCMC probes complaints on WhatsApp accounts being hacked and blocked The Vibes",
-   "score": 5,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -525,10 +216,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T02:52:51+00:00",
-   "snippet": "MCMC probing complaints on WhatsApp accounts being hacked and blocked NST Online",
-   "score": 5,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -544,9 +234,8 @@
    "trust": "Media report",
    "date": "2026-09-25T02:42:25+00:00",
    "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
-   "score": 5,
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "mentions Malaysia"
    ],
    "lang": "EN",
@@ -561,10 +250,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T02:42:25+00:00",
-   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
-   "score": 5,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "mentions Malaysia"
    ],
    "lang": "EN",
@@ -579,10 +267,9 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-09-25T02:42:00+00:00",
-   "snippet": "Malaysia regulator investigates complaints over hacked, blocked WhatsApp accounts MLex",
-   "score": 5,
+   "snippet": "",
+   "score": 3,
    "reasons": [
-    "Malaysia-focused source",
     "mentions Malaysia"
    ],
    "lang": "EN",
@@ -590,111 +277,23 @@
    "story": "14ad9899bfc5"
   },
   {
-   "id": "681d1a9ae50d",
-   "title": "Australia says OpenAI agent hacked government website - Awani International",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLVNRc0ltakFwRl9henEwSFhQbHZFY2xmXzB0QVNHMWE5NW04clFaT25KRTFXTUo0NElTUlRGQmxfcVVYZjlacFM1dDgxbHhhdmJVLTNoWmZGTWNwN1JmLUVja3hGREs0OU56d0hKaFJEODNjTGxzc2pIaWhvRmtXYW9NX3BxMTFzLU5tR0NpcnhRNjlPbHRlUFRaYWY?oc=5",
-   "source": "Awani International (Google News)",
-   "type": "News",
+   "id": "7a16e6ac3fe8",
+   "title": "CTOS遭网络攻击 部分消费者资料遭非法访问",
+   "url": "https://www.klsescreener.com/v2/news/view/1796407/ctos%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB-%E9%83%A8%E5%88%86%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%84%E6%96%99%E9%81%AD%E9%9D%9E%E6%B3%95%E8%AE%BF%E9%97%AE",
+   "source": "ransomware.live cyberattacks (MY)",
+   "type": "Cyberattack log",
    "trust": "Media report",
-   "date": "2026-09-24T14:06:38+00:00",
-   "snippet": "Australia says OpenAI agent hacked government website Awani International",
-   "score": 2,
+   "date": "2026-09-23T00:00:00+00:00",
+   "snippet": "CTOS Digital a subi un incident de cybersécurité où des données personnelles de consommateurs ont été accédées sans autorisation. L'entreprise a immédiatement activé ses plans d'urgence, a réussi à contenir et à bloquer ",
+   "score": 6,
    "reasons": [
-    "Malaysia-focused source"
+    "Country = MY per ransomware.live"
    ],
    "lang": "EN",
-   "first_seen": "2026-10-01T05:54:32.361308+00:00",
-   "story": "fd3c432cf5c4"
-  },
-  {
-   "id": "593a4ce57da1",
-   "title": "Kebocoran terbongkar Siri AI dihidupkan HomePod. Apple mengubah sepenuhnya kesan pencahayaan dan bunyinya - Letem světem Applem",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXJyRDQ1dEJDOWNaUEdob1EwYXVyQ2J0RVd3XzhtTHFwRlliclFPU1QxWTJ2SnBpa0VTT25LZXM3N2s0c3pCb3hoa1pwSVI1UXI2UV80Q2tLNExjVDg1ZE85dDdjQUJvTUU3THhBem8wR2FYWW1ON3NyT1hNaHhMM3J3a0pHZWNOaUs2MmpBOVh5bjZ2aFI4ZEozcEtXU0tWMFNDTGprRFlTWHo1OUEwLVRNM2J2RDlZQkpFa0lXX2doSm5hckFiU2p3?oc=5",
-   "source": "Letem světem Applem (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-24T14:06:08+00:00",
-   "snippet": "Kebocoran terbongkar Siri AI dihidupkan HomePod. Apple mengubah sepenuhnya kesan pencahayaan dan bunyinya Letem světem Applem",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "593a4ce57da1"
-  },
-  {
-   "id": "e36f24f7cacb",
-   "title": "Australian PM says OpenAI hacked government health website - The Malaysian Reserve",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd18wYlFqRHlyUXVRWGlBcXFEN0UyZVEweDVSQWtzQk9qZGQ2aF9NMlE5LWxCc3BtYTlxZUpvT3lOTzhyQnBRcHFURnMtVnBEd1NjOGFsUnRCYm92ZnplY0dQX25ObEJlTUU3cElLejFuT1l3TWw4SnB5SVFvWmd5S0dvZTVteGVwR0ZjRDhZUElFY005a202WGRxdUplemFXTnVjTw?oc=5",
-   "source": "The Malaysian Reserve (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-24T01:25:56+00:00",
-   "snippet": "Australian PM says OpenAI hacked government health website The Malaysian Reserve",
-   "score": 5,
-   "reasons": [
-    "Malaysia-focused source",
-    "mentions Malaysia"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "e36f24f7cacb"
-  },
-  {
-   "id": "fd3c432cf5c4",
-   "title": "Australia says OpenAI agent hacked government website, checks for more breaches - The Edge Malaysia",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Wb29vQ2tzdWdxemRSaktXYUdoeGh3VUtXQ1VkUTZ3M1U5NFNwTF96NnhaWkZkejI5Z0JMS21rR3lBYjM4b1VYcTczQjJKenlO?oc=5",
-   "source": "The Edge Malaysia (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-24T01:16:57+00:00",
-   "snippet": "Australia says OpenAI agent hacked government website, checks for more breaches The Edge Malaysia",
-   "score": 5,
-   "reasons": [
-    "Malaysia-focused source",
-    "mentions Malaysia"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "fd3c432cf5c4"
-  },
-  {
-   "id": "8f1d3b474aa0",
-   "title": "FBI siasat dakwaan kecurian data kakitangan oleh penggodam - Astro Awani",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeG4wSUl1YnVNZG9jXzJ2MUxXVHlKczEyaTNMcUNXMU1YMERUaFRZQi1DUEJxUDFOUDRwU3ZYRE1Ma05Sb2xGTVI3dUl3QUtUMmRQajkyYjRMUjBBU2ZxZlZYOC1zZGpTX1ZaZi1nT0NzMGdYaXNrVmg4dzBxdlB6Tk9IYTk1SjNueU9NN1Q4b2hLNzlpbUJObzBMM29Tck0?oc=5",
-   "source": "Astro Awani (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-23T22:13:09+00:00",
-   "snippet": "FBI siasat dakwaan kecurian data kakitangan oleh penggodam Astro Awani",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "8f1d3b474aa0"
-  },
-  {
-   "id": "140f71c1d532",
-   "title": "Beratus-ratus ribu serangan siber setiap tahun: Rang undang-undang untuk membina 'penghalang' keselamatan data. - Vietnam.vn",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNenpDYjVjcHg4R1ZqV0hHMG9aOUxnZFQzLVJFLVBKME14Z0dzQzJjUTNrTlo1bFlwa3RnUk5xTnhzOEFjcUZWNjRlbVpzWWpPUlZEbnphLUt2RkJVYTZCOXlSWkdhb3ZCU1JVYWczU3pCMWVaUnNiT2ozYTNSNTFYQVplcGhla3JTZkVMYjNHTUdTdTRaMVN0Zk9WNUltSFAtOGdkUUJvUmk1dw?oc=5",
-   "source": "Vietnam.vn (Google News)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-09-23T14:24:26+00:00",
-   "snippet": "Beratus-ratus ribu serangan siber setiap tahun: Rang undang-undang untuk membina 'penghalang' keselamatan data. Vietnam.vn",
-   "score": 4,
-   "reasons": [
-    "Malaysia-focused source",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "140f71c1d532"
+   "group": "",
+   "sector": "",
+   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "story": "7a16e6ac3fe8"
   },
   {
    "id": "seed000001",
@@ -706,9 +305,10 @@
    "date": "2026-09-14T00:00:00+00:00",
    "first_seen": "2026-09-30T00:00:00+00:00",
    "snippet": "Sample seed item. Aggregator text mixes dates; verify against NST/NACSA.",
-   "score": 8,
+   "score": 9,
    "reasons": [
     "mentions Malaysia",
+    "Malaysian place",
     "Malaysian regulator/law"
    ],
    "lang": "EN",
@@ -718,7 +318,7 @@
    "id": "32012c147667",
    "title": "Port of Tanjung Pelepas listed by direwolf ransomware group",
    "url": "https://www.ransomware.live/group/direwolf",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live victims (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-09-11T15:54:58.991295+00:00",
@@ -728,31 +328,73 @@
     "Country = MY per tracker"
    ],
    "lang": "EN",
+   "group": "direwolf",
+   "sector": "Transportation",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "32012c147667"
   },
   {
-   "id": "428ef8b6a13f",
-   "title": "Personal data believed stolen in cyberattack at pharma company",
-   "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/11/personal-data-believed-stolen-in-cyberattack-at-pharma-company",
-   "source": "Bing News (EN)",
-   "type": "News",
+   "id": "d302f5037ea2",
+   "title": "联合药业遭网络攻击 个人资料或外泄",
+   "url": "https://www.klsescreener.com/v2/news/view/1790765/联合药业遭网络攻击_个人资料或外泄",
+   "source": "ransomware.live cyberattacks (MY)",
+   "type": "Cyberattack log",
    "trust": "Media report",
-   "date": "2026-09-11T12:46:00+00:00",
-   "snippet": "Duopharma Biotech Bhd there preliminary investigations showed a set of data files had been removed but there was no disruption to business operations.",
-   "score": 2,
+   "date": "2026-09-11T00:00:00+00:00",
+   "snippet": "La société de produits pharmaceutiques Duopharma Biotech a été victime d'une cyberattaque, avec des intrus non autorisés accédant à son infrastructure informatique. Une enquête préliminaire suggère que des archives, pote",
+   "score": 6,
    "reasons": [
-    "Malaysia-focused source"
+    "Country = MY per ransomware.live"
    ],
    "lang": "EN",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "428ef8b6a13f"
+   "group": "",
+   "sector": "",
+   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "story": "d302f5037ea2"
+  },
+  {
+   "id": "7334977e3c19",
+   "title": "Cyber attack disrupts operations at Malaysia’s Port of Tanjung Pelepas",
+   "url": "https://www.lloydslist.com/LL1158420/Cyber-attack-disrupts-operations-at-Malaysia%E2%80%99s-Port-of-Tanjung-Pelepas",
+   "source": "ransomware.live cyberattacks (MY)",
+   "type": "Cyberattack log",
+   "trust": "Media report",
+   "date": "2026-09-09T00:00:00+00:00",
+   "snippet": "Le Port de Tanjung Pelepas a confirmé avoir subi un incident de cybersécurité qui a affecté ses systèmes d'exploitation et a temporairement interrompu les opérations du terminal à conteneurs. Un redémarrage progressif a ",
+   "score": 6,
+   "reasons": [
+    "Country = MY per ransomware.live"
+   ],
+   "lang": "EN",
+   "group": "",
+   "sector": "",
+   "first_seen": "2026-10-02T01:30:12.902494+00:00",
+   "story": "7334977e3c19"
+  },
+  {
+   "id": "f9ae859a69d7",
+   "title": "myglobal.com listed by incransom ransomware group",
+   "url": "https://www.ransomware.live/group/incransom",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-09-03T18:25:31.491703+00:00",
+   "snippet": "My Global Services Sdn Bhd is the first authorized distributor of OLED LiFi in Malaysia, specializing in OLED LiFi technology, mechanical and electrical engineering, as well as civil and construction services. The compan",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "sector": "Other",
+   "first_seen": "2026-09-30T07:47:42.775638+00:00",
+   "story": "f9ae859a69d7"
   },
   {
    "id": "70a9af340913",
    "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
    "url": "https://www.ransomware.live/group/majinahanashi",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live victims (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-08-25T09:22:11.312472+00:00",
@@ -762,25 +404,10 @@
     "Country = MY per tracker"
    ],
    "lang": "EN",
+   "group": "majinahanashi",
+   "sector": "Other",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "70a9af340913"
-  },
-  {
-   "id": "f9ae859a69d7",
-   "title": "SD Associates Sdn Bhd listed by incransom ransomware group",
-   "url": "https://www.ransomware.live/group/incransom",
-   "source": "ransomware.live (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-18T00:26:41.009418+00:00",
-   "snippet": "SD Associates (SDA) is a globally expanding company that prides itself in providing quality service to every client. We provide comprehensive professional project management and engineering consultancy services in divers",
-   "score": 6,
-   "reasons": [
-    "Country = MY per tracker"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-09-30T07:47:42.775638+00:00",
-   "story": "f9ae859a69d7"
   },
   {
    "id": "seed000002",
@@ -803,16 +430,18 @@
    "id": "41687f80fb0c",
    "title": "Tong Kong E & E Sdn Bhd (95907X) listed by Black X ransomware group",
    "url": "https://www.ransomware.live/group/Black%20X",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-29T16:17:29.112839+00:00",
    "snippet": "It contains sensitive data, including customers and banking records.",
    "score": 6,
    "reasons": [
-    "Country = MY per tracker"
+    "Malaysian company name or .my domain"
    ],
    "lang": "EN",
+   "group": "Black X",
+   "sector": "Manufacturing",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "41687f80fb0c"
   },
@@ -820,7 +449,7 @@
    "id": "a3e6e720a3b6",
    "title": "Weilhotel listed by gunra ransomware group",
    "url": "https://www.ransomware.live/group/gunra",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live victims (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-29T04:24:37.577820+00:00",
@@ -830,6 +459,8 @@
     "Country = MY per tracker"
    ],
    "lang": "EN",
+   "group": "gunra",
+   "sector": "Hospitality",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "a3e6e720a3b6"
   },
@@ -837,7 +468,7 @@
    "id": "2e833b924c20",
    "title": "Furama Bukit Bintang listed by nightspire ransomware group",
    "url": "https://www.ransomware.live/group/nightspire",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live victims (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-27T17:56:12.229846+00:00",
@@ -847,6 +478,8 @@
     "Country = MY per tracker"
    ],
    "lang": "EN",
+   "group": "nightspire",
+   "sector": "Hospitality",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "2e833b924c20"
   },
@@ -854,16 +487,18 @@
    "id": "e90919f60987",
    "title": "Sunway Berhad listed by qilin ransomware group",
    "url": "https://www.ransomware.live/group/qilin",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live search: berhad",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-23T04:28:45.174350+00:00",
    "snippet": "N/A",
    "score": 6,
    "reasons": [
-    "Country = MY per tracker"
+    "Malaysian company name or .my domain"
    ],
    "lang": "EN",
+   "group": "qilin",
+   "sector": "Hospitality",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "e90919f60987"
   },
@@ -876,9 +511,8 @@
    "trust": "Media report",
    "date": "2026-07-21T17:01:00+00:00",
    "snippet": "KUALA LUMPUR: Pempengaruh dan usahawan terkenal, Khairul Aming, tidak menunggu lama untuk mengambil tindakan undang-undang susulan kebocoran data peribadinya apabila terus menghantar surat tuntutan (L ...",
-   "score": 8,
+   "score": 7,
    "reasons": [
-    "Malaysia-focused source",
     "Malaysian place",
     "Malaysian organisation",
     "Bahasa Malaysia breach terms"
@@ -891,16 +525,18 @@
    "id": "92864f896f17",
    "title": "rehabmalaysia.com listed by krybit ransomware group",
    "url": "https://www.ransomware.live/group/krybit",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live search: malaysia",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-17T00:29:31.938682+00:00",
    "snippet": "Pusat Rehabilitasi PERKESO Tun Abdul Razak (PERKESO Rehabilitation Centre Malaysia) is a Malaysian government-linked reh...",
    "score": 6,
    "reasons": [
-    "Country = MY per tracker"
+    "Malaysian company name or .my domain"
    ],
    "lang": "EN",
+   "group": "krybit",
+   "sector": "Healthcare",
    "first_seen": "2026-10-01T13:15:22.561795+00:00",
    "story": "92864f896f17"
   },
@@ -908,7 +544,7 @@
    "id": "3fdb56545ebd",
    "title": "Perpustam listed by arcusmedia ransomware group",
    "url": "https://www.ransomware.live/group/arcusmedia",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live victims (MY)",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-14T20:12:59.978260+00:00",
@@ -918,6 +554,8 @@
     "Country = MY per tracker"
    ],
    "lang": "EN",
+   "group": "arcusmedia",
+   "sector": "Government & Defense",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "3fdb56545ebd"
   },
@@ -925,16 +563,18 @@
    "id": "63a637b32245",
    "title": "Quanterm Logistics Sdn Bhd listed by thegentlemen ransomware group",
    "url": "https://www.ransomware.live/group/thegentlemen",
-   "source": "ransomware.live (MY)",
+   "source": "ransomware.live search: malaysia",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-07-07T18:34:23.975916+00:00",
    "snippet": "***.com zoominfo.com/c/quanterm-logistics-sdn-bhd/346750206 Quanterm Logistics, founded in 1992 and headquartered in Malaysia, is a leading freight forwarding and total logistics provider in the Asia Pacific region.Start",
    "score": 6,
    "reasons": [
-    "Country = MY per tracker"
+    "Malaysian company name or .my domain"
    ],
    "lang": "EN",
+   "group": "thegentlemen",
+   "sector": "Transportation",
    "first_seen": "2026-09-30T07:47:42.775638+00:00",
    "story": "63a637b32245"
   }
@@ -944,41 +584,41 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 13,
+   "count": 10,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 6,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Google News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 3,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -986,7 +626,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -994,7 +634,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1002,7 +642,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1010,7 +650,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1023,10 +663,10 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-01T19:32:09.125814+00:00"
+   "error": "",
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1034,7 +674,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "The Record",
@@ -1042,7 +682,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1050,7 +690,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1058,7 +698,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1066,15 +706,47 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   },
   {
-   "name": "ransomware.live (MY)",
+   "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-01T23:52:46.782771+00:00"
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+  },
+  {
+   "name": "ransomware.live cyberattacks (MY)",
+   "type": "Cyberattack log",
+   "ok": true,
+   "count": 3,
+   "error": "",
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+  },
+  {
+   "name": "ransomware.live search: sdn bhd",
+   "type": "Tracker",
+   "ok": true,
+   "count": 5,
+   "error": "",
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+  },
+  {
+   "name": "ransomware.live search: berhad",
+   "type": "Tracker",
+   "ok": true,
+   "count": 1,
+   "error": "",
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
+  },
+  {
+   "name": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "ok": true,
+   "count": 6,
+   "error": "",
+   "last_ok": "2026-10-02T01:30:12.902494+00:00"
   }
  ]
 }
