@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T12:22:00.438427+00:00",
+ "generated": "2026-10-04T17:34:44.504843+00:00",
  "items": [
   {
    "id": "7be33597563e",
@@ -1314,7 +1314,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1322,7 +1322,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1330,7 +1330,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1338,22 +1338,22 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": true,
-   "count": 1,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-10-04T12:22:00.438427+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-10-04T12:22:00.438427+00:00"
   },
   {
@@ -1362,7 +1362,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1370,7 +1370,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1378,7 +1378,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1391,9 +1391,9 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-04T12:22:00.438427+00:00"
   },
   {
@@ -1402,7 +1402,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "The Record",
@@ -1410,7 +1410,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1418,7 +1418,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1426,7 +1426,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1434,7 +1434,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1442,7 +1442,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1450,7 +1450,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1458,7 +1458,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1466,7 +1466,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1474,7 +1474,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1482,7 +1482,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1490,7 +1490,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1498,7 +1498,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "last_ok": "2026-10-04T17:34:44.504843+00:00"
   }
  ]
 }
