@@ -1,6 +1,29 @@
 {
- "generated": "2026-10-04T17:34:44.504843+00:00",
+ "generated": "2026-10-04T21:26:10.520207+00:00",
  "items": [
+  {
+   "id": "e05f4de66ec1",
+   "title": "Main Place Mall listed by netrunner ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/main-place-mall-netrunner-3b2a8405",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-02T21:27:22.794247+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "netrunner",
+   "victim": "Main Place Mall",
+   "sector": "Manufacturing",
+   "site": "mainplace.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-10-04T21:26:10.520207+00:00",
+   "story": "a50447253c98"
+  },
   {
    "id": "7be33597563e",
    "title": "Tong Kong E & E Sdn Bhd (95907X) listed by Black X ransomware group",
@@ -1314,7 +1337,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1322,7 +1345,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1330,7 +1353,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1338,23 +1361,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "error": "",
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "error": "",
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1362,7 +1385,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1370,7 +1393,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1378,7 +1401,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1391,10 +1414,10 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-04T12:22:00.438427+00:00"
+   "error": "",
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1402,7 +1425,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "The Record",
@@ -1410,7 +1433,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1418,7 +1441,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1426,7 +1449,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1434,7 +1457,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1442,7 +1465,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1450,7 +1473,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1458,7 +1481,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1466,7 +1489,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1474,7 +1497,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1482,7 +1505,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1490,7 +1513,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1498,7 +1521,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-04T17:34:44.504843+00:00"
+   "last_ok": "2026-10-04T21:26:10.520207+00:00"
   }
  ]
 }
