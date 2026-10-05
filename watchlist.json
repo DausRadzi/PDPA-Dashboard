@@ -1,0 +1,5 @@
+{
+  "_help": "Edit freely. 'terms' are company or organisation names (whole-word match). 'domains' are matched anywhere in the text.",
+  "terms": ["Maybank", "CIMB", "Public Bank", "RHB", "Hong Leong", "AmBank", "Bank Rakyat", "Bank Negara", "Petronas", "Tenaga Nasional", "TNB", "Telekom Malaysia", "Axiata", "Maxis", "CelcomDigi", "U Mobile", "Malaysia Airlines", "AirAsia", "Khazanah", "KWSP", "EPF", "Socso", "PERKESO", "LHDN", "MySejahtera", "Grab Malaysia", "Shopee Malaysia", "Lazada Malaysia", "Touch 'n Go", "IHH Healthcare", "KPJ", "Sunway", "Sime Darby", "Genting"],
+  "domains": ["maybank2u.com.my", "cimbclicks.com.my", "tm.com.my", "gov.my"]
+}
