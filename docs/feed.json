@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T00:55:48.881424+00:00",
+ "generated": "2026-10-05T06:57:42.170733+00:00",
  "items": [
   {
    "id": "e05f4de66ec1",
@@ -22,7 +22,8 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-04T21:26:10.520207+00:00",
-   "story": "a50447253c98"
+   "story": "a50447253c98",
+   "alerted": true
   },
   {
    "id": "7be33597563e",
@@ -44,7 +45,8 @@
    "sector": "",
    "v": 2,
    "first_seen": "2026-10-02T18:25:11.951265+00:00",
-   "story": "228fd8fd9e10"
+   "story": "228fd8fd9e10",
+   "alerted": true
   },
   {
    "id": "a50447253c98",
@@ -66,7 +68,8 @@
    "sector": "Retail & E-Commerce",
    "v": 2,
    "first_seen": "2026-10-02T05:37:46.187966+00:00",
-   "story": "a50447253c98"
+   "story": "a50447253c98",
+   "alerted": true
   },
   {
    "id": "cd4f966a4217",
@@ -314,9 +317,10 @@
    "trust": "Actor claim",
    "date": "2026-09-04T02:09:40.020560+00:00",
    "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Country = MY per SOCRadar"
+    "Country = MY per SOCRadar",
+    "Watchlist: cimb"
    ],
    "lang": "EN",
    "group": "incransom",
@@ -872,9 +876,10 @@
    "trust": "Actor claim",
    "date": "2026-07-31T02:09:40.020560+00:00",
    "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Country = MY per SOCRadar"
+    "Country = MY per SOCRadar",
+    "Watchlist: gov.my"
    ],
    "lang": "EN",
    "group": "thegentlemen",
@@ -930,7 +935,8 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "228fd8fd9e10"
+   "story": "228fd8fd9e10",
+   "alerted": true
   },
   {
    "id": "08a3242c61a1",
@@ -941,9 +947,10 @@
    "trust": "Actor claim",
    "date": "2026-07-30T06:50:16.669381+00:00",
    "snippet": "nuclearmalaysia.gov.my zoominfo.com/c/malaysian-nuclear-agency/459120141 The Malaysian Nuclear Agency (Nuklear Malaysia) is the leading government research and development organization in nuclear science and technology. ",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Malaysian company name or .my domain"
+    "Malaysian company name or .my domain",
+    "Watchlist: gov.my"
    ],
    "lang": "EN",
    "group": "thegentlemen",
@@ -996,7 +1003,8 @@
    "sector": "Manufacturing",
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "228fd8fd9e10"
+   "story": "228fd8fd9e10",
+   "alerted": true
   },
   {
    "id": "228fd8fd9e10",
@@ -1018,7 +1026,8 @@
    "sector": "",
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "228fd8fd9e10"
+   "story": "228fd8fd9e10",
+   "alerted": true
   },
   {
    "id": "0ec76716a885",
@@ -1097,7 +1106,8 @@
    "snippet": "",
    "score": 4,
    "reasons": [
-    "Malaysian organisation"
+    "Malaysian organisation",
+    "Watchlist: sunway"
    ],
    "lang": "EN",
    "group": "qilin",
@@ -1117,9 +1127,10 @@
    "trust": "Actor claim",
    "date": "2026-07-24T02:09:40.020560+00:00",
    "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Country = MY per SOCRadar"
+    "Country = MY per SOCRadar",
+    "Watchlist: sunway"
    ],
    "lang": "EN",
    "group": "qilin",
@@ -1142,7 +1153,8 @@
    "snippet": "",
    "score": 4,
    "reasons": [
-    "Malaysian organisation"
+    "Malaysian organisation",
+    "Watchlist: sunway"
    ],
    "lang": "EN",
    "group": "qilin",
@@ -1162,9 +1174,10 @@
    "trust": "Actor claim",
    "date": "2026-07-23T04:28:45.174350+00:00",
    "snippet": "N/A",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Malaysian company name or .my domain"
+    "Malaysian company name or .my domain",
+    "Watchlist: sunway"
    ],
    "lang": "EN",
    "group": "qilin",
@@ -1184,15 +1197,38 @@
    "trust": "Media report",
    "date": "2026-07-21T17:01:00+00:00",
    "snippet": "KUALA LUMPUR: Pempengaruh dan usahawan terkenal, Khairul Aming, tidak menunggu lama untuk mengambil tindakan undang-undang susulan kebocoran data peribadinya apabila terus menghantar surat tuntutan (L ...",
-   "score": 7,
+   "score": 10,
    "reasons": [
     "Malaysian place",
     "Malaysian organisation",
-    "Bahasa Malaysia breach terms"
+    "Bahasa Malaysia breach terms",
+    "Watchlist: maxis"
    ],
    "lang": "BM",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
    "story": "d54282466cc3"
+  },
+  {
+   "id": "97d5e1426d04",
+   "title": "Sunway Scientific listed by the gentlemen ransomware group",
+   "url": "https://www.ransomlook.io/group/the%20gentlemen",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-07-17T19:04:28.087684+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Watchlist: sunway"
+   ],
+   "lang": "EN",
+   "group": "thegentlemen",
+   "victim": "Sunway Scientific",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-05T06:57:42.170733+00:00",
+   "story": "97d5e1426d04"
   },
   {
    "id": "ccb8e195e399",
@@ -1203,9 +1239,10 @@
    "trust": "Actor claim",
    "date": "2026-07-17T02:09:40.020560+00:00",
    "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Country = MY per SOCRadar"
+    "Country = MY per SOCRadar",
+    "Watchlist: perkeso"
    ],
    "lang": "EN",
    "group": "krybit",
@@ -1226,9 +1263,10 @@
    "trust": "Actor claim",
    "date": "2026-07-17T02:09:40.020560+00:00",
    "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Country = MY per SOCRadar"
+    "Country = MY per SOCRadar",
+    "Watchlist: gov.my"
    ],
    "lang": "EN",
    "group": "arcusmedia",
@@ -1271,9 +1309,10 @@
    "trust": "Actor claim",
    "date": "2026-07-14T20:12:59.978260+00:00",
    "snippet": "Perpustam.gov.myPERPUSTAM stands for the Malacca Public Library Corporation, which is the Deadline: 2026-07-21 18:51:00.000000",
-   "score": 6,
+   "score": 9,
    "reasons": [
-    "Country = MY per tracker"
+    "Country = MY per tracker",
+    "Watchlist: gov.my"
    ],
    "lang": "EN",
    "group": "arcusmedia",
@@ -1334,26 +1373,26 @@
   {
    "name": "Google News (EN)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 503: Service Unavailable",
-   "last_ok": "2026-10-04T21:26:10.520207+00:00"
+   "error": "",
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 503: Service Unavailable",
-   "last_ok": "2026-10-04T21:26:10.520207+00:00"
+   "error": "",
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Google News (PDPA)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 503: Service Unavailable",
-   "last_ok": "2026-10-04T21:26:10.520207+00:00"
+   "error": "",
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1361,7 +1400,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1369,7 +1408,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1377,7 +1416,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1385,7 +1424,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1393,7 +1432,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1401,7 +1440,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1425,7 +1464,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "The Record",
@@ -1433,7 +1472,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1441,7 +1480,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1449,7 +1488,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1457,7 +1496,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1465,15 +1504,15 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1481,7 +1520,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1489,7 +1528,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1497,7 +1536,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1505,7 +1544,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1513,7 +1552,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1521,7 +1560,10 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-05T00:55:48.881424+00:00"
+   "last_ok": "2026-10-05T06:57:42.170733+00:00"
   }
- ]
+ ],
+ "cases": {},
+ "dismissed": [],
+ "repo": ""
 }
