@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """PDPA Breach Watch collector (stdlib only).
 Stores only title, link, source, date and a short snippet -- never full text or leaked data."""
-import hashlib, json, re, time, urllib.parse, urllib.request
+import hashlib, json, os, re, time, urllib.parse, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -76,10 +76,29 @@ MY = [
     (r"\bbursa\b|\bringgit\b|\brm ?\d", 1, "Malaysian finance term", False),
     (r"kebocoran|\bbocor\b|\bpenggodam\b|serangan siber|\bdigodam\b", 1, "Bahasa Malaysia breach terms", False),
 ]
-BREACH = re.compile(r"data breach|security breach|cyber ?breach|system breach|network breach|data leak|leaked (data|database|records|personal|customer|credential)|ransomware|stolen data|data theft|exposed (data|records|database)|data exposed|kebocoran data|data bocor|dark ?web|infostealer|hackers?|hacking (of|into)|hacked (into|database|server|system|network|website|site|data)|(server|system|database|network|website)s? (was |were |got )?hacked|digodam|penggodam|serangan siber|cyber ?attack", re.I)
+BREACH = re.compile(r"data breach|security breach|cyber ?breach|system breach|network breach|data leak|leaked (data|database|records|personal|customer|credential)|ransomware|stolen data|data theft|exposed (data|records|database)|data exposed|kebocoran data|data bocor|dark ?web|infostealer|hackers?\b|hacking (of|into)|hacked (into|database|server|system|network|website|site|data)|(server|system|database|network|website)s? (was |were |got )?hacked|\bdigodam\b|penggodam|serangan siber|cyber ?attack", re.I)
 STRONG = re.compile(r"data breach|data leak|ransomware|kebocoran|\bbocor\b|leaked", re.I)
 SCAM = re.compile(r"scam|phishing|penipuan|scammer|macau", re.I)
 STOP = set("the and with from after over says said malaysia malaysian data breach leak cyber attack hackers hacked this that have been will into about".split())
+
+
+try:
+    WL = json.loads((Path(__file__).parent / "watchlist.json").read_text())
+except Exception:
+    WL = {}
+_wl = [r"\b" + re.escape(t) + r"\b" for t in WL.get("terms", []) if t.strip()] + [re.escape(d) for d in WL.get("domains", []) if d.strip()]
+WL_RE = re.compile("|".join(_wl), re.I) if _wl else None
+
+# Alerts and cases (all optional; set via GitHub secrets/variables)
+ALERT_MIN, ALERT_MAX, ALERT_AGE_H = int(os.getenv("ALERT_MIN_SCORE") or 4), 8, 72
+TG_TOKEN, TG_CHAT = os.getenv("TELEGRAM_BOT_TOKEN"), os.getenv("TELEGRAM_CHAT_ID")
+REPO, GH_TOKEN = os.getenv("GITHUB_REPOSITORY"), os.getenv("GITHUB_TOKEN")
+ISSUES = (os.getenv("CREATE_ISSUES") or "").lower() == "true" and bool(REPO and GH_TOKEN)
+RANK = {"Official": 4, "Media report": 3, "Actor claim": 2, "Unverified": 1}
+
+
+def watch_hits(text):
+    return sorted({m.group(0).lower() for m in WL_RE.finditer(text)}) if WL_RE else []
 
 
 def score(text):
@@ -91,6 +110,10 @@ def score(text):
             s += w
             why.append(label)
             hard = hard or h
+    wh = watch_hits(text)
+    if wh:
+        s, hard = s + 3, True
+        why.append("Watchlist: " + ", ".join(wh))
     return (s, why) if hard else (0, [])
 
 
@@ -212,7 +235,16 @@ def from_socradar(s, cutoff):
 
 
 def my_hit(text):
-    return [label for pat, w, label, h in MY if h and re.search(pat, text, re.I)]
+    wh = watch_hits(text)
+    return [label for pat, w, label, h in MY if h and re.search(pat, text, re.I)] + (["Watchlist: " + ", ".join(wh)] if wh else [])
+
+
+def tag_watch(it):
+    if it["type"] in TRACKERS and not any(r.startswith("Watchlist") for r in it["reasons"]):
+        wh = watch_hits(it["title"] + " " + it.get("site", ""))
+        if wh:
+            it["reasons"] = it["reasons"] + ["Watchlist: " + ", ".join(wh)]
+            it["score"] += 3
 
 
 def from_global(s, cutoff):
@@ -341,14 +373,100 @@ def cluster(items):
         it["story"] = sid
 
 
+def api(url, payload=None, method=None, headers=None):
+    req = urllib.request.Request(url, data=json.dumps(payload).encode() if payload is not None else None, method=method,
+                                 headers={"User-Agent": UA, "Content-Type": "application/json", **(headers or {})})
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.loads(r.read() or b"null")
+
+
+def gh(method, path, payload=None):
+    return api(f"https://api.github.com/repos/{REPO}{path}", payload, method,
+               {"Authorization": f"Bearer {GH_TOKEN}", "Accept": "application/vnd.github+json"})
+
+
+def telegram(text):
+    api(f"https://api.telegram.org/bot{TG_TOKEN}/sendMessage", {"chat_id": TG_CHAT, "text": text[:3900], "disable_web_page_preview": True})
+
+
+def sync_dismissed(dismissed):
+    """Stories whose case Issue was closed with the 'not-relevant' label are hidden from the dashboard."""
+    d = set(dismissed)
+    try:
+        for i in gh("GET", "/issues?state=closed&labels=not-relevant&per_page=100"):
+            m = re.search(r"<!-- story:(\w+) -->", i.get("body") or "")
+            if m:
+                d.add(m.group(1))
+    except Exception as ex:
+        print("dismissed sync failed:", type(ex).__name__)
+    return sorted(d)
+
+
+def case_body(sid, a, top, trust):
+    srcs = "\n".join(f"- {i['source']}: [{i['title']}]({i['url']})" for i in sorted(a, key=lambda i: i["date"])[:8])
+    return (f"<!-- story:{sid} -->\n**Trust level:** {trust}  \n**Relevance:** {top['score']} ({', '.join(top['reasons'])})  \n"
+            f"**First seen:** {min(i['first_seen'] for i in a)[:16]} UTC\n\n### Sources\n{srcs}\n\n### Follow-up\n"
+            "- [ ] Verified against a second source\n- [ ] Organisation identified\n- [ ] Organisation contacted\n- [ ] Breach notification received\n\n"
+            "_To dismiss a false positive: add the `not-relevant` label and close this issue. Keep personal data out of this issue._")
+
+
+def notify(lst, cases, dismissed, now):
+    if not (TG_TOKEN and TG_CHAT) and not ISSUES:
+        return
+    by = {}
+    for it in lst:
+        by.setdefault(it["story"], []).append(it)
+    cands = []
+    for sid, a in by.items():
+        if sid in dismissed or any(i.get("alerted") for i in a):
+            continue
+        top = max(a, key=lambda i: i["score"])
+        watch = any(r.startswith("Watchlist") for i in a for r in i["reasons"])
+        newest = max(pdate(i["date"]) for i in a)
+        if (watch or top["score"] >= ALERT_MIN) and (now - newest).total_seconds() < ALERT_AGE_H * 3600:
+            cands.append((watch, top["score"], sid, a, top))
+    cands.sort(key=lambda c: (c[0], c[1]), reverse=True)
+    labels_ready = False
+    for watch, sc, sid, a, top in cands[:ALERT_MAX]:
+        trust = max((i["trust"] for i in a), key=lambda t: RANK[t])
+        done = False
+        if TG_TOKEN and TG_CHAT:
+            n = len({i["source"] for i in a})
+            try:
+                telegram(f"{'WATCHLIST' if watch else 'New story'}\n{top['title']}\nTrust: {trust} | Sources: {n} | Relevance: {top['score']}\nMatched: {', '.join(top['reasons'])}\n{top['url']}")
+                done = True
+            except Exception as ex:
+                print("telegram failed:", type(ex).__name__)
+        if ISSUES:
+            try:
+                if not labels_ready:
+                    for nm, col in [("new", "0e8a16"), ("watchlist", "fbca04"), ("ransomware", "b60205"), ("not-relevant", "cccccc")]:
+                        try:
+                            gh("POST", "/labels", {"name": nm, "color": col})
+                        except Exception:
+                            pass
+                    labels_ready = True
+                lab = ["new"] + (["watchlist"] if watch else []) + (["ransomware"] if top["type"] in TRACKERS else [])
+                r = gh("POST", "/issues", {"title": f"[Case] {top['title'][:120]}", "body": case_body(sid, a, top, trust), "labels": lab})
+                cases[sid] = r["number"]
+                done = True
+            except Exception as ex:
+                print("issue failed:", type(ex).__name__)
+        if done:
+            for i in a:
+                i["alerted"] = True
+    print(f"alerts: {min(len(cands), ALERT_MAX)} of {len(cands)} candidates")
+
+
 def main():
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=KEEP_DAYS)
-    old, oldh = {}, {}
+    old, oldh, cases, dismissed = {}, {}, {}, []
     try:
         prev = json.loads(OUT.read_text())
         old = {i["id"]: i for i in prev.get("items", [])}
         oldh = {h["name"]: h for h in prev.get("health", [])}
+        cases, dismissed = prev.get("cases", {}), prev.get("dismissed", [])
     except Exception:
         pass
     items = {k: v for k, v in old.items() if pdate(v["date"]) and pdate(v["date"]) >= cutoff and still_ok(v) and (v["type"] not in TRACKERS or v.get("v") == 2)}
@@ -362,6 +480,8 @@ def main():
                 it["first_seen"] = items.get(it["id"], {}).get("first_seen", now.isoformat())
                 if it.get("approx") and it["id"] in items:
                     it["date"] = items[it["id"]]["date"]
+                if items.get(it["id"], {}).get("alerted"):
+                    it["alerted"] = True
                 items[it["id"]] = it
             h["count"], h["last_ok"] = len(got), now.isoformat()
         except Exception as ex:
@@ -370,10 +490,15 @@ def main():
         print(("OK  " if h["ok"] else "FAIL"), s["name"], h["count"], h["error"])
         time.sleep(3)
     lst = list(items.values())
+    for it in lst:
+        tag_watch(it)
     cluster(lst)
+    if ISSUES:
+        dismissed = sync_dismissed(dismissed)
+    notify(lst, cases, dismissed, now)
     lst.sort(key=lambda i: i["date"], reverse=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps({"generated": now.isoformat(), "items": lst, "health": health}, ensure_ascii=False, indent=1))
+    OUT.write_text(json.dumps({"generated": now.isoformat(), "items": lst, "health": health, "cases": cases, "dismissed": dismissed, "repo": REPO if ISSUES else ""}, ensure_ascii=False, indent=1))
 
 
 if __name__ == "__main__":
