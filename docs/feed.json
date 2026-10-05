@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-05T07:02:56.718530+00:00",
+ "generated": "2026-10-05T16:00:17.366473+00:00",
  "items": [
+  {
+   "id": "466a4819a282",
+   "title": "Royal Selangor listed by byod ransomware group",
+   "url": "https://www.ransomlook.io/group/byod",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-05T10:50:29.260804+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian place"
+   ],
+   "lang": "EN",
+   "group": "byod",
+   "victim": "Royal Selangor",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-05T16:00:17.366473+00:00",
+   "story": "b08972cf0389",
+   "alerted": true
+  },
+  {
+   "id": "b08972cf0389",
+   "title": "Royal Selangor listed by BYOD ransomware group",
+   "url": "https://www.ransomware.live/group/BYOD",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-05T08:04:09.020150+00:00",
+   "snippet": "Both, your Registered Users & Customer list have been affected. 300K Lines Total, Includes: Names, Emails, Phone Numbers, Addresses, Purchase Amount, Payment Method, Pretty Juicy stuff you don't want getting out there. A",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "byod",
+   "victim": "Royal Selangor",
+   "site": "royalselangor.com",
+   "sector": "Manufacturing",
+   "v": 2,
+   "first_seen": "2026-10-05T16:00:17.366473+00:00",
+   "story": "b08972cf0389",
+   "alerted": true
+  },
   {
    "id": "e05f4de66ec1",
    "title": "Main Place Mall listed by netrunner ransomware group",
@@ -1376,7 +1422,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1384,7 +1430,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1392,7 +1438,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1400,15 +1446,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1416,7 +1462,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1424,7 +1470,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1432,7 +1478,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1440,15 +1486,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-03T21:16:27.518059+00:00"
+   "error": "",
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -1464,7 +1510,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "The Record",
@@ -1472,7 +1518,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1480,7 +1526,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1488,7 +1534,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1496,7 +1542,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1504,15 +1550,15 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1520,15 +1566,15 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1536,7 +1582,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1544,7 +1590,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1552,7 +1598,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1560,7 +1606,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-05T07:02:56.718530+00:00"
+   "last_ok": "2026-10-05T16:00:17.366473+00:00"
   }
  ],
  "cases": {},
