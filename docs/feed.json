@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-07T01:32:19.163346+00:00",
+ "generated": "2026-10-07T08:39:17.427263+00:00",
  "items": [
+  {
+   "id": "6008507af6c9",
+   "title": "olpro.com.my listed by apt73 ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-07T05:00:39.836626+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    ".my domain"
+   ],
+   "lang": "EN",
+   "group": "apt73",
+   "victim": "olpro.com.my",
+   "site": "olpro.com.my",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-07T08:39:17.427263+00:00",
+   "story": "6008507af6c9",
+   "alerted": true
+  },
+  {
+   "id": "c00085bd250f",
+   "title": "whessoe.com.my listed by apt73 ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-07T05:00:39.836626+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    ".my domain"
+   ],
+   "lang": "EN",
+   "group": "apt73",
+   "victim": "whessoe.com.my",
+   "site": "whessoe.com.my",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-07T08:39:17.427263+00:00",
+   "story": "c00085bd250f",
+   "alerted": true
+  },
   {
    "id": "d56e7b1a41d5",
    "title": "Asia Era One listed by Qilin ransomware group",
@@ -358,6 +404,23 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "b2c26ff68e01"
+  },
+  {
+   "id": "428ef8b6a13f",
+   "title": "Personal data believed stolen in cyberattack at pharma company",
+   "url": "https://www.freemalaysiatoday.com/category/nation/2026/09/11/personal-data-believed-stolen-in-cyberattack-at-pharma-company",
+   "source": "Bing News (EN)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-09-11T12:46:00+00:00",
+   "snippet": "Duopharma Biotech Bhd says preliminary investigations showed a set of data files had been removed but there was no disruption to business operations.",
+   "score": 3,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-10-07T08:39:17.427263+00:00",
+   "story": "428ef8b6a13f"
   },
   {
    "id": "d302f5037ea2",
@@ -1514,7 +1577,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1522,7 +1585,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1530,15 +1593,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1546,7 +1609,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1554,7 +1617,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1562,7 +1625,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1570,7 +1633,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1578,7 +1641,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1586,7 +1649,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -1602,7 +1665,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "The Record",
@@ -1610,7 +1673,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1618,7 +1681,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1626,7 +1689,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1634,7 +1697,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1642,7 +1705,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1650,15 +1713,15 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1666,7 +1729,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1674,7 +1737,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1682,7 +1745,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1690,7 +1753,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1698,7 +1761,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-07T01:32:19.163346+00:00"
+   "last_ok": "2026-10-07T08:39:17.427263+00:00"
   }
  ],
  "cases": {},
