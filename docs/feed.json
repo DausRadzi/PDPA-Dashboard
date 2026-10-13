@@ -1,6 +1,29 @@
 {
- "generated": "2026-10-13T15:58:59.328838+00:00",
+ "generated": "2026-10-13T21:14:47.484286+00:00",
  "items": [
+  {
+   "id": "81b979db0f2c",
+   "title": "Alfameli Group listed by Orova ransomware group",
+   "url": "https://www.ransomware.live/group/Orova",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-13T14:56:23.090356+00:00",
+   "snippet": "Alfa-Meli Sdn Bhd (Alfameli Group) is a Malaysian privately owned company specializing in oil and gas support services, particularly offshore catering, facilities management, manpower supply, and industrial services.",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "Alfameli Group",
+   "site": "alfameli.com",
+   "sector": "Other",
+   "v": 2,
+   "first_seen": "2026-10-13T21:14:47.484286+00:00",
+   "story": "81b979db0f2c",
+   "alerted": true
+  },
   {
    "id": "0a73cf66cc3f",
    "title": "PCA Group Sdn. Bhd. listed by Majinahanashi ransomware group",
@@ -1577,7 +1600,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1585,7 +1608,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1593,7 +1616,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1601,7 +1624,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1609,15 +1632,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-13T07:42:36.363055+00:00"
+   "error": "",
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1625,7 +1648,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1633,7 +1656,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1641,7 +1664,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1654,9 +1677,9 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-13T15:58:59.328838+00:00"
   },
   {
@@ -1665,7 +1688,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "The Record",
@@ -1673,7 +1696,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1681,7 +1704,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1689,7 +1712,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1697,7 +1720,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1705,7 +1728,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1713,7 +1736,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1721,15 +1744,15 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1737,15 +1760,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1753,15 +1776,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "last_ok": "2026-10-13T15:58:59.328838+00:00"
+   "last_ok": "2026-10-13T21:14:47.484286+00:00"
   }
  ],
  "cases": {},
