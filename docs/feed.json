@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T15:01:07.537849+00:00",
+ "generated": "2026-10-15T19:07:38.993212+00:00",
  "items": [
   {
    "id": "81b979db0f2c",
@@ -1522,28 +1522,6 @@
    "lang": "BM",
    "first_seen": "2026-09-30T09:32:10.863883+00:00",
    "story": "d54282466cc3"
-  },
-  {
-   "id": "97d5e1426d04",
-   "title": "Sunway Scientific listed by the gentlemen ransomware group",
-   "url": "https://www.ransomlook.io/group/the%20gentlemen",
-   "source": "RansomLook (MY filter)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-17T19:04:28.087684+00:00",
-   "snippet": "",
-   "score": 4,
-   "reasons": [
-    "Watchlist: sunway"
-   ],
-   "lang": "EN",
-   "group": "thegentlemen",
-   "victim": "Sunway Scientific",
-   "site": "",
-   "sector": "",
-   "v": 2,
-   "first_seen": "2026-10-05T06:57:42.170733+00:00",
-   "story": "97d5e1426d04"
   }
  ],
  "health": [
@@ -1553,7 +1531,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1561,7 +1539,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1569,7 +1547,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1577,7 +1555,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1585,7 +1563,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1593,7 +1571,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1601,7 +1579,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1609,7 +1587,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1617,7 +1595,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1630,9 +1608,9 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-15T15:01:07.537849+00:00"
   },
   {
@@ -1641,7 +1619,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "The Record",
@@ -1649,7 +1627,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1657,7 +1635,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1665,7 +1643,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1673,7 +1651,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1681,15 +1659,15 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1697,7 +1675,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1705,7 +1683,7 @@
    "ok": true,
    "count": 20,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1713,7 +1691,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1721,7 +1699,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1729,7 +1707,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1737,7 +1715,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-15T15:01:07.537849+00:00"
+   "last_ok": "2026-10-15T19:07:38.993212+00:00"
   }
  ],
  "cases": {},
