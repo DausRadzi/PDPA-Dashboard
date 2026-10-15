@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T23:54:56.081667+00:00",
+ "generated": "2026-10-15T04:39:31.641379+00:00",
  "items": [
   {
    "id": "81b979db0f2c",
@@ -1521,76 +1521,6 @@
    "v": 2,
    "first_seen": "2026-10-05T06:57:42.170733+00:00",
    "story": "97d5e1426d04"
-  },
-  {
-   "id": "ccb8e195e399",
-   "title": "Pusat Rehabilitasi PERKESO listed by krybit ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/pusat-rehabilitasi-perkeso-krybit-5ffd906b",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-17T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 9,
-   "reasons": [
-    "Country = MY per SOCRadar",
-    "Watchlist: perkeso"
-   ],
-   "lang": "EN",
-   "group": "krybit",
-   "victim": "Pusat Rehabilitasi PERKESO",
-   "sector": "Healthcare",
-   "site": "rehabmalaysia.com",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "e88178a492eb"
-  },
-  {
-   "id": "0b20ef3e9014",
-   "title": "Perbadanan Perpustakaan Awam Melaka (PERPUSTAM) listed by arcusmedia ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/perbadanan-perpustakaan-awam-melaka-perpustam-arcusmedia-4f67c768",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-17T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 9,
-   "reasons": [
-    "Country = MY per SOCRadar",
-    "Watchlist: gov.my"
-   ],
-   "lang": "EN",
-   "group": "arcusmedia",
-   "victim": "Perbadanan Perpustakaan Awam Melaka (PERPUSTAM)",
-   "sector": "Government & Defense",
-   "site": "perpustam.gov.my",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "0b20ef3e9014"
-  },
-  {
-   "id": "e88178a492eb",
-   "title": "rehabmalaysia.com listed by krybit ransomware group",
-   "url": "https://www.ransomware.live/group/krybit",
-   "source": "ransomware.live search: malaysia",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-17T00:29:31.938682+00:00",
-   "snippet": "Pusat Rehabilitasi PERKESO Tun Abdul Razak (PERKESO Rehabilitation Centre Malaysia) is a Malaysian government-linked reh...",
-   "score": 6,
-   "reasons": [
-    "Malaysian company name or .my domain"
-   ],
-   "lang": "EN",
-   "group": "krybit",
-   "victim": "rehabmalaysia.com",
-   "site": "rehabmalaysia.com",
-   "sector": "Healthcare",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "e88178a492eb"
   }
  ],
  "health": [
@@ -1600,7 +1530,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1608,7 +1538,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1616,7 +1546,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1624,7 +1554,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1632,7 +1562,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1640,7 +1570,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1648,7 +1578,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1656,7 +1586,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1664,22 +1594,22 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-14T20:42:18.946780+00:00"
+   "error": "",
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-14T23:54:56.081667+00:00"
   },
   {
@@ -1688,7 +1618,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "The Record",
@@ -1696,7 +1626,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1704,7 +1634,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1712,7 +1642,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1720,7 +1650,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1728,7 +1658,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1736,7 +1666,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1744,15 +1674,15 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1760,7 +1690,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1768,7 +1698,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1776,15 +1706,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-10-14T23:54:56.081667+00:00"
+   "last_ok": "2026-10-15T04:39:31.641379+00:00"
   }
  ],
  "cases": {},
