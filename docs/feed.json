@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T15:36:06.173591+00:00",
+ "generated": "2026-10-19T21:03:09.143472+00:00",
  "items": [
   {
    "id": "a637dff867b9",
@@ -1660,26 +1660,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "8134323bc351"
-  },
-  {
-   "id": "d54282466cc3",
-   "title": "Data peribadi bocor: Khairul Aming 'seram', hantar surat peguam kepada Maxis",
-   "url": "https://www.bharian.com.my/berita/nasional/2026/07/1591814/bhplus",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-07-21T17:01:00+00:00",
-   "snippet": "KUALA LUMPUR: Pempengaruh dan usahawan terkenal, Khairul Aming, tidak menunggu lama untuk mengambil tindakan undang-undang susulan kebocoran data peribadinya apabila terus menghantar surat tuntutan (L ...",
-   "score": 10,
-   "reasons": [
-    "Malaysian place",
-    "Malaysian organisation",
-    "Bahasa Malaysia breach terms",
-    "Watchlist: maxis"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-09-30T09:32:10.863883+00:00",
-   "story": "d54282466cc3"
   }
  ],
  "health": [
@@ -1689,7 +1669,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1697,7 +1677,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1705,7 +1685,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1713,23 +1693,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-19T07:46:23.778658+00:00"
+   "error": "",
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-19T07:46:23.778658+00:00"
+   "error": "",
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1737,7 +1717,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1745,7 +1725,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1753,7 +1733,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1769,7 +1749,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1777,7 +1757,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "The Record",
@@ -1785,7 +1765,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1793,7 +1773,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1801,7 +1781,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1809,7 +1789,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1817,7 +1797,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1825,7 +1805,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1833,7 +1813,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1841,7 +1821,7 @@
    "ok": true,
    "count": 21,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1849,7 +1829,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1857,7 +1837,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1865,7 +1845,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1873,7 +1853,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-10-19T15:36:06.173591+00:00"
+   "last_ok": "2026-10-19T21:03:09.143472+00:00"
   }
  ],
  "cases": {},
