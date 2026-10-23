@@ -1,6 +1,50 @@
 {
- "generated": "2026-10-23T15:04:16.205492+00:00",
+ "generated": "2026-10-23T19:13:32.384433+00:00",
  "items": [
+  {
+   "id": "e6d56eb00ca3",
+   "title": "Wah Chan Consolidated Sdn Bhd listed by orova ransomware group",
+   "url": "https://www.ransomlook.io/group/orova",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-23T15:26:23.630617+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "Wah Chan Consolidated Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-23T19:13:32.384433+00:00",
+   "story": "575b3f64658d"
+  },
+  {
+   "id": "f7e2e4bffddb",
+   "title": "Wah Chan Consolidated Sdn Bhd listed by Orova ransomware group",
+   "url": "https://www.ransomware.live/group/Orova",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-23T13:27:35.115755+00:00",
+   "snippet": "Today, Wah Chan stands as a prominent name in Malaysia’s jewelry industry. Our extensive network boasts over 50 boutiques strategically located across key urban centers like Pahang, Selangor, Kuala Lumpur, Penang, Perak,",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "Wah Chan Consolidated Sdn Bhd",
+   "site": "wahchan.com.my",
+   "sector": "Other",
+   "v": 2,
+   "first_seen": "2026-10-23T19:13:32.384433+00:00",
+   "story": "575b3f64658d"
+  },
   {
    "id": "575b3f64658d",
    "title": "Wah Chan Consolidated Sdn Bhd listed by Orova ransomware group",
@@ -21,8 +65,8 @@
    "sector": "",
    "v": 2,
    "first_seen": "2026-10-23T15:04:16.205492+00:00",
-   "story": "575b3f64658d",
-   "alerted": true
+   "alerted": true,
+   "story": "575b3f64658d"
   },
   {
    "id": "1458e9588158",
@@ -1694,28 +1738,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "b22be778aac8"
-  },
-  {
-   "id": "c52b4a8faa0b",
-   "title": "majuhome.com.my listed by krybit ransomware group",
-   "url": "https://cti.fyi/",
-   "source": "CTI.FYI (MY filter)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-25T18:08:56.451288+00:00",
-   "snippet": "",
-   "score": 4,
-   "reasons": [
-    ".my domain"
-   ],
-   "lang": "EN",
-   "group": "krybit",
-   "victim": "majuhome.com.my",
-   "site": "majuhome.com.my",
-   "sector": "",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "c52b4a8faa0b"
   }
  ],
  "health": [
@@ -1725,7 +1747,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1733,7 +1755,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1741,7 +1763,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1749,7 +1771,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1757,15 +1779,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "not well-formed (invalid token): line 1, column 41",
-   "last_ok": "2026-10-23T04:49:51.166545+00:00"
+   "error": "",
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1773,7 +1795,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1781,7 +1803,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1789,7 +1811,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1797,7 +1819,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -1813,7 +1835,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "The Record",
@@ -1821,7 +1843,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1829,7 +1851,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1837,7 +1859,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1845,7 +1867,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1853,31 +1875,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 12,
+   "count": 11,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1885,15 +1907,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1901,15 +1923,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 8,
+   "count": 9,
    "error": "",
-   "last_ok": "2026-10-23T15:04:16.205492+00:00"
+   "last_ok": "2026-10-23T19:13:32.384433+00:00"
   }
  ],
  "cases": {},
