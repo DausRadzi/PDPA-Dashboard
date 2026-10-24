@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T19:29:19.139460+00:00",
+ "generated": "2026-10-24T22:28:48.272767+00:00",
  "items": [
   {
    "id": "fd8e84af3973",
@@ -431,6 +431,26 @@
    "first_seen": "2026-10-13T21:14:47.484286+00:00",
    "alerted": true,
    "story": "d050d30e3f2b"
+  },
+  {
+   "id": "4431174a397e",
+   "title": "CTOS Digital jangka hasil terjejas RM16 juta akibat serangan siber",
+   "url": "https://www.dagangnews.com/index.php/article/terkini/ctos-digital-jangka-hasil-terjejas-rm16-juta-akibat-serangan-siber-75705",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-13T11:33:00+00:00",
+   "snippet": "KUALA LUMPUR 13 Okt - CTOS Digital Berhad menganggarkan insiden keselamatan siber yang menjejaskan sebahagian perkhidmatan pelaporan kredit penggunanya berpotensi mengurangkan hasil sebanyak kira-kira ...",
+   "score": 8,
+   "reasons": [
+    "Malaysian place",
+    "Malaysian organisation",
+    "Malaysian finance term",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-10-24T22:28:48.272767+00:00",
+   "story": "4431174a397e"
   },
   {
    "id": "d050d30e3f2b",
@@ -1804,7 +1824,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1812,7 +1832,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1820,7 +1840,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1828,15 +1848,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1844,7 +1864,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1852,7 +1872,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1860,7 +1880,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1868,14 +1888,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-24T19:29:19.139460+00:00"
   },
   {
@@ -1892,7 +1912,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "The Record",
@@ -1900,7 +1920,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1908,7 +1928,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1916,7 +1936,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1924,7 +1944,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1932,7 +1952,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -1948,7 +1968,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -1956,7 +1976,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1964,7 +1984,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1972,7 +1992,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1980,7 +2000,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -1988,7 +2008,7 @@
    "ok": true,
    "count": 10,
    "error": "",
-   "last_ok": "2026-10-24T19:29:19.139460+00:00"
+   "last_ok": "2026-10-24T22:28:48.272767+00:00"
   }
  ],
  "cases": {},
