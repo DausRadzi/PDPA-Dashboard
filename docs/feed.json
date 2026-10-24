@@ -1,6 +1,28 @@
 {
- "generated": "2026-10-24T12:40:27.437125+00:00",
+ "generated": "2026-10-24T16:35:18.872494+00:00",
  "items": [
+  {
+   "id": "fd8e84af3973",
+   "title": "mainplace.com.my listed by krybit ransomware group",
+   "url": "https://www.ransomware.live/group/krybit",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-24T11:21:47.292156+00:00",
+   "snippet": "Main Place Mall is a lifestyle neighbourhood shopping mall located in USJ 21, Subang Jaya, Selangor, Malaysia, operating...",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "krybit",
+   "victim": "mainplace.com.my",
+   "site": "mainplace.com.my",
+   "sector": "Retail & E-Commerce",
+   "v": 2,
+   "first_seen": "2026-10-24T16:35:18.872494+00:00",
+   "story": "a50447253c98"
+  },
   {
    "id": "e6d56eb00ca3",
    "title": "Wah Chan Consolidated Sdn Bhd listed by orova ransomware group",
@@ -142,6 +164,24 @@
    ],
    "lang": "BM",
    "first_seen": "2026-10-22T23:22:43.536273+00:00",
+   "story": "4c663cda0954"
+  },
+  {
+   "id": "454a6b6ab4da",
+   "title": "Kos tinggi, infrastruktur lemah dan risiko kebocoran data halang syarikat Malaysia guna AI – Synology - DagangNews",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOWRCVDdGeFNRVEUxdFdBbDg5YjNQYUdNVjNqeVh1eVAtd3RHNUZrWFQzMi1tbHlYRGpibnJuTHo0dVpzcy1sT19FNXdNalNiRGlBMk5xRUphbDRCN1J5b1NyemRObTNzd0tkcTVPcGFTSjYteVdNQTVxQ2tOMm92RkZwN2R6Tkhxem14aEdVYWNiXzlUeWV1ek5HbVBmQUo0Y1hwaDU0Zmh2U2l3UnNldXBZVHF6NGg5RXU0Z09Tc1ZYNE9Rb0MybGFyMmlkbElkS2hKdmtTRm9UemxZUjhmdUcwRExzT2VibXJGWFdn?oc=5",
+   "source": "DagangNews (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-21T08:15:00+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-10-24T16:35:18.872494+00:00",
    "story": "4c663cda0954"
   },
   {
@@ -1764,7 +1804,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1772,7 +1812,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1780,7 +1820,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1788,7 +1828,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1796,7 +1836,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1804,7 +1844,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1812,7 +1852,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1820,7 +1860,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1828,7 +1868,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1836,7 +1876,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -1852,7 +1892,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "The Record",
@@ -1860,7 +1900,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1868,7 +1908,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1876,7 +1916,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1884,7 +1924,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1892,14 +1932,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
-   "ok": true,
-   "count": 12,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out",
    "last_ok": "2026-10-24T12:40:27.437125+00:00"
   },
   {
@@ -1908,15 +1948,15 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1924,7 +1964,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1932,7 +1972,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -1940,15 +1980,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 9,
+   "count": 10,
    "error": "",
-   "last_ok": "2026-10-24T12:40:27.437125+00:00"
+   "last_ok": "2026-10-24T16:35:18.872494+00:00"
   }
  ],
  "cases": {},
