@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T14:16:24.627388+00:00",
+ "generated": "2026-10-26T20:29:09.431811+00:00",
  "items": [
   {
    "id": "dc7377251fd6",
@@ -44,8 +44,8 @@
    "sector": "Hospitality",
    "v": 2,
    "first_seen": "2026-10-26T14:16:24.627388+00:00",
-   "story": "9fb558cffae6",
-   "alerted": true
+   "alerted": true,
+   "story": "9fb558cffae6"
   },
   {
    "id": "36f74f192ee7",
@@ -1842,25 +1842,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "0ec76716a885"
-  },
-  {
-   "id": "679b99ed7535",
-   "title": "MyIMMs digodam: Imigresen tunggu laporan SPRM sebelum tindakan tatatertib",
-   "url": "https://www.bharian.com.my/berita/nasional/2026/07/1594861/myimms-digodam-imigresen-tunggu-laporan-sprm-sebelum-tindakan",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-07-28T19:59:00+00:00",
-   "snippet": "KUALA LUMPUR: Jabatan Imigresen (Imigresen) akan menunggu laporan siasatan Suruhanjaya Pencegahan Rasuah Malaysia (SPRM) sebelum mengambil tindakan termasuk membuka kertas siasatan tatatertib terhadap ...",
-   "score": 7,
-   "reasons": [
-    "mentions Malaysia",
-    "Malaysian place",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "EN",
-   "first_seen": "2026-10-11T08:51:37.725770+00:00",
-   "story": "679b99ed7535"
   }
  ],
  "health": [
@@ -1870,7 +1851,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1878,7 +1859,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1886,7 +1867,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1894,7 +1875,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1902,7 +1883,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1910,7 +1891,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1918,7 +1899,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1926,7 +1907,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1934,23 +1915,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-23T10:04:00.132981+00:00"
+   "error": "",
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1958,7 +1939,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "The Record",
@@ -1966,7 +1947,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1974,7 +1955,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1982,7 +1963,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1990,7 +1971,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1998,14 +1979,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
-   "ok": true,
-   "count": 14,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out",
    "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
@@ -2014,7 +1995,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -2022,7 +2003,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2030,7 +2011,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2038,7 +2019,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2046,7 +2027,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2054,7 +2035,7 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-26T14:16:24.627388+00:00"
+   "last_ok": "2026-10-26T20:29:09.431811+00:00"
   }
  ],
  "cases": {},
