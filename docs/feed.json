@@ -1,6 +1,52 @@
 {
- "generated": "2026-10-26T06:15:24.377373+00:00",
+ "generated": "2026-10-26T14:16:24.627388+00:00",
  "items": [
+  {
+   "id": "dc7377251fd6",
+   "title": "mahsing.com.my listed by scarlettgroup ransomware group",
+   "url": "https://www.ransomlook.io/group/scarlettgroup",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-26T07:31:31.190295+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    ".my domain"
+   ],
+   "lang": "EN",
+   "group": "scarlettgroup",
+   "victim": "mahsing.com.my",
+   "site": "mahsing.com.my",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-26T14:16:24.627388+00:00",
+   "story": "9fb558cffae6",
+   "alerted": true
+  },
+  {
+   "id": "9fb558cffae6",
+   "title": "mahsing.com.my listed by Scarlettgroup ransomware group",
+   "url": "https://www.ransomware.live/group/Scarlettgroup",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-26T04:56:48.598229+00:00",
+   "snippet": "Mah Sing Group is a leading Malaysian property developer specializing in affordable residential and commercial properties, with additional businesses in healthcare and plastics manufacturing.",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "scarlettgroup",
+   "victim": "mahsing.com.my",
+   "site": "mahsing.com.my",
+   "sector": "Hospitality",
+   "v": 2,
+   "first_seen": "2026-10-26T14:16:24.627388+00:00",
+   "story": "9fb558cffae6",
+   "alerted": true
+  },
   {
    "id": "36f74f192ee7",
    "title": "mainplace.com.my listed by krybit ransomware group",
@@ -1824,7 +1870,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1832,7 +1878,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1840,7 +1886,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1848,15 +1894,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1864,7 +1910,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1872,7 +1918,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1880,7 +1926,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1888,7 +1934,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1896,7 +1942,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -1912,7 +1958,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "The Record",
@@ -1920,7 +1966,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1928,7 +1974,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1936,7 +1982,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1944,7 +1990,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -1952,15 +1998,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -1968,15 +2014,15 @@
    "ok": true,
    "count": 11,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -1984,7 +2030,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -1992,7 +2038,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2000,15 +2046,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": "",
-   "last_ok": "2026-10-26T06:15:24.377373+00:00"
+   "last_ok": "2026-10-26T14:16:24.627388+00:00"
   }
  ],
  "cases": {},
