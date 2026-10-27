@@ -1,6 +1,28 @@
 {
- "generated": "2026-10-27T13:12:32.178813+00:00",
+ "generated": "2026-10-27T18:43:00.075089+00:00",
  "items": [
+  {
+   "id": "7f394d20e4af",
+   "title": "mainplace.com.my listed by krybit ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-27T17:03:19.573643+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    ".my domain"
+   ],
+   "lang": "EN",
+   "group": "krybit",
+   "victim": "mainplace.com.my",
+   "site": "mainplace.com.my",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-10-27T18:43:00.075089+00:00",
+   "story": "a50447253c98"
+  },
   {
    "id": "52ec0b3884c5",
    "title": "Antah HealthCare Group listed by crypto24 ransomware group",
@@ -21,8 +43,8 @@
    "sector": "Healthcare",
    "v": 2,
    "first_seen": "2026-10-27T13:12:32.178813+00:00",
-   "story": "52ec0b3884c5",
-   "alerted": true
+   "alerted": true,
+   "story": "52ec0b3884c5"
   },
   {
    "id": "a3a371fc53a9",
@@ -863,7 +885,7 @@
    "v": 2,
    "first_seen": "2026-10-02T18:25:11.951265+00:00",
    "alerted": true,
-   "story": "228fd8fd9e10"
+   "story": "7be33597563e"
   },
   {
    "id": "a50447253c98",
@@ -1774,7 +1796,7 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "alerted": true,
-   "story": "228fd8fd9e10"
+   "story": "6147d7627074"
   },
   {
    "id": "08a3242c61a1",
@@ -1820,52 +1842,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "aa725a65f537"
-  },
-  {
-   "id": "3cd0d479078d",
-   "title": "Tong Kong E & E Sdn Bhd (95907X) listed by Black X ransomware group",
-   "url": "https://www.ransomware.live/group/Black%20X",
-   "source": "ransomware.live search: sdn bhd",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-29T16:17:29.112839+00:00",
-   "snippet": "It contains sensitive data, including customers and banking records.",
-   "score": 6,
-   "reasons": [
-    "Malaysian company name or .my domain"
-   ],
-   "lang": "EN",
-   "group": "blackx",
-   "victim": "Tong Kong E & E Sdn Bhd (95907X)",
-   "site": "https://wa.me/tongkong",
-   "sector": "Manufacturing",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "alerted": true,
-   "story": "228fd8fd9e10"
-  },
-  {
-   "id": "228fd8fd9e10",
-   "title": "Tong Kong E & E Sdn Bhd (95907X) listed by black x ransomware group",
-   "url": "https://www.ransomlook.io/group/black%20x",
-   "source": "RansomLook (MY filter)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-29T14:57:16.567346+00:00",
-   "snippet": "",
-   "score": 4,
-   "reasons": [
-    "Malaysian organisation"
-   ],
-   "lang": "EN",
-   "group": "blackx",
-   "victim": "Tong Kong E & E Sdn Bhd (95907X)",
-   "site": "",
-   "sector": "",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "alerted": true,
-   "story": "228fd8fd9e10"
   }
  ],
  "health": [
@@ -1875,7 +1851,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1883,7 +1859,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1891,7 +1867,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1899,7 +1875,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1907,7 +1883,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1915,7 +1891,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1923,7 +1899,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1931,7 +1907,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1939,23 +1915,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-10-27T13:12:32.178813+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-27T06:17:03.756599+00:00"
+   "error": "",
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1963,7 +1939,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "The Record",
@@ -1971,7 +1947,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -1979,7 +1955,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "The Hacker News",
@@ -1987,7 +1963,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -1995,7 +1971,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -2003,31 +1979,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 11,
+   "count": 12,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 25,
+   "count": 24,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2035,15 +2011,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2051,7 +2027,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2059,7 +2035,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "last_ok": "2026-10-27T13:12:32.178813+00:00"
+   "last_ok": "2026-10-27T18:43:00.075089+00:00"
   }
  ],
  "cases": {},
