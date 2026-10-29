@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T01:48:10.441610+00:00",
+ "generated": "2026-10-29T08:29:13.823143+00:00",
  "items": [
   {
    "id": "26f5c0d09ac7",
@@ -1887,77 +1887,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "76fb3f24c4c0"
-  },
-  {
-   "id": "e5b26655350e",
-   "title": "Agensi Nuklear Malaysia listed by thegentlemen ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/agensi-nuklear-malaysia-thegentlemen-1bf283a2",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-31T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 9,
-   "reasons": [
-    "Country = MY per SOCRadar",
-    "Watchlist: gov.my"
-   ],
-   "lang": "EN",
-   "group": "thegentlemen",
-   "victim": "Agensi Nuklear Malaysia",
-   "sector": "Energy & Utilities",
-   "site": "nuclearmalaysia.gov.my",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "e5b26655350e"
-  },
-  {
-   "id": "76d6f957483f",
-   "title": "Weilhotel listed by gunra ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/weilhotel-gunra-9c137792",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-31T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
-   "reasons": [
-    "Country = MY per SOCRadar"
-   ],
-   "lang": "EN",
-   "group": "gunra",
-   "victim": "Weilhotel",
-   "sector": "Hospitality",
-   "site": "weilhotel.com",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "76d6f957483f"
-  },
-  {
-   "id": "6147d7627074",
-   "title": "WhatsApp listed by black x ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/whatsapp-black-x-fdfe54b1",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-07-31T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
-   "reasons": [
-    "Country = MY per SOCRadar"
-   ],
-   "lang": "EN",
-   "group": "blackx",
-   "victim": "WhatsApp",
-   "sector": "Manufacturing",
-   "site": "wa.me",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "alerted": true,
-   "story": "6147d7627074"
   }
  ],
  "health": [
@@ -1967,7 +1896,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1975,7 +1904,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1983,7 +1912,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1991,7 +1920,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -1999,7 +1928,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -2007,7 +1936,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -2015,7 +1944,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2023,7 +1952,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -2031,7 +1960,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -2047,7 +1976,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -2055,7 +1984,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "The Record",
@@ -2063,7 +1992,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2071,7 +2000,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2079,7 +2008,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -2087,22 +2016,22 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 19,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
-   "ok": true,
-   "count": 12,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "The read operation timed out",
    "last_ok": "2026-10-29T01:48:10.441610+00:00"
   },
   {
@@ -2111,7 +2040,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -2119,7 +2048,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2127,7 +2056,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2135,7 +2064,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2143,7 +2072,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2151,7 +2080,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "last_ok": "2026-10-29T08:29:13.823143+00:00"
   }
  ],
  "cases": {},
