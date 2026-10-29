@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T08:29:13.823143+00:00",
+ "generated": "2026-10-29T16:07:12.938500+00:00",
  "items": [
   {
    "id": "26f5c0d09ac7",
@@ -1896,7 +1896,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1904,7 +1904,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1912,7 +1912,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1920,14 +1920,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-10-29T08:29:13.823143+00:00"
   },
   {
@@ -1936,7 +1936,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -1944,7 +1944,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -1952,7 +1952,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -1960,7 +1960,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -1976,7 +1976,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -1984,7 +1984,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "The Record",
@@ -1992,7 +1992,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2000,7 +2000,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2008,7 +2008,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -2016,23 +2016,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 0,
+   "count": 19,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
-   "ok": false,
-   "count": 0,
-   "error": "The read operation timed out",
-   "last_ok": "2026-10-29T01:48:10.441610+00:00"
+   "ok": true,
+   "count": 12,
+   "error": "",
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -2040,7 +2040,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -2048,7 +2048,7 @@
    "ok": true,
    "count": 24,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2056,7 +2056,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2064,7 +2064,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2072,7 +2072,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2080,7 +2080,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "last_ok": "2026-10-29T08:29:13.823143+00:00"
+   "last_ok": "2026-10-29T16:07:12.938500+00:00"
   }
  ],
  "cases": {},
