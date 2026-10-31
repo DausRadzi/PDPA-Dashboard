@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T23:46:38.175571+00:00",
+ "generated": "2026-10-31T05:41:03.214869+00:00",
  "items": [
   {
    "id": "f1ec097e7d99",
@@ -148,6 +148,25 @@
    "v": 2,
    "first_seen": "2026-10-27T18:43:00.075089+00:00",
    "story": "a50447253c98"
+  },
+  {
+   "id": "ce50054cc62f",
+   "title": "Manfaatkan AI Untuk Perangi AI, Serangan Siber Dijangka Meningkat Pada 2027",
+   "url": "https://www.bernama.com/bm/am/news.php?id=2626823",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-27T17:00:00+00:00",
+   "snippet": "KUALA LUMPUR, 28 Okt (Bernama) -- Malaysia dijangka berdepan peningkatan mendadak serangan siber menggunakan kecerdasan buatan (AI) mulai tahun hadapan berikutan penggodam semakin giat menggunakan eje ...",
+   "score": 7,
+   "reasons": [
+    "mentions Malaysia",
+    "Malaysian place",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-10-31T05:41:03.214869+00:00",
+   "story": "ce50054cc62f"
   },
   {
    "id": "52ec0b3884c5",
@@ -1953,7 +1972,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -1961,7 +1980,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -1969,7 +1988,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -1977,15 +1996,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -1993,7 +2012,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -2001,7 +2020,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2009,7 +2028,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -2017,7 +2036,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -2030,10 +2049,10 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-10-29T16:07:12.938500+00:00"
+   "error": "",
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -2041,7 +2060,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "The Record",
@@ -2049,7 +2068,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2057,7 +2076,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2065,7 +2084,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -2073,7 +2092,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -2081,7 +2100,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -2089,7 +2108,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -2097,7 +2116,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -2105,7 +2124,7 @@
    "ok": true,
    "count": 25,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2113,7 +2132,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2121,7 +2140,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2129,7 +2148,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2137,7 +2156,7 @@
    "ok": true,
    "count": 13,
    "error": "",
-   "last_ok": "2026-10-30T23:46:38.175571+00:00"
+   "last_ok": "2026-10-31T05:41:03.214869+00:00"
   }
  ],
  "cases": {},
