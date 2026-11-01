@@ -1,6 +1,83 @@
 {
- "generated": "2026-11-01T01:10:04.923340+00:00",
+ "generated": "2026-11-01T07:32:06.646577+00:00",
  "items": [
+  {
+   "id": "21fdda2480a6",
+   "title": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach - Malay Mail",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDNJaTRaMXRNQUdnLTVRYmVLbkJPTkkwMkR2YWNOeTVTOVhfWDRVZGhoWWdzSmFvQXZ3ampudm8zRzloU3h4b0ROLS0tQmllb2lOVVZPQ2dNLWx4aUJSSWhSVVRQY2w4eEVfNWF3N3lPNmZaRWExdWo3bGUzNElBYndnTlBFR0hyalBzYm1xV3NrR1VYcmZLYkE5cFdKY3g3YmJaVUREdlh6Y2lxWUV1WExpXzhlemEzbGxLbHFJZU5BaC1pX3BadzJxdHFGX0tTTXpnd0xpWdIB3AFBVV95cUxQeDJ3YnlTbUZpRUJ4aG84N05GTXNISG0teWVGb2c1R0ExaHRzaXNycFptZVVhS05ndXZtRTVjT1pSdXhmYkJvN0Z1LWE4LU11MExHNm51SlFRcTEyUjM1aGlvalh5eTBSNUctNFJCVkdTdnJmQ1dtUTBwRElNdDJLQlM2MmNTWkxqOTZXTHVMcloyNXhpRnFxMHJWWG8xSUI4REhsUGM1NHNrclN2c2QwbnNETGFzeW93d0xmVkRFOGFoaGEwWWdLMnlsX1A5VjhaNHJoOE5vakl6T3RK?oc=5",
+   "source": "Malay Mail (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-01T02:53:52+00:00",
+   "snippet": "",
+   "score": 6,
+   "reasons": [
+    "mentions Malaysia",
+    "Watchlist: malaysia airlines"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-01T07:32:06.646577+00:00",
+   "story": "b64c027db1db",
+   "alerted": true
+  },
+  {
+   "id": "0460e49a71ec",
+   "title": "Malaysia Airlines says IT systems unaffected by Amadeus data breach - NST Online",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXZwN0RXdl9Jdms3bGc3OE8wbHQwam0wbE96VUNvekdYQ1VoTEZwRk0ybkE5MFRFYTlMaUFHSWJxZll1elpYalpDbDNiVjhsRG9JT0dQVFpKRnRLc2IxaFN0Wi1wWktEbGt0TVVtb0ZpMEQwTGFyXzgtZ1V0SzZFNTJSbXB6QW9mTDdjbUl2MmFURFNPdFhHWF9DRnZTalctWU5zdUM4V2thaE1VZzBaRW5pdWJkQ3Q5eFVLZ1BkQdIBxAFBVV95cUxNNlNSQWZvaUUyOGc3MEZuTWc1VlRfQlVWMnZMc1d3SURTZ1pDZ2hWN040aTdrVkFVTFg4ajFCVjN2OTYxUFZwdHlHSERkN0J3QmJyTE0zbzA4bFVBVDVtWHVmZVZWUm1WbUdxOUxabUduVHhzalQzQ1NpM2NZQzFOQ19qV3FMajI2dXhQanFkM2NEbzZoalFFTFE0aGdVM2ZpMnFLRlVvX3dUY1R5M3NWbkRXei0wd1NobUdiNDk0NGh1aEdY?oc=5",
+   "source": "NST Online (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-01T02:32:30+00:00",
+   "snippet": "",
+   "score": 6,
+   "reasons": [
+    "mentions Malaysia",
+    "Watchlist: malaysia airlines"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-01T07:32:06.646577+00:00",
+   "story": "0460e49a71ec",
+   "alerted": true
+  },
+  {
+   "id": "a5ff4bddf309",
+   "title": "Malaysia Airlines Data Breach: What Passengers Should Know - www.techbarrista.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWajI0V19oTjFTNWd5eHhWYktYYTVoTXUxZTJ4MFBVWHFseGp2aTJwWlpGSVk4ckNwVmVUX0dLWUdWRUNUZ3JsWHF3QWhLY2g5TnI3ZE1JWDhMcFltZ21OMkxMNkY5NnFyRTJ6c0ZkUW1GRnZjX1E?oc=5",
+   "source": "www.techbarrista.com (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-31T22:47:30+00:00",
+   "snippet": "",
+   "score": 6,
+   "reasons": [
+    "mentions Malaysia",
+    "Watchlist: malaysia airlines"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-01T07:32:06.646577+00:00",
+   "story": "a5ff4bddf309",
+   "alerted": true
+  },
+  {
+   "id": "b64c027db1db",
+   "title": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/01/malaysia-airlines-warns-customers-of-data-exposure-in-amadeus-cybersecurity-breach/241516",
+   "source": "Bing News (EN)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-10-31T13:51:00+00:00",
+   "snippet": "KUALA LUMPUR, Nov 1 — Malaysia Airlines has warned customers that some of their personal information may have been exposed in a cybersecurity incident at Amadeus, the ...",
+   "score": 9,
+   "reasons": [
+    "mentions Malaysia",
+    "Malaysian place",
+    "Watchlist: malaysia airlines"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-01T07:32:06.646577+00:00",
+   "story": "b64c027db1db",
+   "alerted": true
+  },
   {
    "id": "8cda91d4a511",
    "title": "Digital Triumph listed by N0n ransomware group",
@@ -1993,9 +2070,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 4,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -2003,7 +2080,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -2011,15 +2088,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -2027,7 +2104,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -2035,15 +2112,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Lowyat.NET",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2051,7 +2128,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -2059,7 +2136,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -2075,7 +2152,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -2083,7 +2160,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "The Record",
@@ -2091,7 +2168,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2099,7 +2176,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2107,7 +2184,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -2115,7 +2192,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -2123,7 +2200,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -2131,7 +2208,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -2139,7 +2216,7 @@
    "ok": true,
    "count": 12,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -2147,7 +2224,7 @@
    "ok": true,
    "count": 26,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2155,7 +2232,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2163,7 +2240,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2171,7 +2248,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2179,7 +2256,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-01T01:10:04.923340+00:00"
+   "last_ok": "2026-11-01T07:32:06.646577+00:00"
   }
  ],
  "cases": {},
