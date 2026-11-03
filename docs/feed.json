@@ -1,6 +1,88 @@
 {
- "generated": "2026-11-03T06:47:43.779580+00:00",
+ "generated": "2026-11-03T15:08:08.317592+00:00",
  "items": [
+  {
+   "id": "3014e8bdb5a4",
+   "title": "Anwar Warns Malaysia Could Be Target Of Cyberattacks",
+   "url": "https://www.lowyat.net/2026/409116/anwar-malaysia-cyberattacks-target/",
+   "source": "Lowyat.NET",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-03T11:37:14+00:00",
+   "snippet": "Malaysia could become a target of cyberattacks amid its growing digital infrastructure and geopolitical positions, Prime Minister Datuk Seri Anwar Ibrahim has warned. Speaking during Dewan Rakyat today, Anwar said the go",
+   "score": 3,
+   "reasons": [
+    "mentions Malaysia"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-03T15:08:08.317592+00:00",
+   "story": "3014e8bdb5a4"
+  },
+  {
+   "id": "2bb7b925914e",
+   "title": "Bright Property Service listed by Orova ransomware group",
+   "url": "https://www.ransomware.live/group/Orova",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-03T07:07:39.288839+00:00",
+   "snippet": "We are managing strata/individual residential landed/apartment, commercial office building, mixed development and gated & guarded communities.",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "Bright Property Service",
+   "site": "www.bpsm.com.my",
+   "sector": "Professional Services",
+   "v": 2,
+   "first_seen": "2026-11-03T15:08:08.317592+00:00",
+   "story": "2bb7b925914e",
+   "alerted": true
+  },
+  {
+   "id": "3a92dea8e882",
+   "title": "MARDEC Berhad listed by Orova ransomware group",
+   "url": "https://www.ransomware.live/group/Orova",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-03T07:06:15.205070+00:00",
+   "snippet": "MARDEC Berhad (formerly known as the Malaysian Rubber Development Corporation or MRDC) was established on 20th September 1969 as a fully–owned government company. MARDEC’s main purpose then was to upgrade the quality of ",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "MARDEC Berhad",
+   "site": "www.mardec.com.my",
+   "sector": "Manufacturing",
+   "v": 2,
+   "first_seen": "2026-11-03T15:08:08.317592+00:00",
+   "story": "f2810c3f7a8a"
+  },
+  {
+   "id": "5e0353e37d9f",
+   "title": "Malaysia berpotensi jadi sasaran serangan siber - PM",
+   "url": "https://www.bharian.com.my/berita/nasional/2026/11/1697183/malaysia-berpotensi-jadi-sasaran-serangan-siber-pm",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-03T06:59:00+00:00",
+   "snippet": "KUALA LUMPUR: Malaysia ialah antara negara berpotensi menjadi sasaran serangan siber, kata Datuk Seri Anwar Ibrahim. Perdana Menteri menjelaskan walaupun tidak semua maklumat boleh didedahkan, ...",
+   "score": 7,
+   "reasons": [
+    "mentions Malaysia",
+    "Malaysian place",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-03T06:47:43.779580+00:00",
+   "alerted": true,
+   "story": "5e0353e37d9f"
+  },
   {
    "id": "93f036acce10",
    "title": "Malaysia preparing against rising geopolitical and cyberattacks",
@@ -34,8 +116,8 @@
    ],
    "lang": "EN",
    "first_seen": "2026-11-03T06:47:43.779580+00:00",
-   "story": "961c3a219168",
-   "alerted": true
+   "alerted": true,
+   "story": "961c3a219168"
   },
   {
    "id": "fa591683e1a4",
@@ -124,26 +206,6 @@
    "story": "55782903226c"
   },
   {
-   "id": "5e0353e37d9f",
-   "title": "Malaysia berpotensi jadi sasaran serangan siber - PM",
-   "url": "https://www.bharian.com.my/berita/nasional/2026/11/1697183/malaysia-berpotensi-jadi-sasaran-serangan-siber-pm",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-11-02T14:00:00+00:00",
-   "snippet": "KUALA LUMPUR: Malaysia ialah antara negara berpotensi menjadi sasaran serangan siber, kata Datuk Seri Anwar Ibrahim. Perdana Menteri menjelaskan walaupun tidak semua maklumat boleh didedahkan, ...",
-   "score": 7,
-   "reasons": [
-    "mentions Malaysia",
-    "Malaysian place",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-11-03T06:47:43.779580+00:00",
-   "story": "5e0353e37d9f",
-   "alerted": true
-  },
-  {
    "id": "e73ad7cbbf49",
    "title": "MARDEC Berhad listed by orova ransomware group",
    "url": "https://www.ransomlook.io/group/orova",
@@ -223,6 +285,26 @@
    "lang": "EN",
    "first_seen": "2026-11-02T15:53:08.404651+00:00",
    "story": "e0ee7c44f16f"
+  },
+  {
+   "id": "8129ebbd396c",
+   "title": "Sistem pelaporan kredit CTOS pulih sepenuhnya susulan serangan siber",
+   "url": "https://www.dagangnews.com/article/terkini/sistem-pelaporan-kredit-ctos-pulih-sepenuhnya-susulan-serangan-siber-76833",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-02T06:48:00+00:00",
+   "snippet": "KUALA LUMPUR 2 Nov - CTOS Digital Bhd memulihkan sepenuhnya semua perkhidmatan pelaporan kredit yang terjejas akibat insiden keselamatan siber, susulan pelaksanaan langkah pemulihan dan kawalan kesela ...",
+   "score": 7,
+   "reasons": [
+    "Malaysian place",
+    "Malaysian organisation",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-03T15:08:08.317592+00:00",
+   "story": "8129ebbd396c",
+   "alerted": true
   },
   {
    "id": "e0ee7c44f16f",
@@ -332,8 +414,8 @@
    ],
    "lang": "EN",
    "first_seen": "2026-11-02T23:30:16.004152+00:00",
-   "story": "57728953adab",
-   "alerted": true
+   "alerted": true,
+   "story": "57728953adab"
   },
   {
    "id": "2d8fe594d350",
@@ -2625,9 +2707,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 12,
+   "count": 8,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -2635,7 +2717,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -2643,7 +2725,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -2651,31 +2733,31 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Lowyat.NET",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2683,7 +2765,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -2691,7 +2773,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -2704,10 +2786,10 @@
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-11-02T15:53:08.404651+00:00"
+   "error": "",
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -2715,7 +2797,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "The Record",
@@ -2723,7 +2805,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2731,7 +2813,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2739,7 +2821,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -2747,15 +2829,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 19,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -2763,23 +2845,23 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
-   "ok": true,
-   "count": 14,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "HTTP Error 402: Payment Required",
    "last_ok": "2026-11-03T06:47:43.779580+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 27,
+   "count": 29,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2787,7 +2869,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2795,23 +2877,23 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
    "type": "Tracker",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "last_ok": "2026-11-03T06:47:43.779580+00:00"
+   "last_ok": "2026-11-03T15:08:08.317592+00:00"
   }
  ],
  "cases": {},
