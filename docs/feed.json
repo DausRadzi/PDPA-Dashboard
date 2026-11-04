@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-03T20:58:58.054756+00:00",
+ "generated": "2026-11-04T01:21:01.142199+00:00",
  "items": [
+  {
+   "id": "98e3aa44e3f7",
+   "title": "Parlimen: Malaysia berpotensi jadi sasaran serangan siber - Anwar",
+   "url": "https://www.reddit.com/r/malaysia/comments/1xnasb9/parlimen_malaysia_berpotensi_jadi_sasaran/",
+   "source": "Reddit r/malaysia",
+   "type": "Reddit",
+   "trust": "Unverified",
+   "date": "2026-11-04T01:03:18+00:00",
+   "snippet": "Prime Minister Datuk Seri Anwar Ibrahim warned that Malaysia is a potential target for cyberattacks and hybrid security threats due to its expanding digital infrastructure, massive data-centre capacity, and principled st",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-04T01:21:01.142199+00:00",
+   "story": "5e0353e37d9f"
+  },
   {
    "id": "3014e8bdb5a4",
    "title": "Anwar Warns Malaysia Could Be Target Of Cyberattacks",
@@ -17,6 +35,26 @@
    "lang": "EN",
    "first_seen": "2026-11-03T15:08:08.317592+00:00",
    "story": "3014e8bdb5a4"
+  },
+  {
+   "id": "5e0353e37d9f",
+   "title": "Malaysia berpotensi jadi sasaran serangan siber - PM",
+   "url": "https://www.bharian.com.my/berita/nasional/2026/11/1697183/malaysia-berpotensi-jadi-sasaran-serangan-siber-pm",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-03T08:14:00+00:00",
+   "snippet": "KUALA LUMPUR: Malaysia ialah antara negara berpotensi menjadi sasaran serangan siber, kata Datuk Seri Anwar Ibrahim. Perdana Menteri menjelaskan walaupun tidak semua maklumat boleh didedahkan, ...",
+   "score": 7,
+   "reasons": [
+    "mentions Malaysia",
+    "Malaysian place",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-03T06:47:43.779580+00:00",
+   "alerted": true,
+   "story": "5e0353e37d9f"
   },
   {
    "id": "2bb7b925914e",
@@ -81,6 +119,26 @@
    "story": "93f036acce10"
   },
   {
+   "id": "19d07f97c8fa",
+   "title": "PM minta rakyat kekal tenang tapi tetap waspada ancaman siber",
+   "url": "https://www.utusan.com.my/terkini/2026/11/pm-minta-rakyat-kekal-tenang-tapi-tetap-waspada-ancaman-siber/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-03T03:56:00+00:00",
+   "snippet": "KUALA LUMPUR: Datuk Seri Anwar Ibrahim meminta rakyat kekal tenang, namun sentiasa berwaspada susulan kedudukan Malaysia yang berpotensi menjadi sasaran serangan siber.",
+   "score": 7,
+   "reasons": [
+    "mentions Malaysia",
+    "Malaysian place",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-04T01:21:01.142199+00:00",
+   "story": "19d07f97c8fa",
+   "alerted": true
+  },
+  {
    "id": "961c3a219168",
    "title": "Hong Kong privacy watchdog investigates data leaks linked to major airlines and retailers",
    "url": "https://databreaches.net/2026/11/02/hong-kong-privacy-watchdog-investigates-data-leaks-linked-to-major-airlines-and-retailers/",
@@ -98,26 +156,6 @@
    "first_seen": "2026-11-03T06:47:43.779580+00:00",
    "alerted": true,
    "story": "961c3a219168"
-  },
-  {
-   "id": "5e0353e37d9f",
-   "title": "Malaysia berpotensi jadi sasaran serangan siber - PM",
-   "url": "https://www.bharian.com.my/berita/nasional/2026/11/1697183/malaysia-berpotensi-jadi-sasaran-serangan-siber-pm",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-11-02T21:46:00+00:00",
-   "snippet": "KUALA LUMPUR: Malaysia ialah antara negara berpotensi menjadi sasaran serangan siber, kata Datuk Seri Anwar Ibrahim. Perdana Menteri menjelaskan walaupun tidak semua maklumat boleh didedahkan, ...",
-   "score": 7,
-   "reasons": [
-    "mentions Malaysia",
-    "Malaysian place",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-11-03T06:47:43.779580+00:00",
-   "alerted": true,
-   "story": "5e0353e37d9f"
   },
   {
    "id": "fa591683e1a4",
@@ -154,8 +192,8 @@
    ],
    "lang": "BM",
    "first_seen": "2026-11-03T20:58:58.054756+00:00",
-   "story": "352575f0c885",
-   "alerted": true
+   "alerted": true,
+   "story": "352575f0c885"
   },
   {
    "id": "49c143703eb2",
@@ -489,8 +527,8 @@
    ],
    "lang": "EN",
    "first_seen": "2026-11-01T15:09:15.336356+00:00",
-   "story": "a321472e1692",
-   "alerted": true
+   "alerted": true,
+   "story": "a321472e1692"
   },
   {
    "id": "257deee12bac",
@@ -2748,7 +2786,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -2756,7 +2794,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -2764,7 +2802,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -2772,23 +2810,23 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -2796,7 +2834,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2804,15 +2842,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Reddit r/malaysia",
    "type": "Reddit",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -2828,7 +2866,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -2836,7 +2874,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "The Record",
@@ -2844,7 +2882,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2852,7 +2890,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2860,7 +2898,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -2868,7 +2906,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -2876,7 +2914,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -2884,7 +2922,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -2892,7 +2930,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -2900,7 +2938,7 @@
    "ok": true,
    "count": 29,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -2908,7 +2946,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -2916,7 +2954,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -2924,7 +2962,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -2932,7 +2970,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-03T20:58:58.054756+00:00"
+   "last_ok": "2026-11-04T01:21:01.142199+00:00"
   }
  ],
  "cases": {},
