@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T23:39:46.567865+00:00",
+ "generated": "2026-11-05T06:46:29.318339+00:00",
  "items": [
   {
    "id": "71b12d48491a",
@@ -17,8 +17,8 @@
    ],
    "lang": "EN",
    "first_seen": "2026-11-04T23:39:46.567865+00:00",
-   "story": "71b12d48491a",
-   "alerted": true
+   "alerted": true,
+   "story": "71b12d48491a"
   },
   {
    "id": "98e3aa44e3f7",
@@ -71,8 +71,8 @@
    ],
    "lang": "BM",
    "first_seen": "2026-11-04T23:39:46.567865+00:00",
-   "story": "0e02c55b7ea0",
-   "alerted": true
+   "alerted": true,
+   "story": "0e02c55b7ea0"
   },
   {
    "id": "3fcd5ef18524",
@@ -81,7 +81,7 @@
    "source": "Bing News (BM)",
    "type": "News",
    "trust": "Media report",
-   "date": "2026-11-03T15:00:00+00:00",
+   "date": "2026-11-03T15:24:00+00:00",
    "snippet": "KUALA LUMPUR: Datuk Seri Anwar Ibrahim meminta rakyat kekal tenang, namun harus sentiasa berwaspada susulan kedudukan Malaysia yang berpotensi menjadi sasaran serangan siber. Perdana Menteri berkata ...",
    "score": 7,
    "reasons": [
@@ -91,8 +91,8 @@
    ],
    "lang": "BM",
    "first_seen": "2026-11-04T23:39:46.567865+00:00",
-   "story": "3fcd5ef18524",
-   "alerted": true
+   "alerted": true,
+   "story": "3fcd5ef18524"
   },
   {
    "id": "3014e8bdb5a4",
@@ -172,6 +172,23 @@
    "lang": "EN",
    "first_seen": "2026-11-03T06:47:43.779580+00:00",
    "story": "93f036acce10"
+  },
+  {
+   "id": "055af112a34b",
+   "title": "PM Anwar: Malaysia vulnerable to sophisticated cyber attacks, Home Ministry to hold special meeting today",
+   "url": "https://www.malaymail.com/news/malaysia/2026/11/03/pm-anwar-malaysia-vulnerable-to-sophisticated-cyber-attacks-home-ministry-to-hold-special-meeting-today/241783",
+   "source": "Bing News (EN)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-03T04:18:00+00:00",
+   "snippet": "Prime Minister Datuk Seri Anwar Ibrahim told the Dewan Rakyat today that Malaysia could be among countries vulnerable to sophisticated cyber ...",
+   "score": 3,
+   "reasons": [
+    "mentions Malaysia"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-05T06:46:29.318339+00:00",
+   "story": "055af112a34b"
   },
   {
    "id": "19d07f97c8fa",
@@ -2879,9 +2896,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 10,
+   "count": 9,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -2889,7 +2906,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -2897,31 +2914,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -2929,7 +2946,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2937,7 +2954,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -2945,15 +2962,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-11-02T23:30:16.004152+00:00"
+   "error": "",
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -2969,7 +2986,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "The Record",
@@ -2977,7 +2994,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -2985,7 +3002,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "The Hacker News",
@@ -2993,15 +3010,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "DataBreaches.net",
    "type": "News",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "mismatched tag: line 93, column 2",
-   "last_ok": "2026-11-04T17:17:37.341645+00:00"
+   "error": "",
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3009,7 +3026,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3017,7 +3034,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3025,15 +3042,15 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 29,
+   "count": 28,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3041,7 +3058,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3049,7 +3066,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3057,15 +3074,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
-   "last_ok": "2026-11-04T23:39:46.567865+00:00"
+   "last_ok": "2026-11-05T06:46:29.318339+00:00"
   }
  ],
  "cases": {},
