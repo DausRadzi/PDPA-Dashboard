@@ -1,6 +1,44 @@
 {
- "generated": "2026-11-07T02:48:28.838746+00:00",
+ "generated": "2026-11-07T10:09:25.454268+00:00",
  "items": [
+  {
+   "id": "0f63290f0fb7",
+   "title": "Serangan siber: Ancaman terhadap Malaysia meningkat - Harian Metro",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmdCZURaRmpFNndNNzdranI5Zi1zOWxScnRBN3RTNEQ5YUEwbGlUdFpCVEVQcGh0OVFWaXZkX042YTgxOXFRbVQ4V2lPVWpzNmZSS0s5ZF8yS1RpVmRFWHhRN0swSngwbEJJZzVIRERjRm01aWtCRUg4MXJyRFE3QnJmcW0yYmFWcGFBdF9nTUNWZ2pKU2Qwc0J5QXVMWkNMeFlN0gGoAUFVX3lxTFBvQ05RaDlhdTJOV1F5MWRFOGV5QkNqV0ZxTnFFRDFPdlJYLUUxb3R5UnQzQ0tTbng4MVJVUmtIN1FQS2RCeUFIcmpjUnVPeFc3LWJBV3RWLUs3OVlHSkNmd196TFV2WFYxRnhEQXBmOFFqdldEOUgzenFqd2RzZ2ZlamI0QVcxbUQ5RFhqblJsbmtyWDBmZ29nUTNqTGhkSEIwXzZ6ZEdZeQ?oc=5",
+   "source": "Harian Metro (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-07T06:50:00+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-07T10:09:25.454268+00:00",
+   "story": "0f63290f0fb7",
+   "alerted": true
+  },
+  {
+   "id": "6d9f98d57f6f",
+   "title": "A sign of escalating cyberattack in Malaysia after Bank Rakyat becomes latest victim of hacking? - Focus Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXljd1hIVjRJRDlnaXRUWFpoblpDM2tnTHVlMDYyZms3UzViclZxVGMyWXVwclFIdi1yMUxveVZrZGw2ZUowY0YxbEZULXpjQUFON2t1bUE5dVdNcGk0NUVQNWlncHhoTGJ3M0xWalhoTzBIaGg2aVM3eUV1dDJpRFMyNEVVSWxDa1A5cF9pZ0VxWEZTUjJoOFRQS1NjRFBNTGFFdGY1NXNxQ2NyU0VqTmpWYzU4c3AwMGgwMHdR?oc=5",
+   "source": "Focus Malaysia (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-07T04:02:25+00:00",
+   "snippet": "",
+   "score": 6,
+   "reasons": [
+    "mentions Malaysia",
+    "Watchlist: bank rakyat"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-07T10:09:25.454268+00:00",
+   "story": "6d9f98d57f6f",
+   "alerted": true
+  },
   {
    "id": "e33ad2dd7f2a",
    "title": "Bank Rakyat Takes Down Sites After Suspected Cyber Attack",
@@ -18,6 +56,62 @@
    "first_seen": "2026-11-06T23:08:27.704187+00:00",
    "alerted": true,
    "story": "e33ad2dd7f2a"
+  },
+  {
+   "id": "d69bd350e41f",
+   "title": "Percubaan serangan siber tidak jejas sistem perbankan negara",
+   "url": "https://www.utusan.com.my/nasional/2026/11/percubaan-serangan-siber-tidak-jejas-sistem-perbankan-negara/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-06T19:16:00+00:00",
+   "snippet": "Sistem perbankan dalam talian dan transaksi kewangan negara kekal selamat meskipun terdapat percubaan serangan siber oleh pihak bukan negara, termasuk insiden penggodaman laman web Bank Rakyat baru-ba ...",
+   "score": 4,
+   "reasons": [
+    "Bahasa Malaysia breach terms",
+    "Watchlist: bank rakyat"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-07T10:09:25.454268+00:00",
+   "story": "d69bd350e41f",
+   "alerted": true
+  },
+  {
+   "id": "8e9c3da1e984",
+   "title": "Malaysia jadi sasaran serangan siber bertubi-tubi",
+   "url": "https://www.utusan.com.my/nasional/2026/11/malaysia-jadi-sasaran-serangan-siber-bertubi-tubi/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-06T18:15:00+00:00",
+   "snippet": "PETALING JAYA: Malaysia didakwa menjadi antara sasaran serangan siber dari luar negara bertubi-tubi tengah malam tadi. Berdasarkan paparan peta ancaman langsung (Live Threat Map) oleh FortiGuard Labs, ...",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-07T10:09:25.454268+00:00",
+   "story": "5e0353e37d9f"
+  },
+  {
+   "id": "0db58e584de1",
+   "title": "Serangan siber: Negara perlu pendekatan proaktif – Anwar",
+   "url": "https://wartaoriental.com/2026/11/07/serangan-siber-negara-perlu-pendekatan-proaktif-anwar/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-06T16:00:00+00:00",
+   "snippet": "KUALA LUMPUR (Bernama): Kerajaan memperkukuh kesiapsiagaan keselamatan siber negara dengan memberi tumpuan kepada keupayaan menjangka dan mencegah serangan, susulan ancaman siber yang semakin kompleks ...",
+   "score": 4,
+   "reasons": [
+    "Malaysian place",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-07T10:09:25.454268+00:00",
+   "story": "0db58e584de1",
+   "alerted": true
   },
   {
    "id": "71b12d48491a",
@@ -2933,15 +3027,15 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -2949,31 +3043,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -2981,7 +3075,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -2989,7 +3083,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -2997,7 +3091,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -3005,7 +3099,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -3021,7 +3115,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "The Record",
@@ -3029,7 +3123,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3037,7 +3131,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3045,7 +3139,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3053,7 +3147,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3061,7 +3155,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3069,7 +3163,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3077,7 +3171,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3085,7 +3179,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3093,7 +3187,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3101,7 +3195,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3109,7 +3203,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3117,7 +3211,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-07T02:48:28.838746+00:00"
+   "last_ok": "2026-11-07T10:09:25.454268+00:00"
   }
  ],
  "cases": {},
