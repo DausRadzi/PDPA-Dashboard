@@ -1,6 +1,24 @@
 {
- "generated": "2026-11-07T10:09:25.454268+00:00",
+ "generated": "2026-11-07T16:26:13.069911+00:00",
  "items": [
+  {
+   "id": "8e9c3da1e984",
+   "title": "Malaysia jadi sasaran serangan siber bertubi-tubi",
+   "url": "https://www.utusan.com.my/nasional/2026/11/malaysia-jadi-sasaran-serangan-siber-bertubi-tubi/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-07T08:14:00+00:00",
+   "snippet": "PETALING JAYA: Malaysia didakwa menjadi antara sasaran serangan siber dari luar negara bertubi-tubi tengah malam tadi. Berdasarkan paparan peta ancaman langsung (Live Threat Map) oleh FortiGuard Labs, ...",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-07T10:09:25.454268+00:00",
+   "story": "5e0353e37d9f"
+  },
   {
    "id": "0f63290f0fb7",
    "title": "Serangan siber: Ancaman terhadap Malaysia meningkat - Harian Metro",
@@ -27,7 +45,7 @@
    "source": "Focus Malaysia (Google News)",
    "type": "News",
    "trust": "Media report",
-   "date": "2026-11-07T04:02:25+00:00",
+   "date": "2026-11-07T03:44:13+00:00",
    "snippet": "",
    "score": 6,
    "reasons": [
@@ -36,8 +54,8 @@
    ],
    "lang": "EN",
    "first_seen": "2026-11-07T10:09:25.454268+00:00",
-   "story": "6d9f98d57f6f",
-   "alerted": true
+   "alerted": true,
+   "story": "6d9f98d57f6f"
   },
   {
    "id": "e33ad2dd7f2a",
@@ -73,26 +91,8 @@
    ],
    "lang": "BM",
    "first_seen": "2026-11-07T10:09:25.454268+00:00",
-   "story": "d69bd350e41f",
-   "alerted": true
-  },
-  {
-   "id": "8e9c3da1e984",
-   "title": "Malaysia jadi sasaran serangan siber bertubi-tubi",
-   "url": "https://www.utusan.com.my/nasional/2026/11/malaysia-jadi-sasaran-serangan-siber-bertubi-tubi/",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-11-06T18:15:00+00:00",
-   "snippet": "PETALING JAYA: Malaysia didakwa menjadi antara sasaran serangan siber dari luar negara bertubi-tubi tengah malam tadi. Berdasarkan paparan peta ancaman langsung (Live Threat Map) oleh FortiGuard Labs, ...",
-   "score": 4,
-   "reasons": [
-    "mentions Malaysia",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-11-07T10:09:25.454268+00:00",
-   "story": "5e0353e37d9f"
+   "alerted": true,
+   "story": "d69bd350e41f"
   },
   {
    "id": "0db58e584de1",
@@ -110,8 +110,8 @@
    ],
    "lang": "BM",
    "first_seen": "2026-11-07T10:09:25.454268+00:00",
-   "story": "0db58e584de1",
-   "alerted": true
+   "alerted": true,
+   "story": "0db58e584de1"
   },
   {
    "id": "71b12d48491a",
@@ -3027,15 +3027,15 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3043,31 +3043,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3075,7 +3075,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3083,7 +3083,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3091,23 +3091,23 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-07T10:09:25.454268+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-11-05T21:59:00.793135+00:00"
+   "error": "",
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "BleepingComputer",
@@ -3115,7 +3115,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "The Record",
@@ -3123,7 +3123,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3131,7 +3131,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3139,7 +3139,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3147,7 +3147,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3155,7 +3155,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3163,7 +3163,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3171,7 +3171,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3179,7 +3179,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3187,7 +3187,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3195,7 +3195,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3203,7 +3203,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3211,7 +3211,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "last_ok": "2026-11-07T16:26:13.069911+00:00"
   }
  ],
  "cases": {},
