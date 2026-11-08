@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T15:12:40.813628+00:00",
+ "generated": "2026-11-08T19:43:41.594706+00:00",
  "items": [
   {
    "id": "fe665f96da18",
@@ -883,6 +883,24 @@
    "first_seen": "2026-11-02T23:30:16.004152+00:00",
    "alerted": true,
    "story": "b64c027db1db"
+  },
+  {
+   "id": "cdb866f9730d",
+   "title": "Malaysia Airlines says customers may be affected by Amadeus breach",
+   "url": "https://www.straitstimes.com/asia/se-asia/malaysia-airlines-says-customers-may-be-affected-by-amadeus-breach",
+   "source": "Bing News (EN)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-01T05:26:00+00:00",
+   "snippet": "Malaysia Airlines says some customer information may have been affected by an Amadeus cybersecurity breach. Read more at straitstimes.com.",
+   "score": 6,
+   "reasons": [
+    "mentions Malaysia",
+    "Watchlist: malaysia airlines"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-08T19:43:41.594706+00:00",
+   "story": "afb4c306d52b"
   },
   {
    "id": "f17f2e50a5db",
@@ -3082,9 +3100,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3092,7 +3110,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3100,15 +3118,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 3,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3116,7 +3134,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3124,7 +3142,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3132,7 +3150,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3140,7 +3158,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3148,7 +3166,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -3172,7 +3190,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "The Record",
@@ -3180,7 +3198,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3188,7 +3206,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3196,7 +3214,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3204,7 +3222,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3212,7 +3230,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3220,7 +3238,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3228,7 +3246,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3236,7 +3254,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3244,7 +3262,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3252,7 +3270,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3260,7 +3278,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3268,7 +3286,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-08T15:12:40.813628+00:00"
+   "last_ok": "2026-11-08T19:43:41.594706+00:00"
   }
  ],
  "cases": {},
