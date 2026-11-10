@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-09T17:29:38.001402+00:00",
+ "generated": "2026-11-10T01:31:35.248052+00:00",
  "items": [
+  {
+   "id": "37f59d1246a9",
+   "title": "Malaysia perlu tingkat waspada ancaman penggodam profesional, kata persatuan",
+   "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/malaysia-perlu-tingkat-waspada-ancaman-penggodam-profesional-kata-persatuan",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-09T10:15:00+00:00",
+   "snippet": "Siraj berkata, Malaysia mempunyai asas keselamatan siber yang semakin kukuh menerusi kerjasama antara komuniti keselamatan siber, industri dan kerajaan selain pelaksanaan Akta Keselamatan Siber 2024.",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-09T17:29:38.001402+00:00",
+   "alerted": true,
+   "story": "906c14250d5f"
+  },
   {
    "id": "906c14250d5f",
    "title": "Malaysia perlu waspada ancaman penggodam profesional – MCCA",
@@ -17,27 +36,8 @@
    ],
    "lang": "BM",
    "first_seen": "2026-11-09T17:29:38.001402+00:00",
-   "story": "37f59d1246a9",
-   "alerted": true
-  },
-  {
-   "id": "37f59d1246a9",
-   "title": "Malaysia perlu tingkat waspada ancaman penggodam profesional, kata persatuan",
-   "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/malaysia-perlu-tingkat-waspada-ancaman-penggodam-profesional-kata-persatuan",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-11-08T20:15:00+00:00",
-   "snippet": "Siraj berkata, Malaysia mempunyai asas keselamatan siber yang semakin kukuh menerusi kerjasama antara komuniti keselamatan siber, industri dan kerajaan selain pelaksanaan Akta Keselamatan Siber 2024.",
-   "score": 4,
-   "reasons": [
-    "mentions Malaysia",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-11-09T17:29:38.001402+00:00",
-   "story": "37f59d1246a9",
-   "alerted": true
+   "alerted": true,
+   "story": "906c14250d5f"
   },
   {
    "id": "fe665f96da18",
@@ -3157,15 +3157,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3173,7 +3173,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3181,7 +3181,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3189,15 +3189,15 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3205,7 +3205,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3213,7 +3213,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3221,7 +3221,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
@@ -3245,7 +3245,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "The Record",
@@ -3253,7 +3253,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3261,7 +3261,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3269,7 +3269,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3277,7 +3277,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3285,7 +3285,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3293,7 +3293,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3301,7 +3301,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3309,7 +3309,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3317,7 +3317,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3325,7 +3325,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3333,7 +3333,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3341,7 +3341,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-09T17:29:38.001402+00:00"
+   "last_ok": "2026-11-10T01:31:35.248052+00:00"
   }
  ],
  "cases": {},
