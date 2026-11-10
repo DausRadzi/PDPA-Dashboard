@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T01:31:35.248052+00:00",
+ "generated": "2026-11-10T09:50:28.250768+00:00",
  "items": [
   {
    "id": "37f59d1246a9",
@@ -316,6 +316,52 @@
    "story": "3014e8bdb5a4"
   },
   {
+   "id": "c553ff2822bf",
+   "title": "MARDEC Berhad listed by orova ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/mardec-berhad-orova-33e3ffb7",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-03T09:51:40.914370+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "MARDEC Berhad",
+   "sector": "Manufacturing",
+   "site": "mardec.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-10T09:50:28.250768+00:00",
+   "story": "f2810c3f7a8a"
+  },
+  {
+   "id": "5446b73cdde0",
+   "title": "Astino Berhad listed by Qilin ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/astino-berhad-qilin-7dc80f65",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-03T09:51:40.914370+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Astino Berhad",
+   "sector": "Manufacturing",
+   "site": "astino.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-10T09:50:28.250768+00:00",
+   "story": "55782903226c"
+  },
+  {
    "id": "2bb7b925914e",
    "title": "Bright Property Service listed by Orova ransomware group",
    "url": "https://www.ransomware.live/group/Orova",
@@ -336,7 +382,7 @@
    "v": 2,
    "first_seen": "2026-11-03T15:08:08.317592+00:00",
    "alerted": true,
-   "story": "2bb7b925914e"
+   "story": "541f23715e69"
   },
   {
    "id": "3a92dea8e882",
@@ -884,6 +930,29 @@
    "story": "b64c027db1db"
   },
   {
+   "id": "5a87ba18d7c8",
+   "title": "Digital Triumph listed by n0n ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/digital-triumph-n0n-673bf490",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-01T09:51:40.914370+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "n0n",
+   "victim": "Digital Triumph",
+   "sector": "Technology",
+   "site": "digital-asia.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-10T09:50:28.250768+00:00",
+   "story": "8cda91d4a511"
+  },
+  {
    "id": "257deee12bac",
    "title": "'Our system not compromised despite vendor's cybersecurity breach', says Malaysian Airlines - The Star",
    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSDhLTWhLWWt2TDJlSHdlUzgwNFlQTzctdjh6emxjVHdadldnOUlYY2lGUDVCcmI5NFVMYTNyd2xXVVd5T1pMazJTWVRyR21FTGhhNnlwVXVHRWVVYmNkUC12dHh1WmxFcUFuSUtUdzZZNHZWSHZZaEU2eFZOUVhUZXRWbFZoTHZ0UWlhR0hhUFpQYTFyWkxUTjk2U3Zvb3RyeHQwZFMzMzl0bmdsbUNqUGtaLVlPSjhfdzlYaGswMkZ6Nzc4UnJzQndHcG5yMUhHN25xTDA3QUlRN2VSWmRN?oc=5",
@@ -1125,6 +1194,29 @@
    "first_seen": "2026-11-01T07:32:06.646577+00:00",
    "alerted": true,
    "story": "a5ff4bddf309"
+  },
+  {
+   "id": "43974689efab",
+   "title": "INTI International University & Colleges listed by rhysida ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/inti-international-university-colleges-rhysida-4c45e748",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-31T09:51:40.914370+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "rhysida",
+   "victim": "INTI International University & Colleges",
+   "sector": "Education",
+   "site": "newinti.edu.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-10T09:50:28.250768+00:00",
+   "story": "edc0573a704e"
   },
   {
    "id": "8cda91d4a511",
@@ -1938,12 +2030,35 @@
    "lang": "EN",
    "group": "lockbit",
    "victim": "ock.com.my",
-   "sector": "",
+   "sector": "Technology",
    "site": "ock.com.my",
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-19T15:36:06.173591+00:00",
    "story": "003ca19953da"
+  },
+  {
+   "id": "541f23715e69",
+   "title": "Bright Property Service listed by orova ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/bright-property-service-orova-b8b7771c",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-15T09:51:40.914370+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "Bright Property Service",
+   "sector": "Professional Services",
+   "site": "bpsm.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-10T09:50:28.250768+00:00",
+   "story": "541f23715e69"
   },
   {
    "id": "44f4dc1de27d",
@@ -2882,16 +2997,16 @@
   },
   {
    "id": "a423215b1936",
-   "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
-   "url": "https://www.ransomware.live/group/majinahanashi",
-   "source": "ransomware.live victims (MY)",
+   "title": "PCA Group Sdn. Bhd. listed by Majinahanashi ransomware group",
+   "url": "https://www.ransomware.live/group/Majinahanashi",
+   "source": "ransomware.live search: malaysia",
    "type": "Tracker",
    "trust": "Actor claim",
    "date": "2026-08-25T09:22:11.312472+00:00",
-   "snippet": "PUBLICATION SCHEDULED. [LEAK / 1844 FILES]",
+   "snippet": "PCA Group is a Malaysian industrial, engineering, and manufacturing company founded in 1989 that designs, manufactures, installs, and maintains infrastructure and equipment for major international...",
    "score": 6,
    "reasons": [
-    "Country = MY per tracker"
+    "Malaysian company name or .my domain"
    ],
    "lang": "EN",
    "group": "majinahanashi",
@@ -3157,15 +3272,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3173,31 +3288,31 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
-   "ok": true,
-   "count": 2,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": true,
-   "count": 6,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-10T01:31:35.248052+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3205,7 +3320,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3213,7 +3328,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3221,15 +3336,15 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Reddit r/MalaysianPF",
    "type": "Reddit",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
-   "last_ok": "2026-11-07T10:09:25.454268+00:00"
+   "error": "",
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "Reddit r/cybersecurity",
@@ -3245,7 +3360,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "The Record",
@@ -3253,7 +3368,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3261,7 +3376,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3269,7 +3384,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3277,15 +3392,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 0,
+   "count": 19,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3293,7 +3408,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3301,7 +3416,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3309,7 +3424,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3317,7 +3432,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3325,7 +3440,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3333,7 +3448,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3341,7 +3456,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-10T01:31:35.248052+00:00"
+   "last_ok": "2026-11-10T09:50:28.250768+00:00"
   }
  ],
  "cases": {},
