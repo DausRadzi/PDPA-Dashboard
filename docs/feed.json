@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T06:20:40.395889+00:00",
+ "generated": "2026-11-11T15:12:08.174220+00:00",
  "items": [
   {
    "id": "d2d774be2f6d",
@@ -397,7 +397,7 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-11-10T09:50:28.250768+00:00",
-   "story": "55782903226c"
+   "story": "cfd2934260ec"
   },
   {
    "id": "2bb7b925914e",
@@ -675,7 +675,30 @@
    "sector": "Manufacturing",
    "v": 2,
    "first_seen": "2026-11-02T23:30:16.004152+00:00",
-   "story": "55782903226c"
+   "story": "cfd2934260ec"
+  },
+  {
+   "id": "cfd2934260ec",
+   "title": "Astino Malaysia listed by Qilin ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/astino-malaysia-qilin-7dc80f65",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-02T15:13:47.320225+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "qilin",
+   "victim": "Astino Malaysia",
+   "sector": "Manufacturing",
+   "site": "astino.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-11T15:12:08.174220+00:00",
+   "story": "cfd2934260ec"
   },
   {
    "id": "55782903226c",
@@ -988,7 +1011,7 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-11-10T09:50:28.250768+00:00",
-   "story": "8cda91d4a511"
+   "story": "5db7fab09560"
   },
   {
    "id": "257deee12bac",
@@ -1232,6 +1255,29 @@
    "first_seen": "2026-11-01T07:32:06.646577+00:00",
    "alerted": true,
    "story": "a5ff4bddf309"
+  },
+  {
+   "id": "5db7fab09560",
+   "title": "Digital Group Of Companies listed by n0n ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/digital-group-of-companies-n0n-673bf490",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-31T15:13:47.320225+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "n0n",
+   "victim": "Digital Group Of Companies",
+   "sector": "Technology",
+   "site": "digital-asia.com",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-11T15:12:08.174220+00:00",
+   "story": "5db7fab09560"
   },
   {
    "id": "43974689efab",
@@ -1553,6 +1599,29 @@
    "story": "a3a371fc53a9"
   },
   {
+   "id": "0b73b3b55569",
+   "title": "Mah Sing listed by Scarlettgroup ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/mah-sing-scarlettgroup-604b1b78",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-26T15:13:47.320225+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "scarlettgroup",
+   "victim": "Mah Sing",
+   "sector": "Hospitality",
+   "site": "mahsing.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-11T15:12:08.174220+00:00",
+   "story": "9fb558cffae6"
+  },
+  {
    "id": "dc7377251fd6",
    "title": "mahsing.com.my listed by scarlettgroup ransomware group",
    "url": "https://www.ransomlook.io/group/scarlettgroup",
@@ -1619,6 +1688,29 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-28T21:39:08.776035+00:00",
+   "story": "a50447253c98"
+  },
+  {
+   "id": "6d6f4a54ba58",
+   "title": "Main Place Mall listed by krybit ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/main-place-mall-krybit-78dd50ee",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-24T15:13:47.320225+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "krybit",
+   "victim": "Main Place Mall",
+   "sector": "Retail & E-Commerce",
+   "site": "mainplace.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-11T15:12:08.174220+00:00",
    "story": "a50447253c98"
   },
   {
@@ -3310,7 +3402,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3318,7 +3410,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3326,23 +3418,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3350,7 +3442,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3358,7 +3450,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3366,7 +3458,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3381,7 +3473,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 403: Forbidden",
    "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
@@ -3398,7 +3490,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "The Record",
@@ -3406,7 +3498,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3414,7 +3506,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3422,7 +3514,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3430,7 +3522,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3438,7 +3530,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3446,7 +3538,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3454,7 +3546,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3462,7 +3554,7 @@
    "ok": true,
    "count": 28,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3470,7 +3562,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3478,7 +3570,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3486,7 +3578,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3494,7 +3586,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-11T06:20:40.395889+00:00"
+   "last_ok": "2026-11-11T15:12:08.174220+00:00"
   }
  ],
  "cases": {},
