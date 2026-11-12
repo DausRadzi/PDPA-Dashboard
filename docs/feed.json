@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T02:59:11.623059+00:00",
+ "generated": "2026-11-12T11:10:22.782850+00:00",
  "items": [
   {
    "id": "d2d774be2f6d",
@@ -3343,28 +3343,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "ec5ea8177b7e"
-  },
-  {
-   "id": "1acd2ea731f3",
-   "title": "The Coffee Bean listed by thegentlemen ransomware group",
-   "url": "https://www.ransomware.live/group/thegentlemen",
-   "source": "ransomware.live search: malaysia",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-14T05:58:30.837659+00:00",
-   "snippet": "coffeebean.com.my zoominfo.com/c/the-coffee-bean/425047768 The Coffee Bean & Tea Leaf Malaysia is the official digital portal for the popular cafe chain, which currently operates over 150 locations across the country. Th",
-   "score": 6,
-   "reasons": [
-    "Malaysian company name or .my domain"
-   ],
-   "lang": "EN",
-   "group": "thegentlemen",
-   "victim": "The Coffee Bean",
-   "site": "coffeebean.com.my",
-   "sector": "Retail & E-Commerce",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "1acd2ea731f3"
   }
  ],
  "health": [
@@ -3374,7 +3352,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3382,7 +3360,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3390,7 +3368,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3398,22 +3376,22 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": true,
-   "count": 1,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-12T02:59:11.623059+00:00"
   },
   {
@@ -3422,7 +3400,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3430,14 +3408,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "Reddit r/malaysia",
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 403: Forbidden",
    "last_ok": "2026-11-10T17:50:33.773344+00:00"
   },
   {
@@ -3462,7 +3440,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "The Record",
@@ -3470,7 +3448,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3478,7 +3456,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3486,7 +3464,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3494,7 +3472,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3502,7 +3480,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3510,7 +3488,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3518,15 +3496,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3534,7 +3512,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3542,7 +3520,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3550,15 +3528,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 14,
+   "count": 13,
    "error": "",
-   "last_ok": "2026-11-12T02:59:11.623059+00:00"
+   "last_ok": "2026-11-12T11:10:22.782850+00:00"
   }
  ],
  "cases": {},
