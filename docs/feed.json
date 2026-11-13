@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-13T07:57:49.409164+00:00",
+ "generated": "2026-11-13T16:24:06.980300+00:00",
  "items": [
+  {
+   "id": "8e3865db651c",
+   "title": "Ministry of Health Malaysia listed by panzer ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/ministry-of-health-malaysia-panzer-f09de623",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-13T16:25:43.710932+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "panzer",
+   "victim": "Ministry of Health Malaysia",
+   "sector": "Government & Defense",
+   "site": "",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-13T16:24:06.980300+00:00",
+   "story": "c4bec67c0594"
+  },
+  {
+   "id": "812cae4541d6",
+   "title": "Carsem listed by emperador ransomware group",
+   "url": "https://www.ransomware.live/group/emperador",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-13T11:23:06.967557+00:00",
+   "snippet": "Carsem is a leading provider of turnkey packaging and test services to the semiconductor industry, and offers one of the largest package and test portfolios in the world. Some samples of the leaked data will be made publ",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "emperador",
+   "victim": "Carsem",
+   "site": "",
+   "sector": "Manufacturing",
+   "v": 2,
+   "first_seen": "2026-11-13T16:24:06.980300+00:00",
+   "story": "812cae4541d6",
+   "alerted": true
+  },
   {
    "id": "c4bec67c0594",
    "title": "Ministry of Health Malaysia listed by Panzer ransomware group",
@@ -1247,7 +1293,7 @@
    "type": "News",
    "trust": "Media report",
    "date": "2026-11-01T02:51:00+00:00",
-   "snippet": "KUALA LUMPUR, Nov 1 — Malaysia Airlines has warned customers that some of their personal information may have been exposed in a cybersecurity incident at Amadeus, the ...",
+   "snippet": "KUALA LUMPUR, Nov 1 — Malaysia Airlines has warned customers that some of their personal information may have been exposed in a cybersecurity incident at Amadeus, the third-party technology provider ...",
    "score": 9,
    "reasons": [
     "mentions Malaysia",
@@ -1822,6 +1868,29 @@
    "story": "575b3f64658d"
   },
   {
+   "id": "3557a70073d3",
+   "title": "Wah Chan listed by orova ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/wah-chan-orova-902a7b7e",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-23T16:25:43.710932+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "Wah Chan",
+   "sector": "Other",
+   "site": "wahchan.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-13T16:24:06.980300+00:00",
+   "story": "575b3f64658d"
+  },
+  {
    "id": "e6d56eb00ca3",
    "title": "Wah Chan Consolidated Sdn Bhd listed by orova ransomware group",
    "url": "https://www.ransomlook.io/group/orova",
@@ -2184,6 +2253,52 @@
    "first_seen": "2026-10-16T21:08:39.603606+00:00",
    "alerted": true,
    "story": "003ca19953da"
+  },
+  {
+   "id": "77fab4424fc6",
+   "title": "OCK Group Berhad listed by lockbit ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/ock-group-berhad-lockbit-1feaa386",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-16T16:25:43.710932+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "lockbit",
+   "victim": "OCK Group Berhad",
+   "sector": "Technology",
+   "site": "ock.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-13T16:24:06.980300+00:00",
+   "story": "003ca19953da"
+  },
+  {
+   "id": "a23e2ddc443c",
+   "title": "CRASCENTIA PROPERTY MANAGEMENT SDN. BHD. listed by orova ransomware group",
+   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/crascentia-property-management-sdn-bhd-orova-b8b7771c",
+   "source": "SOCRadar ransomware (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-10-16T16:25:43.710932+00:00",
+   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
+   "score": 6,
+   "reasons": [
+    "Country = MY per SOCRadar"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "CRASCENTIA PROPERTY MANAGEMENT SDN. BHD.",
+   "sector": "Professional Services",
+   "site": "bpsm.com.my",
+   "approx": true,
+   "v": 2,
+   "first_seen": "2026-11-13T16:24:06.980300+00:00",
+   "story": "541f23715e69"
   },
   {
    "id": "003ca19953da",
@@ -3375,7 +3490,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3383,7 +3498,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3391,15 +3506,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3407,15 +3522,15 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3423,7 +3538,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3431,7 +3546,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3446,7 +3561,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 403: Forbidden",
    "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
@@ -3454,7 +3569,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 403: Forbidden",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3463,7 +3578,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "The Record",
@@ -3471,7 +3586,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3479,7 +3594,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3487,7 +3602,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3495,7 +3610,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3503,7 +3618,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3511,7 +3626,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3519,15 +3634,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3535,7 +3650,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3543,7 +3658,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3551,7 +3666,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3559,7 +3674,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-13T07:57:49.409164+00:00"
+   "last_ok": "2026-11-13T16:24:06.980300+00:00"
   }
  ],
  "cases": {},
