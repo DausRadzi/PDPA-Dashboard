@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-12T18:56:28.609465+00:00",
+ "generated": "2026-11-13T00:24:18.766304+00:00",
  "items": [
+  {
+   "id": "c4bec67c0594",
+   "title": "Ministry of Health Malaysia listed by Panzer ransomware group",
+   "url": "https://www.ransomware.live/group/Panzer",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-12T17:58:17.861886+00:00",
+   "snippet": "The Ministry of Health is a ministry of the Government of Malaysia that is responsible for health system including: health behavior, cancer, public health, health management, medical research, health systems research, re",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "panzer",
+   "victim": "Ministry of Health Malaysia",
+   "site": "",
+   "sector": "Government & Defense",
+   "v": 2,
+   "first_seen": "2026-11-13T00:24:18.766304+00:00",
+   "story": "c4bec67c0594",
+   "alerted": true
+  },
   {
    "id": "d2d774be2f6d",
    "title": "Cyber threats to Malaysia now extend beyond data theft to daily disruption, Nacsa says",
@@ -3350,9 +3373,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3360,7 +3383,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3368,23 +3391,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3392,7 +3415,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3400,7 +3423,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3408,14 +3431,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "Reddit r/malaysia",
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 403: Forbidden",
    "last_ok": "2026-11-10T17:50:33.773344+00:00"
   },
   {
@@ -3440,7 +3463,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "The Record",
@@ -3448,7 +3471,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3456,7 +3479,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3464,7 +3487,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3472,7 +3495,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3480,7 +3503,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3488,7 +3511,7 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3496,15 +3519,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3512,7 +3535,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3520,7 +3543,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3528,15 +3551,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 13,
+   "count": 14,
    "error": "",
-   "last_ok": "2026-11-12T18:56:28.609465+00:00"
+   "last_ok": "2026-11-13T00:24:18.766304+00:00"
   }
  ],
  "cases": {},
