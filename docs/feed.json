@@ -1,6 +1,28 @@
 {
- "generated": "2026-11-15T17:42:33.410710+00:00",
+ "generated": "2026-11-15T22:48:49.085893+00:00",
  "items": [
+  {
+   "id": "17dfb777967c",
+   "title": "pah.com.my listed by lockbit5 ransomware group",
+   "url": "https://www.ransomware.live/group/lockbit5",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-15T15:03:34.762752+00:00",
+   "snippet": "Penang Adventist Hospital (PAH), established in 1924 by American missionary Dr. J. Earl Gardner, is...",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "lockbit5",
+   "victim": "pah.com.my",
+   "site": "pah.com.my",
+   "sector": "Healthcare",
+   "v": 2,
+   "first_seen": "2026-11-15T22:48:49.085893+00:00",
+   "story": "379907b7b18a"
+  },
   {
    "id": "f00dfc3a2fd6",
    "title": "Kayaku Safety Systems Malaysia Sdn Bhd listed by qilin ransomware group",
@@ -3571,7 +3593,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3579,7 +3601,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3587,7 +3609,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3595,7 +3617,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3603,7 +3625,7 @@
    "ok": true,
    "count": 8,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3611,7 +3633,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3619,7 +3641,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3627,7 +3649,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3650,7 +3672,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 403: Forbidden",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3659,7 +3681,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "The Record",
@@ -3667,7 +3689,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3675,7 +3697,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3683,7 +3705,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3691,7 +3713,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3699,7 +3721,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3707,7 +3729,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3715,15 +3737,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 29,
+   "count": 30,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3731,7 +3753,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3739,7 +3761,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3747,7 +3769,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3755,7 +3777,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-15T17:42:33.410710+00:00"
+   "last_ok": "2026-11-15T22:48:49.085893+00:00"
   }
  ],
  "cases": {},
