@@ -1,6 +1,52 @@
 {
- "generated": "2026-11-16T11:17:34.101380+00:00",
+ "generated": "2026-11-16T22:01:28.479930+00:00",
  "items": [
+  {
+   "id": "c2410382b225",
+   "title": "BHIC Bofors Asia listed by incransom ransomware group",
+   "url": "https://www.ransomware.live/group/incransom",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-16T14:02:57.501370+00:00",
+   "snippet": "BHIC Bofors Asia Sdn Bhd (BBA) is a joint venture defense company based in Malaysia that provides maintenance, spare parts, and training support for Bofors naval weapon systems (such as the Bofors 40mm guns) used by the ",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "incransom",
+   "victim": "BHIC Bofors Asia",
+   "site": "",
+   "sector": "Government & Defense",
+   "v": 2,
+   "first_seen": "2026-11-16T22:01:28.479930+00:00",
+   "story": "c2410382b225",
+   "alerted": true
+  },
+  {
+   "id": "45ae4ec20852",
+   "title": "HappyFresh Group listed by N0n ransomware group",
+   "url": "https://www.ransomware.live/group/N0n",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-16T12:12:48.509982+00:00",
+   "snippet": "online grocery delivery · Kuala Lumpur, Malaysia | The write ahead log of a production order database of an online grocery delivery group: 131,658 distinct customer email addresses, 90,006 Indonesian mobile numbers and 3",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "n0n",
+   "victim": "HappyFresh Group",
+   "site": "",
+   "sector": "Retail & E-Commerce",
+   "v": 2,
+   "first_seen": "2026-11-16T22:01:28.479930+00:00",
+   "story": "45ae4ec20852",
+   "alerted": true
+  },
   {
    "id": "17dfb777967c",
    "title": "pah.com.my listed by lockbit5 ransomware group",
@@ -3517,29 +3563,7 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "f14d8770f812"
-  },
-  {
-   "id": "f14d8770f812",
-   "title": "SD Associates Sdn Bhd listed by inc ransom ransomware group",
-   "url": "https://www.ransomlook.io/group/inc%20ransom",
-   "source": "RansomLook (MY filter)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-18T15:30:17.102762+00:00",
-   "snippet": "",
-   "score": 4,
-   "reasons": [
-    "Malaysian organisation"
-   ],
-   "lang": "EN",
-   "group": "incransom",
-   "victim": "SD Associates Sdn Bhd",
-   "site": "",
-   "sector": "",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "f14d8770f812"
+   "story": "ee090a546568"
   }
  ],
  "health": [
@@ -3549,7 +3573,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3557,7 +3581,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3565,7 +3589,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3573,15 +3597,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 9,
+   "count": 7,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3589,7 +3613,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3597,7 +3621,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3605,7 +3629,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3637,7 +3661,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "The Record",
@@ -3645,7 +3669,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3653,7 +3677,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3661,7 +3685,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3669,7 +3693,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3677,15 +3701,15 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3693,15 +3717,15 @@
    "ok": true,
    "count": 14,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 29,
+   "count": 31,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3709,15 +3733,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3725,15 +3749,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 15,
+   "count": 17,
    "error": "",
-   "last_ok": "2026-11-16T11:17:34.101380+00:00"
+   "last_ok": "2026-11-16T22:01:28.479930+00:00"
   }
  ],
  "cases": {},
