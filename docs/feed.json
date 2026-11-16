@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:48:49.085893+00:00",
+ "generated": "2026-11-16T02:43:54.204234+00:00",
  "items": [
   {
    "id": "17dfb777967c",
@@ -3517,7 +3517,7 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "31fca24734cb"
+   "story": "f14d8770f812"
   },
   {
    "id": "f14d8770f812",
@@ -3539,51 +3539,7 @@
    "sector": "",
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "31fca24734cb"
-  },
-  {
-   "id": "e03bcd24ef8a",
-   "title": "SD Associates Sdn Bhd listed by incransom ransomware group",
-   "url": "https://www.ransomware.live/group/incransom",
-   "source": "ransomware.live search: sdn bhd",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-18T00:26:41.009418+00:00",
-   "snippet": "SD Associates (SDA) is a globally expanding company that prides itself in providing quality service to every client. We provide comprehensive professional project management and engineering consultancy services in divers",
-   "score": 6,
-   "reasons": [
-    "Malaysian company name or .my domain"
-   ],
-   "lang": "EN",
-   "group": "incransom",
-   "victim": "SD Associates Sdn Bhd",
-   "site": "sda-my.com",
-   "sector": "Not Found",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "31fca24734cb"
-  },
-  {
-   "id": "31fca24734cb",
-   "title": "SD Associates Sdn Bhd listed by incransom ransomware group",
-   "url": "https://cti.fyi/",
-   "source": "CTI.FYI (MY filter)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-18T00:02:21.763244+00:00",
-   "snippet": "",
-   "score": 4,
-   "reasons": [
-    "Malaysian organisation"
-   ],
-   "lang": "EN",
-   "group": "incransom",
-   "victim": "SD Associates Sdn Bhd",
-   "site": "",
-   "sector": "",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "31fca24734cb"
+   "story": "f14d8770f812"
   }
  ],
  "health": [
@@ -3593,7 +3549,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3601,7 +3557,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3609,22 +3565,22 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
-   "ok": true,
-   "count": 1,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
-   "ok": true,
-   "count": 8,
-   "error": "",
+   "ok": false,
+   "count": 0,
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-15T22:48:49.085893+00:00"
   },
   {
@@ -3633,7 +3589,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3641,7 +3597,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3649,7 +3605,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3672,7 +3628,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 403: Forbidden",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3681,7 +3637,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "The Record",
@@ -3689,7 +3645,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3697,7 +3653,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3705,7 +3661,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3713,7 +3669,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3721,7 +3677,7 @@
    "ok": true,
    "count": 19,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3729,23 +3685,23 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 15,
+   "count": 14,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 30,
+   "count": 29,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3753,15 +3709,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3769,7 +3725,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3777,7 +3733,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-15T22:48:49.085893+00:00"
+   "last_ok": "2026-11-16T02:43:54.204234+00:00"
   }
  ],
  "cases": {},
