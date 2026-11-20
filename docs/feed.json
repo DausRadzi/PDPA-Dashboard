@@ -1,6 +1,29 @@
 {
- "generated": "2026-11-19T21:34:07.238744+00:00",
+ "generated": "2026-11-20T03:15:25.979398+00:00",
  "items": [
+  {
+   "id": "6484050352ff",
+   "title": "Ban Lee Heng Motor (Melaka) Sdn. Bhd. listed by Climax Inc ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-20T00:06:48.139223+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "climaxinc",
+   "victim": "Ban Lee Heng Motor (Melaka) Sdn. Bhd.",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-11-20T03:15:25.979398+00:00",
+   "story": "6484050352ff",
+   "alerted": true
+  },
   {
    "id": "e0f19c0bc673",
    "title": "No large-scale cyberattack causing Malaysian data leak reported, says Fahmi - The Vibes",
@@ -3602,15 +3625,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Google News (BM)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3618,7 +3641,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3626,7 +3649,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3634,7 +3657,7 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3642,7 +3665,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3650,7 +3673,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3658,14 +3681,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "Reddit r/malaysia",
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "last_ok": "2026-11-10T17:50:33.773344+00:00"
   },
   {
@@ -3673,7 +3696,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-10T09:50:28.250768+00:00"
   },
   {
@@ -3690,7 +3713,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "The Record",
@@ -3698,7 +3721,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3706,7 +3729,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3714,7 +3737,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3722,7 +3745,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3730,7 +3753,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3738,15 +3761,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 14,
+   "count": 15,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3754,7 +3777,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3762,7 +3785,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3770,7 +3793,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3778,7 +3801,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3786,7 +3809,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "last_ok": "2026-11-19T21:34:07.238744+00:00"
+   "last_ok": "2026-11-20T03:15:25.979398+00:00"
   }
  ],
  "cases": {},
