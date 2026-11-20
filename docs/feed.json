@@ -1,6 +1,47 @@
 {
- "generated": "2026-11-20T03:15:25.979398+00:00",
+ "generated": "2026-11-20T12:53:32.766722+00:00",
  "items": [
+  {
+   "id": "dd75213863e1",
+   "title": "Petronas data leak trial: Forensic analyst defends chain-of-custody procedures - Daily Express Malaysia",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXJSQ1BTN1dBRG5yclJIME0tbUExQW1hNzI3RUI4RXVlNVZzUXd0bEVIdmlkMzBJMS13U21zMzBtU01TTEtkTVg2cTQwbkI3bXZRRXhpd0VKeFRkZGI4OG1DUldBcDluTXEwaW9HYXBvYVR0WFZWeVhHa1ZYd2xtSDY2M1JNU1UwWEhCbGJxeEtOcExGR1ZBcEI3VW1obk8ybmRKZW1hcXAydTdDRTkzR0tMYVZmSWNYLVYta2lGTQ?oc=5",
+   "source": "Daily Express Malaysia (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-20T12:35:03+00:00",
+   "snippet": "",
+   "score": 6,
+   "reasons": [
+    "Malaysian organisation",
+    "Watchlist: petronas"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-20T12:53:32.766722+00:00",
+   "story": "dd75213863e1",
+   "alerted": true
+  },
+  {
+   "id": "59c05fd703f3",
+   "title": "Ban Lee Heng Motor (Melaka) Sdn. Bhd. listed by Climax Inc ransomware group",
+   "url": "https://www.ransomware.live/group/Climax%20Inc",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-20T00:21:32.809118+00:00",
+   "snippet": "Sector: Automotive",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "climaxinc",
+   "victim": "Ban Lee Heng Motor (Melaka) Sdn. Bhd.",
+   "site": "banleeheng.com.my",
+   "sector": "Transportation",
+   "v": 2,
+   "first_seen": "2026-11-20T12:53:32.766722+00:00",
+   "story": "6484050352ff"
+  },
   {
    "id": "6484050352ff",
    "title": "Ban Lee Heng Motor (Melaka) Sdn. Bhd. listed by Climax Inc ransomware group",
@@ -21,8 +62,8 @@
    "sector": "",
    "v": 2,
    "first_seen": "2026-11-20T03:15:25.979398+00:00",
-   "story": "6484050352ff",
-   "alerted": true
+   "alerted": true,
+   "story": "6484050352ff"
   },
   {
    "id": "e0f19c0bc673",
@@ -3623,9 +3664,9 @@
    "name": "Google News (EN)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3633,7 +3674,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3641,7 +3682,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3649,7 +3690,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3657,14 +3698,14 @@
    "ok": true,
    "count": 7,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
@@ -3673,14 +3714,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "SoyaCincau",
    "type": "News",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "HTTP Error 403: Forbidden",
    "last_ok": "2026-11-20T03:15:25.979398+00:00"
   },
   {
@@ -3688,7 +3729,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-10T17:50:33.773344+00:00"
   },
   {
@@ -3704,7 +3745,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3713,7 +3754,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "The Record",
@@ -3721,7 +3762,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3729,7 +3770,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3737,7 +3778,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3745,7 +3786,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3753,7 +3794,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3761,7 +3802,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3769,15 +3810,15 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3785,7 +3826,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3793,7 +3834,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3801,7 +3842,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3809,7 +3850,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "last_ok": "2026-11-20T03:15:25.979398+00:00"
+   "last_ok": "2026-11-20T12:53:32.766722+00:00"
   }
  ],
  "cases": {},
