@@ -1,6 +1,23 @@
 {
- "generated": "2026-11-23T02:45:40.101936+00:00",
+ "generated": "2026-11-23T12:40:28.631922+00:00",
  "items": [
+  {
+   "id": "1168e5f96404",
+   "title": "PDPA Data Breach Notification Obligation 2026 - Global Advisory Experts",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ1dFYW9leXdtb2I3SXNIZWNFODVaeHlZVzFCeXY5emlFbndNOHd6SHg5Y0pjeGNvLS16UzFVREdBekVKc05aYjA5a1RZNHp4bEFLeGx0SGlXZWxjemVwQXJCVEd2SlJTd25uMko3UDRpaDRyVk5hc2lveWZRR084dXpjZEJkUUI2QjFMT2hPb3RLc0w5Y1pNT3R3?oc=5",
+   "source": "Global Advisory Experts (Google News)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-23T06:07:41+00:00",
+   "snippet": "",
+   "score": 3,
+   "reasons": [
+    "Malaysian regulator/law"
+   ],
+   "lang": "EN",
+   "first_seen": "2026-11-23T12:40:28.631922+00:00",
+   "story": "1168e5f96404"
+  },
   {
    "id": "8b482881d212",
    "title": "Ministry of Health Malaysia listed by Panzer ransomware group",
@@ -22,6 +39,29 @@
    "v": 2,
    "first_seen": "2026-11-23T02:45:40.101936+00:00",
    "story": "c4bec67c0594"
+  },
+  {
+   "id": "d09cb0affbc3",
+   "title": "Moreth listed by medusalocker ransomware group",
+   "url": "https://www.ransomware.live/group/medusalocker",
+   "source": "ransomware.live victims (MY)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-22T22:41:43.275087+00:00",
+   "snippet": "Organization with 13 emails extracted. Domain: moreth.com",
+   "score": 6,
+   "reasons": [
+    "Country = MY per tracker"
+   ],
+   "lang": "EN",
+   "group": "medusalocker",
+   "victim": "Moreth",
+   "site": "moreth.com",
+   "sector": "Not Found",
+   "v": 2,
+   "first_seen": "2026-11-23T12:40:28.631922+00:00",
+   "story": "d09cb0affbc3",
+   "alerted": true
   },
   {
    "id": "c42693acde9b",
@@ -1723,7 +1763,7 @@
    "id": "b64c027db1db",
    "title": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach",
    "url": "https://www.malaymail.com/news/malaysia/2026/11/01/malaysia-airlines-warns-customers-of-data-exposure-in-amadeus-cybersecurity-breach/241516",
-   "source": "Bing News (PDPA)",
+   "source": "Bing News (EN)",
    "type": "News",
    "trust": "Media report",
    "date": "2026-11-01T02:51:00+00:00",
@@ -2889,7 +2929,7 @@
    "v": 2,
    "first_seen": "2026-10-11T01:53:56.903682+00:00",
    "alerted": true,
-   "story": "a423215b1936"
+   "story": "97762cca4767"
   },
   {
    "id": "6008507af6c9",
@@ -3188,7 +3228,7 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "alerted": true,
-   "story": "a423215b1936"
+   "story": "97762cca4767"
   },
   {
    "id": "97e510ce8d4b",
@@ -3622,7 +3662,7 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "alerted": true,
-   "story": "a423215b1936"
+   "story": "97762cca4767"
   },
   {
    "id": "0cb5ae263390",
@@ -3691,52 +3731,6 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "story": "1b82231123cb"
-  },
-  {
-   "id": "93470c2ce90c",
-   "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
-   "url": "https://www.ransomlook.io/group/majinahanashi",
-   "source": "RansomLook (MY filter)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-25T11:26:27.679167+00:00",
-   "snippet": "",
-   "score": 4,
-   "reasons": [
-    "Malaysian organisation"
-   ],
-   "lang": "EN",
-   "group": "majinahanashi",
-   "victim": "PCA Group Sdn. Bhd.",
-   "site": "",
-   "sector": "",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "alerted": true,
-   "story": "a423215b1936"
-  },
-  {
-   "id": "a423215b1936",
-   "title": "PCA Group Sdn. Bhd. listed by Majinahanashi ransomware group",
-   "url": "https://www.ransomware.live/group/Majinahanashi",
-   "source": "ransomware.live search: malaysia",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-25T09:22:11.312472+00:00",
-   "snippet": "PCA Group is a Malaysian industrial, engineering, and manufacturing company founded in 1989 that designs, manufactures, installs, and maintains infrastructure and equipment for major international...",
-   "score": 6,
-   "reasons": [
-    "Malaysian company name or .my domain"
-   ],
-   "lang": "EN",
-   "group": "majinahanashi",
-   "victim": "PCA Group Sdn. Bhd.",
-   "site": "",
-   "sector": "Other",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "alerted": true,
-   "story": "a423215b1936"
   }
  ],
  "health": [
@@ -3746,7 +3740,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3754,23 +3748,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Google News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3778,7 +3772,7 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3786,7 +3780,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3794,7 +3788,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3802,7 +3796,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3825,7 +3819,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3834,7 +3828,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "The Record",
@@ -3842,7 +3836,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3850,7 +3844,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3858,7 +3852,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3866,7 +3860,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3874,15 +3868,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3890,7 +3884,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3898,7 +3892,7 @@
    "ok": true,
    "count": 31,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3906,7 +3900,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3914,7 +3908,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3922,15 +3916,15 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 16,
+   "count": 15,
    "error": "",
-   "last_ok": "2026-11-23T02:45:40.101936+00:00"
+   "last_ok": "2026-11-23T12:40:28.631922+00:00"
   }
  ],
  "cases": {},
