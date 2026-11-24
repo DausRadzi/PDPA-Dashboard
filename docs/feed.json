@@ -1,6 +1,25 @@
 {
- "generated": "2026-11-24T10:55:18.852850+00:00",
+ "generated": "2026-11-24T21:11:13.599869+00:00",
  "items": [
+  {
+   "id": "881069f6829e",
+   "title": "Serangan siber mampu lumpuhkan institusi negara",
+   "url": "https://www.utusan.com.my/nasional/2026/11/serangan-siber-mampu-lumpuhkan-institusi-negara/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-24T07:37:00+00:00",
+   "snippet": "KUALA LUMPUR: Ancaman serangan siber yang semakin meluas berisiko melumpuhkan sistem pentadbiran kerajaan dan institusi negara sekiranya tidak ditangani dengan pantas, canggih serta profesional. Mente ...",
+   "score": 4,
+   "reasons": [
+    "Malaysian place",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-24T10:55:18.852850+00:00",
+   "alerted": true,
+   "story": "881069f6829e"
+  },
   {
    "id": "e04efae01c90",
    "title": "Uzma Berhad: Integrated Energy, Unintegrated Security listed by leaknet ransomware group",
@@ -23,25 +42,6 @@
    "first_seen": "2026-11-24T00:50:45.261847+00:00",
    "alerted": true,
    "story": "e04efae01c90"
-  },
-  {
-   "id": "881069f6829e",
-   "title": "Serangan siber mampu lumpuhkan institusi negara",
-   "url": "https://www.utusan.com.my/nasional/2026/11/serangan-siber-mampu-lumpuhkan-institusi-negara/",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-11-23T17:35:00+00:00",
-   "snippet": "KUALA LUMPUR: Ancaman serangan siber yang semakin meluas berisiko melumpuhkan sistem pentadbiran kerajaan dan institusi negara sekiranya tidak ditangani dengan pantas, canggih serta profesional. Mente ...",
-   "score": 4,
-   "reasons": [
-    "Malaysian place",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-11-24T10:55:18.852850+00:00",
-   "story": "881069f6829e",
-   "alerted": true
   },
   {
    "id": "1168e5f96404",
@@ -461,6 +461,24 @@
    "v": 2,
    "first_seen": "2026-11-15T10:53:51.967183+00:00",
    "story": "50823cb77cb4"
+  },
+  {
+   "id": "c13eb4b21678",
+   "title": "Malaysia berdepan ribuan percubaan serangan siber setiap bulan – Anwar",
+   "url": "https://www.astroawani.com/berita-malaysia/malaysia-berdepan-ribuan-percubaan-serangan-siber-setiap-bulan--anwar",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-14T07:37:00+00:00",
+   "snippet": "Ancaman keselamatan ketika ini bukan sahaja melibatkan aspek ketenteraan konvensional, malah turut merangkumi serangan siber, penggodaman dan kegiatan pengganas.",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-24T21:11:13.599869+00:00",
+   "story": "e26514943c8c"
   },
   {
    "id": "e26514943c8c",
@@ -3768,29 +3786,7 @@
    "approx": true,
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "1b82231123cb"
-  },
-  {
-   "id": "1b82231123cb",
-   "title": "KenEp Resources listed by qilin ransomware group",
-   "url": "https://www.ransomware.live/group/qilin",
-   "source": "ransomware.live victims (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-26T18:57:05.704655+00:00",
-   "snippet": "N/A",
-   "score": 6,
-   "reasons": [
-    "Country = MY per tracker"
-   ],
-   "lang": "EN",
-   "group": "qilin",
-   "victim": "KenEp Resources",
-   "site": "www.kenep.com.my",
-   "sector": "Energy & Utilities",
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "1b82231123cb"
+   "story": "23d354ced91c"
   }
  ],
  "health": [
@@ -3800,7 +3796,7 @@
    "ok": true,
    "count": 2,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3808,15 +3804,15 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Google News (PDPA)",
    "type": "News",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3824,15 +3820,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 3,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3840,7 +3836,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3848,7 +3844,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3856,14 +3852,14 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "Reddit r/malaysia",
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-10T17:50:33.773344+00:00"
   },
   {
@@ -3888,7 +3884,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "The Record",
@@ -3896,7 +3892,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3904,7 +3900,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3912,7 +3908,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3920,7 +3916,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3928,7 +3924,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3936,7 +3932,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3944,15 +3940,15 @@
    "ok": true,
    "count": 17,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 31,
+   "count": 30,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3960,7 +3956,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3968,7 +3964,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3976,7 +3972,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3984,7 +3980,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-24T10:55:18.852850+00:00"
+   "last_ok": "2026-11-24T21:11:13.599869+00:00"
   }
  ],
  "cases": {},
