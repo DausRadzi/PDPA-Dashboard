@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T23:36:45.511479+00:00",
+ "generated": "2026-11-26T08:17:43.065434+00:00",
  "items": [
   {
    "id": "881069f6829e",
@@ -3007,7 +3007,7 @@
    "v": 2,
    "first_seen": "2026-10-11T01:53:56.903682+00:00",
    "alerted": true,
-   "story": "97762cca4767"
+   "story": "cd4f966a4217"
   },
   {
    "id": "6008507af6c9",
@@ -3306,7 +3306,7 @@
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
    "alerted": true,
-   "story": "97762cca4767"
+   "story": "cd4f966a4217"
   },
   {
    "id": "97e510ce8d4b",
@@ -3716,77 +3716,7 @@
    "sector": "Healthcare",
    "v": 2,
    "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "0cb5ae263390"
-  },
-  {
-   "id": "97762cca4767",
-   "title": "PCA Group Sdn. Bhd. listed by majinahanashi ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/pca-group-sdn-bhd-majinahanashi-a675d358",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-28T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
-   "reasons": [
-    "Country = MY per SOCRadar"
-   ],
-   "lang": "EN",
-   "group": "majinahanashi",
-   "victim": "PCA Group Sdn. Bhd.",
-   "sector": "Other",
-   "site": "pcagroup.com",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "alerted": true,
-   "story": "97762cca4767"
-  },
-  {
-   "id": "0cb5ae263390",
-   "title": "Care Clinics Group listed by Qilin ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/care-clinics-group-qilin-ffaba8cb",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-28T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
-   "reasons": [
-    "Country = MY per SOCRadar"
-   ],
-   "lang": "EN",
-   "group": "qilin",
-   "victim": "Care Clinics Group",
-   "sector": "Healthcare",
-   "site": "careclinics.com.my",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "0cb5ae263390"
-  },
-  {
-   "id": "23d354ced91c",
-   "title": "KenEp Resources (Asia) Sdn. Bhd. listed by Qilin ransomware group",
-   "url": "https://socradar.io/free-tools/ransomware-intelligence/victims/kenep-resources-asia-sdn-bhd-qilin-efbb0a87",
-   "source": "SOCRadar ransomware (MY)",
-   "type": "Tracker",
-   "trust": "Actor claim",
-   "date": "2026-08-28T02:09:40.020560+00:00",
-   "snippet": "Source: SOCRadar free ransomware tracker. Date is approximate (page shows relative age).",
-   "score": 6,
-   "reasons": [
-    "Country = MY per SOCRadar"
-   ],
-   "lang": "EN",
-   "group": "qilin",
-   "victim": "KenEp Resources (Asia) Sdn. Bhd.",
-   "sector": "Energy & Utilities",
-   "site": "kenep.com.my",
-   "approx": true,
-   "v": 2,
-   "first_seen": "2026-10-02T02:08:16.107722+00:00",
-   "story": "23d354ced91c"
+   "story": "5e85bb9b8821"
   }
  ],
  "health": [
@@ -3796,7 +3726,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3804,7 +3734,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3812,23 +3742,23 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3836,7 +3766,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3844,7 +3774,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3852,7 +3782,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3884,7 +3814,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "The Record",
@@ -3892,7 +3822,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3900,7 +3830,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3908,7 +3838,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3916,7 +3846,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3924,7 +3854,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3932,7 +3862,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3940,7 +3870,7 @@
    "ok": true,
    "count": 17,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3948,7 +3878,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3956,7 +3886,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3964,7 +3894,7 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3972,7 +3902,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3980,7 +3910,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-25T23:36:45.511479+00:00"
+   "last_ok": "2026-11-26T08:17:43.065434+00:00"
   }
  ],
  "cases": {},
