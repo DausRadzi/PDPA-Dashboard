@@ -1,6 +1,75 @@
 {
- "generated": "2026-11-26T08:17:43.065434+00:00",
+ "generated": "2026-11-26T18:59:53.977420+00:00",
  "items": [
+  {
+   "id": "c377877369be",
+   "title": "HealthMetrics Sdn Bhd listed by orova ransomware group",
+   "url": "https://www.ransomlook.io/group/orova",
+   "source": "RansomLook (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-26T16:23:40.737612+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "HealthMetrics Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-11-26T18:59:53.977420+00:00",
+   "story": "18a105998beb",
+   "alerted": true
+  },
+  {
+   "id": "3f5c8843e5ac",
+   "title": "HealthMetrics Sdn Bhd listed by Orova ransomware group",
+   "url": "https://cti.fyi/",
+   "source": "CTI.FYI (MY filter)",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-26T15:06:21.115336+00:00",
+   "snippet": "",
+   "score": 4,
+   "reasons": [
+    "Malaysian organisation"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "HealthMetrics Sdn Bhd",
+   "site": "",
+   "sector": "",
+   "v": 2,
+   "first_seen": "2026-11-26T18:59:53.977420+00:00",
+   "story": "18a105998beb",
+   "alerted": true
+  },
+  {
+   "id": "18a105998beb",
+   "title": "HealthMetrics Sdn Bhd listed by Orova ransomware group",
+   "url": "https://www.ransomware.live/group/Orova",
+   "source": "ransomware.live search: sdn bhd",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-26T13:52:08.430825+00:00",
+   "snippet": "Seamless and borderless access to healthcare across Southeast Asia with HealthMetrics. Streamline claims & guarantee letter issuance, connect to 15,000+ healthcare providers regionally, and manage benefits with real-time",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "orova",
+   "victim": "HealthMetrics Sdn Bhd",
+   "site": "healthmetrics.com",
+   "sector": "Healthcare",
+   "v": 2,
+   "first_seen": "2026-11-26T18:59:53.977420+00:00",
+   "story": "18a105998beb",
+   "alerted": true
+  },
   {
    "id": "881069f6829e",
    "title": "Serangan siber mampu lumpuhkan institusi negara",
@@ -3726,7 +3795,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3734,7 +3803,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3742,15 +3811,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "Bing News (EN)",
    "type": "News",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "Bing News (BM)",
@@ -3758,14 +3827,14 @@
    "ok": true,
    "count": 5,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "Bing News (PDPA)",
    "type": "News",
-   "ok": true,
+   "ok": false,
    "count": 0,
-   "error": "",
+   "error": "not well-formed (invalid token): line 1, column 41",
    "last_ok": "2026-11-26T08:17:43.065434+00:00"
   },
   {
@@ -3774,7 +3843,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3782,7 +3851,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3805,7 +3874,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 404: Not Found",
+   "error": "HTTP Error 429: Too Many Requests",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3814,7 +3883,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "The Record",
@@ -3822,7 +3891,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3830,7 +3899,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3838,7 +3907,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3846,7 +3915,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3854,23 +3923,23 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
    "type": "Tracker",
    "ok": true,
-   "count": 17,
+   "count": 18,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
@@ -3878,7 +3947,7 @@
    "ok": true,
    "count": 30,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3886,15 +3955,15 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
    "type": "Tracker",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
@@ -3902,7 +3971,7 @@
    "ok": true,
    "count": 4,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
@@ -3910,7 +3979,7 @@
    "ok": true,
    "count": 15,
    "error": "",
-   "last_ok": "2026-11-26T08:17:43.065434+00:00"
+   "last_ok": "2026-11-26T18:59:53.977420+00:00"
   }
  ],
  "cases": {},
