@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:10:16.508550+00:00",
+ "generated": "2026-11-27T10:51:43.815897+00:00",
  "items": [
   {
    "id": "c377877369be",
@@ -69,6 +69,29 @@
    "first_seen": "2026-11-26T18:59:53.977420+00:00",
    "alerted": true,
    "story": "18a105998beb"
+  },
+  {
+   "id": "8a863e27f4dd",
+   "title": "pacific-orient.com listed by BrainCipher ransomware group",
+   "url": "https://www.ransomware.live/group/BrainCipher",
+   "source": "ransomware.live search: malaysia",
+   "type": "Tracker",
+   "trust": "Actor claim",
+   "date": "2026-11-25T22:21:01.526123+00:00",
+   "snippet": "Pacific & Orient started as a private limited company in 1994. It acquired Pacific & Orient Insurance (P&O Insurance), one of the largest Malaysian general insurers, and then went on to be listed on the Main Market of th",
+   "score": 6,
+   "reasons": [
+    "Malaysian company name or .my domain"
+   ],
+   "lang": "EN",
+   "group": "braincipher",
+   "victim": "pacific-orient.com",
+   "site": "pacific-orient.com",
+   "sector": "Other",
+   "v": 2,
+   "first_seen": "2026-11-27T10:51:43.815897+00:00",
+   "story": "8a863e27f4dd",
+   "alerted": true
   },
   {
    "id": "881069f6829e",
@@ -693,6 +716,25 @@
    "story": "d2d774be2f6d"
   },
   {
+   "id": "8fae0fa8779e",
+   "title": "5,110 serangan siber, Malaysia kekal bertahan",
+   "url": "https://www.utusan.com.my/nasional/2026/11/5110-serangan-siber-malaysia-kekal-bertahan/",
+   "source": "Bing News (BM)",
+   "type": "News",
+   "trust": "Media report",
+   "date": "2026-11-09T14:50:00+00:00",
+   "snippet": "Walaupun Malaysia menerima 5,110 se­rangan siber sepanjang ta­hun ini, tetapi serangan tersebut berjaya ditangani dengan pantas ekoran tahap keselamatan digital negara mempunyai keupayaan menanganinya ...",
+   "score": 4,
+   "reasons": [
+    "mentions Malaysia",
+    "Bahasa Malaysia breach terms"
+   ],
+   "lang": "BM",
+   "first_seen": "2026-11-10T17:50:33.773344+00:00",
+   "alerted": true,
+   "story": "8fae0fa8779e"
+  },
+  {
    "id": "37f59d1246a9",
    "title": "Malaysia perlu tingkat waspada ancaman penggodam profesional, kata persatuan",
    "url": "https://www.freemalaysiatoday.com/category/bahasa/tempatan/2026/11/09/malaysia-perlu-tingkat-waspada-ancaman-penggodam-profesional-kata-persatuan",
@@ -728,25 +770,6 @@
    "lang": "EN",
    "first_seen": "2026-11-14T18:01:31.478622+00:00",
    "story": "906c14250d5f"
-  },
-  {
-   "id": "8fae0fa8779e",
-   "title": "5,110 serangan siber, Malaysia kekal bertahan",
-   "url": "https://www.utusan.com.my/nasional/2026/11/5110-serangan-siber-malaysia-kekal-bertahan/",
-   "source": "Bing News (BM)",
-   "type": "News",
-   "trust": "Media report",
-   "date": "2026-11-09T06:00:00+00:00",
-   "snippet": "Walaupun Malaysia menerima 5,110 se­rangan siber sepanjang ta­hun ini, tetapi serangan tersebut berjaya ditangani dengan pantas ekoran tahap keselamatan digital negara mempunyai keupayaan menanganinya ...",
-   "score": 4,
-   "reasons": [
-    "mentions Malaysia",
-    "Bahasa Malaysia breach terms"
-   ],
-   "lang": "BM",
-   "first_seen": "2026-11-10T17:50:33.773344+00:00",
-   "alerted": true,
-   "story": "8fae0fa8779e"
   },
   {
    "id": "906c14250d5f",
@@ -3795,7 +3818,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Google News (BM)",
@@ -3803,7 +3826,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Google News (PDPA)",
@@ -3811,7 +3834,7 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Bing News (EN)",
@@ -3819,15 +3842,15 @@
    "ok": true,
    "count": 1,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Bing News (BM)",
    "type": "News",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Bing News (PDPA)",
@@ -3835,7 +3858,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Lowyat.NET",
@@ -3843,7 +3866,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "SoyaCincau",
@@ -3851,7 +3874,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "Reddit r/malaysia",
@@ -3874,7 +3897,7 @@
    "type": "Reddit",
    "ok": false,
    "count": 0,
-   "error": "HTTP Error 429: Too Many Requests",
+   "error": "HTTP Error 404: Not Found",
    "last_ok": "2026-11-09T06:29:11.579296+00:00"
   },
   {
@@ -3883,7 +3906,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "The Record",
@@ -3891,7 +3914,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "SecurityWeek",
@@ -3899,7 +3922,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "The Hacker News",
@@ -3907,7 +3930,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "DataBreaches.net",
@@ -3915,7 +3938,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "SOCRadar ransomware (MY)",
@@ -3923,7 +3946,7 @@
    "ok": true,
    "count": 0,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "RansomLook (MY filter)",
@@ -3931,7 +3954,7 @@
    "ok": true,
    "count": 16,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "CTI.FYI (MY filter)",
@@ -3939,15 +3962,15 @@
    "ok": true,
    "count": 18,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "ransomware.live victims (MY)",
    "type": "Tracker",
    "ok": true,
-   "count": 30,
+   "count": 31,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "ransomware.live cyberattacks (MY)",
@@ -3955,7 +3978,7 @@
    "ok": true,
    "count": 3,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "ransomware.live search: sdn bhd",
@@ -3963,23 +3986,23 @@
    "ok": true,
    "count": 6,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "ransomware.live search: berhad",
    "type": "Tracker",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   },
   {
    "name": "ransomware.live search: malaysia",
    "type": "Tracker",
    "ok": true,
-   "count": 15,
+   "count": 16,
    "error": "",
-   "last_ok": "2026-11-27T02:10:16.508550+00:00"
+   "last_ok": "2026-11-27T10:51:43.815897+00:00"
   }
  ],
  "cases": {},
